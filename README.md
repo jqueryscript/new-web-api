@@ -33,8 +33,8 @@ _This document is automatically generated weekly._
 
 ### CSSNestedDeclarations
 
-- CSSNestedDeclarations (Chrome 130, Firefox 132, Safari 18.2)
-- CSSNestedDeclarations.style (Chrome 130, Firefox 132, Safari 18.2)
+- [CSSNestedDeclarations](https://developer.mozilla.org/docs/Web/API/CSSNestedDeclarations) (Chrome 130, Firefox 132, Safari 18.2)
+- [CSSNestedDeclarations.style](https://developer.mozilla.org/docs/Web/API/CSSNestedDeclarations/style) (Chrome 130, Firefox 132, Safari 18.2)
 
 ### CSSPropertyRule
 
@@ -87,6 +87,10 @@ _This document is automatically generated weekly._
 - [<code>EncodedVideoChunk()</code> constructor](https://developer.mozilla.org/docs/Web/API/EncodedVideoChunk/EncodedVideoChunk) (Chrome 94, Firefox 130, Safari 16.4)
 - [EncodedVideoChunk.timestamp](https://developer.mozilla.org/docs/Web/API/EncodedVideoChunk/timestamp) (Chrome 94, Firefox 130, Safari 16.4)
 - [EncodedVideoChunk.type](https://developer.mozilla.org/docs/Web/API/EncodedVideoChunk/type) (Chrome 94, Firefox 130, Safari 16.4)
+
+### fetch
+
+- <code>init.keepalive</code> parameter (Chrome 66, Firefox 133, Safari 13)
 
 ### HTMLDetailsElement
 
@@ -2413,10 +2417,10 @@ _This document is automatically generated weekly._
 
 - [DOMQuad](https://developer.mozilla.org/docs/Web/API/DOMQuad) (Chrome 61, Firefox 31, Safari 11)
 - [<code>DOMQuad()</code> constructor](https://developer.mozilla.org/docs/Web/API/DOMQuad/DOMQuad) (Chrome 61, Firefox 31, Safari 11)
-- DOMQuad.p1 (Chrome 61, Firefox 31, Safari 11)
-- DOMQuad.p2 (Chrome 61, Firefox 31, Safari 11)
-- DOMQuad.p3 (Chrome 61, Firefox 31, Safari 11)
-- DOMQuad.p4 (Chrome 61, Firefox 31, Safari 11)
+- [DOMQuad.p1](https://developer.mozilla.org/docs/Web/API/DOMQuad/p1) (Chrome 61, Firefox 31, Safari 11)
+- [DOMQuad.p2](https://developer.mozilla.org/docs/Web/API/DOMQuad/p2) (Chrome 61, Firefox 31, Safari 11)
+- [DOMQuad.p3](https://developer.mozilla.org/docs/Web/API/DOMQuad/p3) (Chrome 61, Firefox 31, Safari 11)
+- [DOMQuad.p4](https://developer.mozilla.org/docs/Web/API/DOMQuad/p4) (Chrome 61, Firefox 31, Safari 11)
 
 ### fetch
 
@@ -2467,10 +2471,6 @@ _This document is automatically generated weekly._
 
 - [HTMLDataElement](https://developer.mozilla.org/docs/Web/API/HTMLDataElement) (Chrome 62, Firefox 22, Safari 10)
 - [HTMLDataElement.value](https://developer.mozilla.org/docs/Web/API/HTMLDataElement/value) (Chrome 62, Firefox 22, Safari 10)
-
-### HTMLDetailsElement
-
-- [<code>toggle</code> event](https://developer.mozilla.org/docs/Web/API/HTMLDetailsElement/toggle_event) (Chrome 36, Firefox 49, Safari 10.1)
 
 ### HTMLTimeElement
 
@@ -2812,4 +2812,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1784
 
-Last updated: 2024-11-17
+Last updated: 2024-11-24
