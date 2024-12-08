@@ -1367,7 +1367,7 @@ _This document is automatically generated weekly._
 - [WebGL2RenderingContext.isTexture](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/isTexture) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.isTransformFeedback](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/isTransformFeedback) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.isVertexArray](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/isVertexArray) (Chrome 56, Firefox 51, Safari 15)
-- WebGL2RenderingContext.lineWidth (Chrome 56, Firefox 51, Safari 15)
+- [WebGL2RenderingContext.lineWidth](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/lineWidth) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.linkProgram](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/linkProgram) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.pauseTransformFeedback](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/pauseTransformFeedback) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.pixelStorei](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/pixelStorei) (Chrome 56, Firefox 51, Safari 15)
@@ -2812,4 +2812,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1784
 
-Last updated: 2024-12-01
+Last updated: 2024-12-08
