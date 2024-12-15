@@ -110,10 +110,17 @@ _This document is automatically generated weekly._
 
 - [MediaStreamTrack.getCapabilities](https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/getCapabilities) (Chrome 59, Firefox 132, Safari 11)
 
+### Permissions
+
+- <code>camera</code> permission (Chrome 64, Firefox 132, Safari 16)
+- <code>microphone</code> permission (Chrome 64, Firefox 132, Safari 16)
+
 ### PointerEvent
 
 - [PointerEvent.altitudeAngle](https://developer.mozilla.org/docs/Web/API/PointerEvent/altitudeAngle) (Chrome 86, Firefox 131, Safari 18.2)
 - [PointerEvent.azimuthAngle](https://developer.mozilla.org/docs/Web/API/PointerEvent/azimuthAngle) (Chrome 86, Firefox 131, Safari 18.2)
+- [PointerEvent.getCoalescedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getCoalescedEvents) (Chrome 58, Firefox 59, Safari 18.2)
+- [PointerEvent.getPredictedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getPredictedEvents) (Chrome 77, Firefox 89, Safari 18.2)
 
 ### RTCDataChannel
 
@@ -1148,10 +1155,6 @@ _This document is automatically generated weekly._
 
 - [PerformancePaintTiming](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming) (Chrome 60, Firefox 84, Safari 14.1)
 - [<code>first-contentful-paint</code> named entry](https://developer.mozilla.org/docs/Glossary/First_contentful_paint) (Chrome 60, Firefox 84, Safari 14.1)
-
-### PointerEvent
-
-- [PointerEvent.getPredictedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getPredictedEvents) (Chrome 77, Firefox 89, Safari 18.2)
 
 ### RTCRtpSender
 
@@ -2229,10 +2232,6 @@ _This document is automatically generated weekly._
 - Available in workers (Chrome 43, Firefox 60, Safari 12)
 - [PerformanceResourceTiming.workerStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/workerStart) (Chrome 46, Firefox 58, Safari 11)
 
-### PointerEvent
-
-- [PointerEvent.getCoalescedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getCoalescedEvents) (Chrome 58, Firefox 59, Safari 18.2)
-
 ### RTCDataChannel
 
 - [RTCDataChannel.maxPacketLifeTime](https://developer.mozilla.org/docs/Web/API/RTCDataChannel/maxPacketLifeTime) (Chrome 56, Firefox 62, Safari 11)
@@ -2810,6 +2809,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1784
+Total Web APIs tracked: 1786
 
-Last updated: 2024-12-08
+Last updated: 2024-12-15
