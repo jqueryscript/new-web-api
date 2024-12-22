@@ -2084,7 +2084,7 @@ _This document is automatically generated weekly._
 
 - [<code>DOMMatrixReadOnly()</code> constructor](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/DOMMatrixReadOnly) (Chrome 61, Firefox 62, Safari 11)
 - DOMMatrixReadOnly.isIdentity (Chrome 61, Firefox 59, Safari 11)
-- <code>toJSON()</code> (Chrome 61, Firefox 62, Safari 11)
+- [<code>toJSON()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toJSON) (Chrome 61, Firefox 62, Safari 11)
 
 ### DOMPoint
 
@@ -2363,7 +2363,7 @@ _This document is automatically generated weekly._
 - [DOMMatrixReadOnly.f](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [<code>flipX()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/flipX) (Chrome 61, Firefox 33, Safari 11)
 - <code>flipY()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>inverse()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>inverse()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/inverse) (Chrome 61, Firefox 33, Safari 11)
 - DOMMatrixReadOnly.is2D (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m11](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m12](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
@@ -2391,7 +2391,7 @@ _This document is automatically generated weekly._
 - <code>skewY()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>toFloat32Array()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>toFloat64Array()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>toString()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>toString()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toString) (Chrome 61, Firefox 33, Safari 11)
 - <code>transformPoint()</code> (Chrome 61, Firefox 33, Safari 11)
 - [<code>translate()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/translate) (Chrome 61, Firefox 33, Safari 11)
 
@@ -2811,4 +2811,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1786
 
-Last updated: 2024-12-15
+Last updated: 2024-12-22
