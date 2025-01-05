@@ -4,6 +4,16 @@ A comprehensive list of new Web APIs by year of general availability across majo
 
 _This document is automatically generated weekly._
 
+## 2025
+
+### PushManager
+
+- [<code>supportedContentEncodings</code> static property](https://developer.mozilla.org/docs/Web/API/PushManager/supportedContentEncodings_static) (Chrome 60, Firefox 134, Safari 16)
+
+### PushMessageData
+
+- [PushMessageData.bytes](https://developer.mozilla.org/docs/Web/API/PushMessageData/bytes) (Chrome 132, Firefox 128, Safari 18)
+
 ## 2024
 
 ### AbortSignal
@@ -1759,7 +1769,7 @@ _This document is automatically generated weekly._
 
 ### DOMPointReadOnly
 
-- <code>matrixTransform()</code> (Chrome 61, Firefox 69, Safari 11)
+- [<code>matrixTransform()</code>](https://developer.mozilla.org/docs/Web/API/DOMPointReadOnly/matrixTransform) (Chrome 61, Firefox 69, Safari 11)
 - Available in workers (Chrome 61, Firefox 69, Safari 10.1)
 
 ### DOMQuad
@@ -2389,10 +2399,10 @@ _This document is automatically generated weekly._
 - <code>scale3d()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>skewX()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>skewY()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>toFloat32Array()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>toFloat64Array()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>toFloat32Array()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toFloat32Array) (Chrome 61, Firefox 33, Safari 11)
+- [<code>toFloat64Array()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toFloat64Array) (Chrome 61, Firefox 33, Safari 11)
 - [<code>toString()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toString) (Chrome 61, Firefox 33, Safari 11)
-- <code>transformPoint()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>transformPoint()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/transformPoint) (Chrome 61, Firefox 33, Safari 11)
 - [<code>translate()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/translate) (Chrome 61, Firefox 33, Safari 11)
 
 ### DOMPoint
@@ -2809,6 +2819,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1786
+Total Web APIs tracked: 1788
 
-Last updated: 2024-12-29
+Last updated: 2025-01-05
