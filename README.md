@@ -14,6 +14,10 @@ _This document is automatically generated weekly._
 
 - [PushMessageData.bytes](https://developer.mozilla.org/docs/Web/API/PushMessageData/bytes) (Chrome 132, Firefox 128, Safari 18)
 
+### RTCStatsReport
+
+- <code>mid</code> in 'inbound-rtp' stats (Chrome 105, Firefox 135, Safari 17)
+
 ## 2024
 
 ### AbortSignal
@@ -104,7 +108,7 @@ _This document is automatically generated weekly._
 
 ### HTMLDetailsElement
 
-- [HTMLDetailsElement.name](https://developer.mozilla.org/docs/Web/API/HTMLDetailsElement/open) (Chrome 120, Firefox 130, Safari 17.2)
+- [HTMLDetailsElement.name](https://developer.mozilla.org/docs/Web/API/HTMLDetailsElement/name) (Chrome 120, Firefox 130, Safari 17.2)
 
 ### ImageCapture
 
@@ -131,6 +135,8 @@ _This document is automatically generated weekly._
 - [PointerEvent.azimuthAngle](https://developer.mozilla.org/docs/Web/API/PointerEvent/azimuthAngle) (Chrome 86, Firefox 131, Safari 18.2)
 - [PointerEvent.getCoalescedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getCoalescedEvents) (Chrome 58, Firefox 59, Safari 18.2)
 - [PointerEvent.getPredictedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getPredictedEvents) (Chrome 77, Firefox 89, Safari 18.2)
+- <code>options.altitudeAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
+- <code>options.azimuthAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 
 ### RTCDataChannel
 
@@ -550,6 +556,10 @@ _This document is automatically generated weekly._
 - [PublicKeyCredential.authenticatorAttachment](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/authenticatorAttachment) (Chrome 98, Firefox 120, Safari 15.5)
 - [<code>isConditionalMediationAvailable()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/isConditionalMediationAvailable_static) (Chrome 108, Firefox 119, Safari 16)
 
+### ReadableStreamDefaultReader
+
+- <code>releaseLock()</code> rejects pending read requests (Chrome 105, Firefox 102, Safari 17)
+
 ### Report
 
 - [Report](https://developer.mozilla.org/docs/Web/API/Report) (Chrome 69, Firefox 65, Safari 16.4)
@@ -866,40 +876,40 @@ _This document is automatically generated weekly._
 ### RTCStatsReport
 
 - [<code>codec</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#codec) (Chrome 80, Firefox 98, Safari 13.1)
-- <code>channels</code> in 'codec' stats (Chrome 83, Firefox 98, Safari 14.1)
-- <code>clockRate</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
-- <code>id</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
-- <code>mimeType</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
-- <code>payloadType</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
-- <code>sdpFmtpLine</code> in 'codec' stats (Chrome 83, Firefox 98, Safari 14)
-- <code>timestamp</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
-- <code>type</code> in 'codec' stats (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>channels</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/channels) (Chrome 83, Firefox 98, Safari 14.1)
+- [<code>clockRate</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/clockRate) (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>id</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/id) (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>mimeType</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/mimeType) (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>payloadType</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/payloadType) (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>sdpFmtpLine</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/sdpFmtpLine) (Chrome 83, Firefox 98, Safari 14)
+- [<code>timestamp</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/timestamp) (Chrome 80, Firefox 98, Safari 13.1)
+- [<code>type</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/type) (Chrome 80, Firefox 98, Safari 13.1)
 - <code>audioLevel</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
-- <code>codecId</code> in 'inbound-rtp' stats (Chrome 80, Firefox 98, Safari 15.2)
+- [<code>codecId</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/codecId) (Chrome 80, Firefox 98, Safari 15.2)
 - <code>concealedSamples</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
 - <code>concealmentEvents</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
-- <code>fecPacketsDiscarded</code> in 'inbound-rtp' stats (Chrome 81, Firefox 106, Safari 14.1)
-- <code>fecPacketsReceived</code> in 'inbound-rtp' stats (Chrome 81, Firefox 106, Safari 14.1)
+- [<code>fecPacketsDiscarded</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/fecPacketsDiscarded) (Chrome 81, Firefox 106, Safari 14.1)
+- [<code>fecPacketsReceived</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/fecPacketsReceived) (Chrome 81, Firefox 106, Safari 14.1)
 - <code>headerBytesReceived</code> in 'inbound-rtp' stats (Chrome 80, Firefox 106, Safari 14.1)
 - <code>insertedSamplesForDeceleration</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
 - <code>jitterBufferDelay</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
 - <code>jitterBufferEmittedCount</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
-- <code>lastPacketReceivedTimestamp</code> in 'inbound-rtp' stats (Chrome 80, Firefox 106, Safari 15.2)
+- [<code>lastPacketReceivedTimestamp</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/lastPacketReceivedTimestamp) (Chrome 80, Firefox 106, Safari 15.2)
 - <code>packetsDiscarded</code> in 'inbound-rtp' stats (Chrome 94, Firefox 96, Safari 15.4)
 - <code>removedSamplesForAcceleration</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
 - <code>silentConcealedSamples</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
 - <code>totalAudioEnergy</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
 - <code>totalSamplesDuration</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
 - <code>totalSamplesReceived</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
-- <code>codecId</code> in 'outbound-rtp' stats (Chrome 80, Firefox 98, Safari 11)
+- [<code>codecId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/codecId) (Chrome 80, Firefox 98, Safari 11)
 - <code>headerBytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
-- <code>nackCount</code> in 'outbound-rtp' stats (Chrome 93, Firefox 55, Safari 15.4)
-- <code>remoteId</code> in 'outbound-rtp' stats (Chrome 81, Firefox 27, Safari 15.3)
+- [<code>nackCount</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/nackCount) (Chrome 93, Firefox 55, Safari 15.4)
+- [<code>remoteId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/remoteId) (Chrome 81, Firefox 27, Safari 15.3)
 - <code>retransmittedBytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
 - <code>retransmittedPacketsSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
-- <code>codecId</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 98, Safari 11)
-- <code>roundTripTime</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 96, Safari 14.1)
-- <code>codecId</code> in 'remote-outbound-rtp' stats (Chrome 91, Firefox 98, Safari 11)
+- [<code>codecId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/codecId) (Chrome 80, Firefox 98, Safari 11)
+- [<code>roundTripTime</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/roundTripTime) (Chrome 80, Firefox 96, Safari 14.1)
+- [<code>codecId</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/codecId) (Chrome 91, Firefox 98, Safari 11)
 
 ### ServiceWorkerGlobalScope
 
@@ -1176,13 +1186,13 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
-- <code>id</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 72, Safari 14.1)
-- <code>localId</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 72, Safari 14.1)
-- <code>timestamp</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 72, Safari 14.1)
-- <code>type</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 72, Safari 14.1)
+- [<code>id</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 14.1)
+- [<code>localId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/localId) (Chrome 80, Firefox 72, Safari 14.1)
+- [<code>timestamp</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 14.1)
+- [<code>type</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 14.1)
 - [<code>remote-outbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_outbound_rtp) (Chrome 91, Firefox 27, Safari 11)
-- <code>kind</code> in 'remote-outbound-rtp' stats (Chrome 91, Firefox 63, Safari 14)
-- <code>ssrc</code> in 'remote-outbound-rtp' stats (Chrome 91, Firefox 27, Safari 11)
+- [<code>kind</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/kind) (Chrome 91, Firefox 63, Safari 14)
+- [<code>ssrc</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/ssrc) (Chrome 91, Firefox 27, Safari 11)
 
 ### SecurityPolicyViolationEvent
 
@@ -1256,8 +1266,8 @@ _This document is automatically generated weekly._
 - [WebGL2RenderingContext.blendFunc](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/blendFunc) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.blendFuncSeparate](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/blendFuncSeparate) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.blitFramebuffer](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/blitFramebuffer) (Chrome 56, Firefox 51, Safari 15)
-- [WebGL2RenderingContext.bufferData](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/bufferData) (Chrome 56, Firefox 51, Safari 15)
-- [WebGL2RenderingContext.bufferSubData](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/bufferSubData) (Chrome 56, Firefox 51, Safari 15)
+- [WebGL2RenderingContext.bufferData](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/bufferData) (Chrome 56, Firefox 51, Safari 15)
+- [WebGL2RenderingContext.bufferSubData](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/bufferSubData) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.canvas](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/canvas) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.checkFramebufferStatus](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/checkFramebufferStatus) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.clear](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/clear) (Chrome 56, Firefox 51, Safari 15)
@@ -1272,7 +1282,7 @@ _This document is automatically generated weekly._
 - [WebGL2RenderingContext.colorMask](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/colorMask) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.compileShader](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/compileShader) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.compressedTexImage2D](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/compressedTexImage2D) (Chrome 56, Firefox 51, Safari 15)
-- [WebGL2RenderingContext.compressedTexImage3D](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/compressedTexImage2D) (Chrome 56, Firefox 51, Safari 15)
+- [WebGL2RenderingContext.compressedTexImage3D](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/compressedTexImage3D) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.compressedTexSubImage2D](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/compressedTexSubImage2D) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.compressedTexSubImage3D](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/compressedTexSubImage3D) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.copyBufferSubData](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/copyBufferSubData) (Chrome 56, Firefox 51, Safari 15)
@@ -1435,7 +1445,7 @@ _This document is automatically generated weekly._
 - [WebGL2RenderingContext.uniform4ui](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniform) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.uniform4uiv](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniform) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.uniformBlockBinding](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniformBlockBinding) (Chrome 56, Firefox 51, Safari 15)
-- [WebGL2RenderingContext.uniformMatrix2fv](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/uniformMatrix) (Chrome 56, Firefox 51, Safari 15)
+- [WebGL2RenderingContext.uniformMatrix2fv](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniformMatrix) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.uniformMatrix2x3fv](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniformMatrix) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.uniformMatrix2x4fv](https://developer.mozilla.org/docs/Web/API/WebGL2RenderingContext/uniformMatrix) (Chrome 56, Firefox 51, Safari 15)
 - [WebGL2RenderingContext.uniformMatrix3fv](https://developer.mozilla.org/docs/Web/API/WebGLRenderingContext/uniformMatrix) (Chrome 56, Firefox 51, Safari 15)
@@ -1629,44 +1639,44 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
-- <code>id</code> in 'candidate-pair' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>timestamp</code> in 'candidate-pair' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>type</code> in 'candidate-pair' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>id</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/id) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>timestamp</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>type</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>data-channel</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#data_channel) (Chrome 80, Firefox 79, Safari 13.1)
-- <code>bytesReceived</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>bytesSent</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>id</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>label</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>messagesReceived</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>messagesSent</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>protocol</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>state</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>timestamp</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>type</code> in 'data-channel' stats (Chrome 80, Firefox 79, Safari 13.1)
-- <code>bytesReceived</code> in 'inbound-rtp' stats (Chrome 79, Firefox 27, Safari 13.1)
-- <code>id</code> in 'inbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>bytesReceived</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/bytesReceived) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>bytesSent</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/bytesSent) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>id</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/id) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>label</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/label) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>messagesReceived</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/messagesReceived) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>messagesSent</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/messagesSent) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>protocol</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/protocol) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>state</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/state) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>timestamp</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/timestamp) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>type</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/type) (Chrome 80, Firefox 79, Safari 13.1)
+- [<code>bytesReceived</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/bytesReceived) (Chrome 79, Firefox 27, Safari 13.1)
+- [<code>id</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - <code>jitter</code> in 'inbound-rtp' stats (Chrome 80, Firefox 27, Safari 13.1)
-- <code>kind</code> in 'inbound-rtp' stats (Chrome 80, Firefox 63, Safari 14)
+- [<code>kind</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
 - <code>packetsLost</code> in 'inbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
 - <code>packetsReceived</code> in 'inbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>ssrc</code> in 'inbound-rtp' stats (Chrome 80, Firefox 27, Safari 11)
-- <code>timestamp</code> in 'inbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>type</code> in 'inbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>ssrc</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
+- [<code>timestamp</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>type</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>local-candidate</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#local_candidate) (Chrome 80, Firefox 27, Safari 12.1)
-- <code>candidateType</code> in 'local-candidate' stats (Chrome 80, Firefox 27, Safari 12.1)
-- <code>id</code> in 'local-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>priority</code> in 'local-candidate' stats (Chrome 80, Firefox 72, Safari 12.1)
-- <code>timestamp</code> in 'local-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>transportId</code> in 'local-candidate' stats (Chrome 80, Firefox 31, Safari 12.1)
-- <code>type</code> in 'local-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>candidateType</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/candidateType) (Chrome 80, Firefox 27, Safari 12.1)
+- [<code>id</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/id) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>priority</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/priority) (Chrome 80, Firefox 72, Safari 12.1)
+- [<code>timestamp</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>transportId</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/transportId) (Chrome 80, Firefox 31, Safari 12.1)
+- [<code>type</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>outbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#outbound_rtp) (Chrome 80, Firefox 27, Safari 11)
 - <code>bytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>id</code> in 'outbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>kind</code> in 'outbound-rtp' stats (Chrome 80, Firefox 63, Safari 14)
+- [<code>id</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>kind</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
 - <code>packetsSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 27, Safari 13.1)
-- <code>ssrc</code> in 'outbound-rtp' stats (Chrome 80, Firefox 27, Safari 11)
-- <code>timestamp</code> in 'outbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
-- <code>type</code> in 'outbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>ssrc</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
+- [<code>timestamp</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>type</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>remote-candidate</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_candidate) (Chrome 80, Firefox 27, Safari 12.1)
 - <code>candidateType</code> in 'remote-candidate' stats (Chrome 80, Firefox 27, Safari 12.1)
 - <code>id</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
@@ -1675,8 +1685,8 @@ _This document is automatically generated weekly._
 - <code>transportId</code> in 'remote-candidate' stats (Chrome 80, Firefox 31, Safari 12.1)
 - <code>type</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>remote-inbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_inbound_rtp) (Chrome 80, Firefox 27, Safari 11)
-- <code>kind</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 63, Safari 14)
-- <code>ssrc</code> in 'remote-inbound-rtp' stats (Chrome 80, Firefox 27, Safari 11)
+- [<code>kind</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
+- [<code>ssrc</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
 
 ### ServiceWorkerGlobalScope
 
@@ -1744,11 +1754,11 @@ _This document is automatically generated weekly._
 - [CredentialsContainer.create.publicKey_option.attestation.enterprise](https://developer.mozilla.org/docs/Web/API/PublicKeyCredentialCreationOptions#enterprise) (Chrome 67, Firefox 60, Safari 13)
 - [CredentialsContainer.create.publicKey_option.attestation.indirect](https://developer.mozilla.org/docs/Web/API/PublicKeyCredentialCreationOptions#indirect) (Chrome 67, Firefox 60, Safari 13)
 - [CredentialsContainer.create.publicKey_option.attestation.none](https://developer.mozilla.org/docs/Web/API/PublicKeyCredentialCreationOptions#none) (Chrome 67, Firefox 60, Safari 13)
-- <code>create()</code> extensions (Chrome 67, Firefox 60, Safari 13)
+- [<code>create()</code> extensions](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions) (Chrome 67, Firefox 60, Safari 13)
 - [<code>appidExclude</code> extension](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions#appidexclude) (Chrome 67, Firefox 60, Safari 13)
 - [CredentialsContainer.get](https://developer.mozilla.org/docs/Web/API/CredentialsContainer/get) (Chrome 51, Firefox 60, Safari 13)
 - <code>publicKey</code> option (Chrome 67, Firefox 60, Safari 13)
-- <code>get()</code> extensions (Chrome 67, Firefox 60, Safari 13)
+- [<code>get()</code> extensions](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions) (Chrome 67, Firefox 60, Safari 13)
 - <code>appid</code> extension (Chrome 67, Firefox 60, Safari 13)
 - [CredentialsContainer.store](https://developer.mozilla.org/docs/Web/API/CredentialsContainer/store) (Chrome 51, Firefox 60, Safari 13)
 
@@ -1947,7 +1957,7 @@ _This document is automatically generated weekly._
 ### PublicKeyCredential
 
 - [PublicKeyCredential](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential) (Chrome 67, Firefox 60, Safari 13)
-- [PublicKeyCredential.getClientExtensionResults](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientExtensionResults) (Chrome 67, Firefox 60, Safari 13)
+- [<code>getClientExtensionResults()</code> method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientExtensionResults) (Chrome 67, Firefox 60, Safari 13)
 - [<code>isUserVerifyingPlatformAuthenticatorAvailable()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/isUserVerifyingPlatformAuthenticatorAvailable_static) (Chrome 67, Firefox 60, Safari 13)
 - [PublicKeyCredential.rawId](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/rawId) (Chrome 67, Firefox 60, Safari 13)
 - [PublicKeyCredential.response](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/response) (Chrome 67, Firefox 60, Safari 13)
@@ -2372,7 +2382,7 @@ _This document is automatically generated weekly._
 - [DOMMatrixReadOnly.e](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.f](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [<code>flipX()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/flipX) (Chrome 61, Firefox 33, Safari 11)
-- <code>flipY()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>flipY()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/flipY) (Chrome 61, Firefox 33, Safari 11)
 - [<code>inverse()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/inverse) (Chrome 61, Firefox 33, Safari 11)
 - DOMMatrixReadOnly.is2D (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m11](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
@@ -2641,12 +2651,12 @@ _This document is automatically generated weekly._
 - [RTCStatsReport.keys](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/keys) (Chrome 58, Firefox 48, Safari 11)
 - [RTCStatsReport.size](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/size) (Chrome 59, Firefox 48, Safari 11)
 - [<code>candidate-pair</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#canditate_pair) (Chrome 58, Firefox 29, Safari 11)
-- <code>bytesReceived</code> in 'candidate-pair' stats (Chrome 58, Firefox 56, Safari 11)
-- <code>bytesSent</code> in 'candidate-pair' stats (Chrome 58, Firefox 56, Safari 11)
-- <code>localCandidateId</code> in 'candidate-pair' stats (Chrome 58, Firefox 29, Safari 11)
-- <code>nominated</code> in 'candidate-pair' stats (Chrome 58, Firefox 56, Safari 11)
-- <code>remoteCandidateId</code> in 'candidate-pair' stats (Chrome 58, Firefox 29, Safari 11)
-- <code>state</code> in 'candidate-pair' stats (Chrome 58, Firefox 29, Safari 11)
+- [<code>bytesReceived</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesReceived) (Chrome 58, Firefox 56, Safari 11)
+- [<code>bytesSent</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesSent) (Chrome 58, Firefox 56, Safari 11)
+- [<code>localCandidateId</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/localCandidateId) (Chrome 58, Firefox 29, Safari 11)
+- [<code>nominated</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/nominated) (Chrome 58, Firefox 56, Safari 11)
+- [<code>remoteCandidateId</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/remoteCandidateId) (Chrome 58, Firefox 29, Safari 11)
+- [<code>state</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/state) (Chrome 58, Firefox 29, Safari 11)
 - [RTCStatsReport.values](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/values) (Chrome 58, Firefox 48, Safari 11)
 
 ### RTCTrackEvent
@@ -2819,6 +2829,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1788
+Total Web APIs tracked: 1792
 
-Last updated: 2025-01-05
+Last updated: 2025-01-12
