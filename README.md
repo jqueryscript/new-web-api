@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2025
 
+### PublicKeyCredential
+
+- <code>getClientCapabilities()</code> static method (Chrome 133, Firefox 135, Safari 17.4)
+
 ### PushManager
 
 - [<code>supportedContentEncodings</code> static property](https://developer.mozilla.org/docs/Web/API/PushManager/supportedContentEncodings_static) (Chrome 60, Firefox 134, Safari 16)
@@ -36,7 +40,7 @@ _This document is automatically generated weekly._
 ### ClipboardItem
 
 - [ClipboardItem](https://developer.mozilla.org/docs/Web/API/ClipboardItem) (Chrome 76, Firefox 127, Safari 13.1)
-- [ClipboardItem.getType](https://developer.mozilla.org/docs/Web/API/ClipboardItem/getType) (Chrome 76, Firefox 127, Safari 13.1)
+- [<code>getType()</code> method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/getType) (Chrome 76, Firefox 127, Safari 13.1)
 - [ClipboardItem.types](https://developer.mozilla.org/docs/Web/API/ClipboardItem/types) (Chrome 76, Firefox 127, Safari 13.1)
 
 ### ContentVisibilityAutoStateChangeEvent
@@ -2401,7 +2405,7 @@ _This document is automatically generated weekly._
 - [DOMMatrixReadOnly.m42](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m43](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m44](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
-- <code>multiply()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>multiply()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/multiply) (Chrome 61, Firefox 33, Safari 11)
 - <code>rotate()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>rotateAxisAngle()</code> (Chrome 61, Firefox 33, Safari 11)
 - <code>rotateFromVector()</code> (Chrome 61, Firefox 33, Safari 11)
@@ -2829,6 +2833,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1792
+Total Web APIs tracked: 1793
 
-Last updated: 2025-01-12
+Last updated: 2025-01-19
