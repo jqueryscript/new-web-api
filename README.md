@@ -20,7 +20,7 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
-- <code>mid</code> in 'inbound-rtp' stats (Chrome 105, Firefox 135, Safari 17)
+- [<code>mid</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/mid) (Chrome 105, Firefox 135, Safari 17)
 
 ## 2024
 
@@ -940,6 +940,7 @@ _This document is automatically generated weekly._
 
 - [SpeechSynthesisEvent.charLength](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/charLength) (Chrome 77, Firefox 53, Safari 16)
 - [<code>SpeechSynthesisEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/SpeechSynthesisEvent) (Chrome 71, Firefox 49, Safari 16)
+- [SpeechSynthesisEvent.utterance](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/utterance) (Chrome 33, Firefox 49, Safari 16)
 
 ### structuredClone
 
@@ -2107,7 +2108,7 @@ _This document is automatically generated weekly._
 ### DOMMatrixReadOnly
 
 - [<code>DOMMatrixReadOnly()</code> constructor](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/DOMMatrixReadOnly) (Chrome 61, Firefox 62, Safari 11)
-- DOMMatrixReadOnly.isIdentity (Chrome 61, Firefox 59, Safari 11)
+- [DOMMatrixReadOnly.isIdentity](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/isIdentity) (Chrome 61, Firefox 59, Safari 11)
 - [<code>toJSON()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toJSON) (Chrome 61, Firefox 62, Safari 11)
 
 ### DOMPoint
@@ -2388,7 +2389,7 @@ _This document is automatically generated weekly._
 - [<code>flipX()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/flipX) (Chrome 61, Firefox 33, Safari 11)
 - [<code>flipY()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/flipY) (Chrome 61, Firefox 33, Safari 11)
 - [<code>inverse()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/inverse) (Chrome 61, Firefox 33, Safari 11)
-- DOMMatrixReadOnly.is2D (Chrome 61, Firefox 33, Safari 11)
+- [DOMMatrixReadOnly.is2D](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/is2D) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m11](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m12](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m13](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
@@ -2796,7 +2797,6 @@ _This document is automatically generated weekly._
 - [SpeechSynthesisEvent.elapsedTime](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/elapsedTime) (Chrome 33, Firefox 49, Safari 7)
 - <code>elapsedTime</code> in milliseconds (Chrome 33, Firefox 49, Safari 7)
 - [SpeechSynthesisEvent.name](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/name) (Chrome 33, Firefox 49, Safari 7)
-- [SpeechSynthesisEvent.utterance](https://developer.mozilla.org/docs/Web/API/SpeechSynthesisEvent/utterance) (Chrome 33, Firefox 49, Safari 7)
 
 ### SpeechSynthesisUtterance
 
@@ -2835,4 +2835,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1793
 
-Last updated: 2025-01-19
+Last updated: 2025-01-26
