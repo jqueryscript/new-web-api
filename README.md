@@ -849,6 +849,10 @@ _This document is automatically generated weekly._
 - [ReadableStream.pipeThrough](https://developer.mozilla.org/docs/Web/API/ReadableStream/pipeThrough) (Chrome 59, Firefox 102, Safari 10.1)
 - [ReadableStream.pipeTo](https://developer.mozilla.org/docs/Web/API/ReadableStream/pipeTo) (Chrome 59, Firefox 100, Safari 10.1)
 
+### ReadableStreamDefaultReader
+
+- [<code>ReadableStreamDefaultReader()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReadableStreamDefaultReader/ReadableStreamDefaultReader) (Chrome 78, Firefox 100, Safari 10)
+
 ### reportError
 
 - [reportError](https://developer.mozilla.org/docs/Web/API/Window/reportError) (Chrome 95, Firefox 93, Safari 15.4)
@@ -2346,8 +2350,8 @@ _This document is automatically generated weekly._
 
 - [ShadowRoot](https://developer.mozilla.org/docs/Web/API/ShadowRoot) (Chrome 53, Firefox 63, Safari 10)
 - [ShadowRoot.activeElement](https://developer.mozilla.org/docs/Web/API/ShadowRoot/activeElement) (Chrome 53, Firefox 63, Safari 10)
-- ShadowRoot.elementFromPoint (Chrome 53, Firefox 63, Safari 10.1)
-- ShadowRoot.elementsFromPoint (Chrome 53, Firefox 63, Safari 11.1)
+- [ShadowRoot.elementFromPoint](https://developer.mozilla.org/docs/Web/API/ShadowRoot/elementFromPoint) (Chrome 53, Firefox 63, Safari 10.1)
+- [ShadowRoot.elementsFromPoint](https://developer.mozilla.org/docs/Web/API/ShadowRoot/elementsFromPoint) (Chrome 53, Firefox 63, Safari 11.1)
 - [ShadowRoot.host](https://developer.mozilla.org/docs/Web/API/ShadowRoot/host) (Chrome 53, Firefox 63, Safari 10)
 - [ShadowRoot.innerHTML](https://developer.mozilla.org/docs/Web/API/ShadowRoot/innerHTML) (Chrome 53, Firefox 63, Safari 10)
 - [ShadowRoot.mode](https://developer.mozilla.org/docs/Web/API/ShadowRoot/mode) (Chrome 53, Firefox 63, Safari 10.1)
@@ -2407,13 +2411,13 @@ _This document is automatically generated weekly._
 - [DOMMatrixReadOnly.m43](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [DOMMatrixReadOnly.m44](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly#instance_properties) (Chrome 61, Firefox 33, Safari 11)
 - [<code>multiply()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/multiply) (Chrome 61, Firefox 33, Safari 11)
-- <code>rotate()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>rotateAxisAngle()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>rotateFromVector()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>rotate()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/rotate) (Chrome 61, Firefox 33, Safari 11)
+- [<code>rotateAxisAngle()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/rotateAxisAngle) (Chrome 61, Firefox 33, Safari 11)
+- [<code>rotateFromVector()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/rotateFromVector) (Chrome 61, Firefox 33, Safari 11)
 - [<code>scale()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/scale) (Chrome 61, Firefox 33, Safari 11)
-- <code>scale3d()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>skewX()</code> (Chrome 61, Firefox 33, Safari 11)
-- <code>skewY()</code> (Chrome 61, Firefox 33, Safari 11)
+- [<code>scale3d()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/scale3d) (Chrome 61, Firefox 33, Safari 11)
+- [<code>skewX()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/skewX) (Chrome 61, Firefox 33, Safari 11)
+- [<code>skewY()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/skewY) (Chrome 61, Firefox 33, Safari 11)
 - [<code>toFloat32Array()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toFloat32Array) (Chrome 61, Firefox 33, Safari 11)
 - [<code>toFloat64Array()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toFloat64Array) (Chrome 61, Firefox 33, Safari 11)
 - [<code>toString()</code>](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/toString) (Chrome 61, Firefox 33, Safari 11)
@@ -2610,7 +2614,6 @@ _This document is automatically generated weekly._
 - [PerformanceResourceTiming.redirectStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/redirectStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.requestStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/requestStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.responseEnd](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/responseEnd) (Chrome 43, Firefox 35, Safari 11)
-- [PerformanceResourceTiming.responseStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/responseStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.secureConnectionStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/secureConnectionStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/toJSON) (Chrome 45, Firefox 35, Safari 11)
 
@@ -2835,4 +2838,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1793
 
-Last updated: 2025-01-26
+Last updated: 2025-02-02
