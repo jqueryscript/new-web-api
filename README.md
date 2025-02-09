@@ -8,7 +8,7 @@ _This document is automatically generated weekly._
 
 ### PublicKeyCredential
 
-- <code>getClientCapabilities()</code> static method (Chrome 133, Firefox 135, Safari 17.4)
+- [<code>getClientCapabilities()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientCapabilities_static) (Chrome 133, Firefox 135, Safari 17.4)
 
 ### PushManager
 
@@ -2614,6 +2614,7 @@ _This document is automatically generated weekly._
 - [PerformanceResourceTiming.redirectStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/redirectStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.requestStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/requestStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.responseEnd](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/responseEnd) (Chrome 43, Firefox 35, Safari 11)
+- [PerformanceResourceTiming.responseStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/responseStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.secureConnectionStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/secureConnectionStart) (Chrome 43, Firefox 35, Safari 11)
 - [PerformanceResourceTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/toJSON) (Chrome 45, Firefox 35, Safari 11)
 
@@ -2836,6 +2837,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1793
+Total Web APIs tracked: 1794
 
-Last updated: 2025-02-02
+Last updated: 2025-02-09
