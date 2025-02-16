@@ -910,11 +910,11 @@ _This document is automatically generated weekly._
 - <code>totalSamplesDuration</code> in 'inbound-rtp' stats (Chrome 86, Firefox 106, Safari 14.1)
 - <code>totalSamplesReceived</code> in 'inbound-rtp' stats (Chrome 86, Firefox 104, Safari 14.1)
 - [<code>codecId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/codecId) (Chrome 80, Firefox 98, Safari 11)
-- <code>headerBytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
+- [<code>headerBytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/headerBytesSent) (Chrome 80, Firefox 100, Safari 14.1)
 - [<code>nackCount</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/nackCount) (Chrome 93, Firefox 55, Safari 15.4)
 - [<code>remoteId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/remoteId) (Chrome 81, Firefox 27, Safari 15.3)
-- <code>retransmittedBytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
-- <code>retransmittedPacketsSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 100, Safari 14.1)
+- [<code>retransmittedBytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/retransmittedBytesSent) (Chrome 80, Firefox 100, Safari 14.1)
+- [<code>retransmittedPacketsSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/retransmittedPacketsSent) (Chrome 80, Firefox 100, Safari 14.1)
 - [<code>codecId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/codecId) (Chrome 80, Firefox 98, Safari 11)
 - [<code>roundTripTime</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/roundTripTime) (Chrome 80, Firefox 96, Safari 14.1)
 - [<code>codecId</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/codecId) (Chrome 91, Firefox 98, Safari 11)
@@ -1679,10 +1679,10 @@ _This document is automatically generated weekly._
 - [<code>transportId</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/transportId) (Chrome 80, Firefox 31, Safari 12.1)
 - [<code>type</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>outbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#outbound_rtp) (Chrome 80, Firefox 27, Safari 11)
-- <code>bytesSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>bytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/bytesSent) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>id</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>kind</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
-- <code>packetsSent</code> in 'outbound-rtp' stats (Chrome 80, Firefox 27, Safari 13.1)
+- [<code>packetsSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/packetsSent) (Chrome 80, Firefox 27, Safari 13.1)
 - [<code>ssrc</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
 - [<code>timestamp</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>type</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 13.1)
@@ -2839,4 +2839,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1794
 
-Last updated: 2025-02-09
+Last updated: 2025-02-16
