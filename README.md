@@ -109,6 +109,7 @@ _This document is automatically generated weekly._
 ### fetch
 
 - <code>init.keepalive</code> parameter (Chrome 66, Firefox 133, Safari 13)
+- <code>init.priority</code> parameter (Chrome 101, Firefox 132, Safari 17.2)
 
 ### HTMLDetailsElement
 
@@ -2837,6 +2838,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1794
+Total Web APIs tracked: 1795
 
-Last updated: 2025-02-16
+Last updated: 2025-02-23
