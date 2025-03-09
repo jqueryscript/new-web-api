@@ -24,6 +24,16 @@ _This document is automatically generated weekly._
 - [CookieStore.set](https://developer.mozilla.org/docs/Web/API/CookieStore/set) (Chrome 87, Firefox 136, Safari 18.4)
 - <code>partitioned</code> option (Chrome 114, Firefox 136, Safari 18.4)
 
+### ElementInternals
+
+- ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaControlsElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaDescribedByElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaDetailsElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaErrorMessageElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaFlowToElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaLabelledByElements (Chrome 135, Firefox 137, Safari 16.4)
+
 ### PublicKeyCredential
 
 - [<code>getClientCapabilities()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientCapabilities_static) (Chrome 133, Firefox 135, Safari 17.4)
@@ -2879,6 +2889,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1818
+Total Web APIs tracked: 1825
 
-Last updated: 2025-03-02
+Last updated: 2025-03-09
