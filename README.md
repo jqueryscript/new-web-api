@@ -26,13 +26,13 @@ _This document is automatically generated weekly._
 
 ### ElementInternals
 
-- ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaControlsElements (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaDescribedByElements (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaDetailsElements (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaErrorMessageElements (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaFlowToElements (Chrome 135, Firefox 137, Safari 16.4)
-- ElementInternals.ariaLabelledByElements (Chrome 135, Firefox 137, Safari 16.4)
+- ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaControlsElements (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaDescribedByElements (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaDetailsElements (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaErrorMessageElements (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaFlowToElements (Chrome 135, Firefox 136, Safari 16.4)
+- ElementInternals.ariaLabelledByElements (Chrome 135, Firefox 136, Safari 16.4)
 
 ### PublicKeyCredential
 
@@ -2891,4 +2891,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 1825
 
-Last updated: 2025-03-09
+Last updated: 2025-03-16
