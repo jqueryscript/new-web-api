@@ -6,24 +6,6 @@ _This document is automatically generated weekly._
 
 ## 2025
 
-### CookieChangeEvent
-
-- [CookieChangeEvent](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent) (Chrome 87, Firefox 136, Safari 18.4)
-- [CookieChangeEvent.changed](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/changed) (Chrome 87, Firefox 136, Safari 18.4)
-- [<code>CookieChangeEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/CookieChangeEvent) (Chrome 87, Firefox 136, Safari 18.4)
-- [CookieChangeEvent.deleted](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/deleted) (Chrome 87, Firefox 136, Safari 18.4)
-
-### CookieStore
-
-- [CookieStore](https://developer.mozilla.org/docs/Web/API/CookieStore) (Chrome 87, Firefox 136, Safari 18.4)
-- [<code>change</code> event](https://developer.mozilla.org/docs/Web/API/CookieStore/change_event) (Chrome 87, Firefox 136, Safari 18.4)
-- [CookieStore.delete](https://developer.mozilla.org/docs/Web/API/CookieStore/delete) (Chrome 87, Firefox 136, Safari 18.4)
-- <code>partitioned</code> option (Chrome 114, Firefox 136, Safari 18.4)
-- [CookieStore.get](https://developer.mozilla.org/docs/Web/API/CookieStore/get) (Chrome 87, Firefox 136, Safari 18.4)
-- [CookieStore.getAll](https://developer.mozilla.org/docs/Web/API/CookieStore/getAll) (Chrome 87, Firefox 136, Safari 18.4)
-- [CookieStore.set](https://developer.mozilla.org/docs/Web/API/CookieStore/set) (Chrome 87, Firefox 136, Safari 18.4)
-- <code>partitioned</code> option (Chrome 114, Firefox 136, Safari 18.4)
-
 ### ElementInternals
 
 - ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 136, Safari 16.4)
@@ -49,10 +31,6 @@ _This document is automatically generated weekly._
 ### RTCStatsReport
 
 - [<code>mid</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/mid) (Chrome 105, Firefox 135, Safari 17)
-
-### ServiceWorkerGlobalScope
-
-- [ServiceWorkerGlobalScope.cookieStore](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/cookieStore) (Chrome 87, Firefox 136, Safari 18.4)
 
 ## 2024
 
@@ -2889,6 +2867,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1825
+Total Web APIs tracked: 1812
 
-Last updated: 2025-03-23
+Last updated: 2025-03-30
