@@ -6,6 +6,17 @@ _This document is automatically generated weekly._
 
 ## 2025
 
+### CaretPosition
+
+- [CaretPosition](https://developer.mozilla.org/docs/Web/API/CaretPosition) (Chrome 128, Firefox 20, Safari 18.4)
+- CaretPosition.getClientRect (Chrome 128, Firefox 23, Safari 18.4)
+- CaretPosition.offset (Chrome 128, Firefox 20, Safari 18.4)
+- CaretPosition.offsetNode (Chrome 128, Firefox 20, Safari 18.4)
+
+### ClipboardItem
+
+- [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
+
 ### ElementInternals
 
 - ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 136, Safari 16.4)
@@ -16,9 +27,27 @@ _This document is automatically generated weekly._
 - ElementInternals.ariaFlowToElements (Chrome 135, Firefox 136, Safari 16.4)
 - ElementInternals.ariaLabelledByElements (Chrome 135, Firefox 136, Safari 16.4)
 
+### FragmentDirective
+
+- [FragmentDirective](https://developer.mozilla.org/docs/Web/API/FragmentDirective) (Chrome 81, Firefox 131, Safari 18.4)
+
+### ImageCapture
+
+- [ImageCapture](https://developer.mozilla.org/docs/Web/API/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
+- [<code>ImageCapture()</code> constructor](https://developer.mozilla.org/docs/Web/API/ImageCapture/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
+- [ImageCapture.track](https://developer.mozilla.org/docs/Web/API/ImageCapture/track) (Chrome 59, Firefox 35, Safari 18.4)
+
+### OffscreenCanvasRenderingContext2D
+
+- [OffscreenCanvasRenderingContext2D.letterSpacing](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/letterSpacing) (Chrome 99, Firefox 115, Safari 18.4)
+- [OffscreenCanvasRenderingContext2D.wordSpacing](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/wordSpacing) (Chrome 99, Firefox 115, Safari 18.4)
+
 ### PublicKeyCredential
 
 - [<code>getClientCapabilities()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientCapabilities_static) (Chrome 133, Firefox 135, Safari 17.4)
+- [<code>parseCreationOptionsFromJSON()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/parseCreationOptionsFromJSON_static) (Chrome 129, Firefox 119, Safari 18.4)
+- [<code>parseRequestOptionsFromJSON()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/parseRequestOptionsFromJSON_static) (Chrome 129, Firefox 119, Safari 18.4)
+- [<code>toJSON()</code> method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/toJSON) (Chrome 129, Firefox 119, Safari 18.4)
 
 ### PushManager
 
@@ -27,6 +56,14 @@ _This document is automatically generated weekly._
 ### PushMessageData
 
 - [PushMessageData.bytes](https://developer.mozilla.org/docs/Web/API/PushMessageData/bytes) (Chrome 132, Firefox 128, Safari 18)
+
+### RTCCertificate
+
+- [RTCCertificate.getFingerprints](https://developer.mozilla.org/docs/Web/API/RTCCertificate/getFingerprints) (Chrome 61, Firefox 138, Safari 12.1)
+
+### RTCRtpSender
+
+- [<code>degradationPreference</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/getParameters#degradationpreference) (Chrome 83, Firefox 138, Safari 12.1)
 
 ### RTCStatsReport
 
@@ -37,13 +74,6 @@ _This document is automatically generated weekly._
 ### AbortSignal
 
 - [<code>any()</code> static method](https://developer.mozilla.org/docs/Web/API/AbortSignal/any_static) (Chrome 116, Firefox 124, Safari 17.4)
-
-### CaretPosition
-
-- [CaretPosition](https://developer.mozilla.org/docs/Web/API/CaretPosition) (Chrome 128, Firefox 20, Safari 18.4)
-- CaretPosition.getClientRect (Chrome 128, Firefox 23, Safari 18.4)
-- CaretPosition.offset (Chrome 128, Firefox 20, Safari 18.4)
-- CaretPosition.offsetNode (Chrome 128, Firefox 20, Safari 18.4)
 
 ### Clipboard
 
@@ -58,7 +88,6 @@ _This document is automatically generated weekly._
 
 - [ClipboardItem](https://developer.mozilla.org/docs/Web/API/ClipboardItem) (Chrome 76, Firefox 127, Safari 13.1)
 - [<code>getType()</code> method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/getType) (Chrome 76, Firefox 127, Safari 13.1)
-- [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
 - [ClipboardItem.types](https://developer.mozilla.org/docs/Web/API/ClipboardItem/types) (Chrome 76, Firefox 127, Safari 13.1)
 
 ### ContentVisibilityAutoStateChangeEvent
@@ -129,10 +158,6 @@ _This document is automatically generated weekly._
 - <code>init.keepalive</code> parameter (Chrome 66, Firefox 133, Safari 13)
 - <code>init.priority</code> parameter (Chrome 101, Firefox 132, Safari 17.2)
 
-### FragmentDirective
-
-- [FragmentDirective](https://developer.mozilla.org/docs/Web/API/FragmentDirective) (Chrome 81, Firefox 131, Safari 18.4)
-
 ### HTMLDetailsElement
 
 - [HTMLDetailsElement.name](https://developer.mozilla.org/docs/Web/API/HTMLDetailsElement/name) (Chrome 120, Firefox 130, Safari 17.2)
@@ -158,12 +183,6 @@ _This document is automatically generated weekly._
 - [PointerEvent.getPredictedEvents](https://developer.mozilla.org/docs/Web/API/PointerEvent/getPredictedEvents) (Chrome 77, Firefox 89, Safari 18.2)
 - <code>options.altitudeAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 - <code>options.azimuthAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
-
-### PublicKeyCredential
-
-- [<code>parseCreationOptionsFromJSON()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/parseCreationOptionsFromJSON_static) (Chrome 129, Firefox 119, Safari 18.4)
-- [<code>parseRequestOptionsFromJSON()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/parseRequestOptionsFromJSON_static) (Chrome 129, Firefox 119, Safari 18.4)
-- [<code>toJSON()</code> method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/toJSON) (Chrome 129, Firefox 119, Safari 18.4)
 
 ### RTCDataChannel
 
@@ -520,7 +539,6 @@ _This document is automatically generated weekly._
 - [OffscreenCanvasRenderingContext2D.imageSmoothingEnabled](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/imageSmoothingEnabled) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.isPointInPath](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/isPointInPath) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.isPointInStroke](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/isPointInStroke) (Chrome 69, Firefox 105, Safari 16.4)
-- [OffscreenCanvasRenderingContext2D.letterSpacing](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/letterSpacing) (Chrome 99, Firefox 115, Safari 18.4)
 - [OffscreenCanvasRenderingContext2D.lineCap](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/lineCap) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.lineDashOffset](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/lineDashOffset) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.lineJoin](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/lineJoin) (Chrome 69, Firefox 105, Safari 16.4)
@@ -553,7 +571,6 @@ _This document is automatically generated weekly._
 - [OffscreenCanvasRenderingContext2D.textBaseline](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/textBaseline) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.transform](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/transform) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvasRenderingContext2D.translate](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/translate) (Chrome 69, Firefox 105, Safari 16.4)
-- [OffscreenCanvasRenderingContext2D.wordSpacing](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/wordSpacing) (Chrome 99, Firefox 115, Safari 18.4)
 
 ### PerformanceResourceTiming
 
@@ -2529,12 +2546,6 @@ _This document is automatically generated weekly._
 - [HTMLTimeElement](https://developer.mozilla.org/docs/Web/API/HTMLTimeElement) (Chrome 62, Firefox 22, Safari 10)
 - [HTMLTimeElement.dateTime](https://developer.mozilla.org/docs/Web/API/HTMLTimeElement/dateTime) (Chrome 62, Firefox 22, Safari 10)
 
-### ImageCapture
-
-- [ImageCapture](https://developer.mozilla.org/docs/Web/API/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
-- [<code>ImageCapture()</code> constructor](https://developer.mozilla.org/docs/Web/API/ImageCapture/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
-- [ImageCapture.track](https://developer.mozilla.org/docs/Web/API/ImageCapture/track) (Chrome 59, Firefox 35, Safari 18.4)
-
 ### InputDeviceInfo
 
 - [InputDeviceInfo](https://developer.mozilla.org/docs/Web/API/InputDeviceInfo) (Chrome 47, Firefox 39, Safari 11)
@@ -2867,6 +2878,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1812
+Total Web APIs tracked: 1814
 
-Last updated: 2025-03-30
+Last updated: 2025-04-06
