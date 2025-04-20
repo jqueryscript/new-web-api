@@ -17,6 +17,10 @@ _This document is automatically generated weekly._
 
 - [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
 
+### CSPViolationReportBody
+
+- [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 130, Safari 18.4)
+
 ### ElementInternals
 
 - ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 136, Safari 16.4)
@@ -139,8 +143,8 @@ _This document is automatically generated weekly._
 
 ### ElementInternals
 
-- ElementInternals.ariaBrailleLabel (Chrome 107, Firefox 125, Safari 18)
-- ElementInternals.ariaBrailleRoleDescription (Chrome 107, Firefox 125, Safari 18)
+- [ElementInternals.ariaBrailleLabel](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaBrailleLabel) (Chrome 107, Firefox 125, Safari 18)
+- [ElementInternals.ariaBrailleRoleDescription](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaBrailleRoleDescription) (Chrome 107, Firefox 125, Safari 18)
 - [ElementInternals.states](https://developer.mozilla.org/docs/Web/API/ElementInternals/states) (Chrome 90, Firefox 126, Safari 17.4)
 
 ### EncodedVideoChunk
@@ -2878,6 +2882,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1814
+Total Web APIs tracked: 1815
 
-Last updated: 2025-04-13
+Last updated: 2025-04-20
