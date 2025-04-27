@@ -345,11 +345,6 @@ _This document is automatically generated weekly._
 - [CSSCounterStyleRule.symbols](https://developer.mozilla.org/docs/Web/API/CSSCounterStyleRule/symbols) (Chrome 91, Firefox 33, Safari 17)
 - [CSSCounterStyleRule.system](https://developer.mozilla.org/docs/Web/API/CSSCounterStyleRule/system) (Chrome 91, Firefox 33, Safari 17)
 
-### CSSFontFeatureValuesRule
-
-- [CSSFontFeatureValuesRule](https://developer.mozilla.org/docs/Web/API/CSSFontFeatureValuesRule) (Chrome 111, Firefox 34, Safari 16.2)
-- [CSSFontFeatureValuesRule.fontFamily](https://developer.mozilla.org/docs/Web/API/CSSFontFeatureValuesRule/fontFamily) (Chrome 111, Firefox 34, Safari 16.2)
-
 ### CustomElementRegistry
 
 - [CustomElementRegistry.getName](https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/getName) (Chrome 117, Firefox 116, Safari 17)
@@ -395,7 +390,7 @@ _This document is automatically generated weekly._
 - [ElementInternals.ariaExpanded](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaExpanded) (Chrome 81, Firefox 119, Safari 16.4)
 - [ElementInternals.ariaHasPopup](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaHasPopup) (Chrome 81, Firefox 119, Safari 16.4)
 - [ElementInternals.ariaHidden](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaHidden) (Chrome 81, Firefox 119, Safari 16.4)
-- ElementInternals.ariaInvalid (Chrome 102, Firefox 119, Safari 16.4)
+- [ElementInternals.ariaInvalid](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaInvalid) (Chrome 102, Firefox 119, Safari 16.4)
 - [ElementInternals.ariaKeyShortcuts](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaKeyShortcuts) (Chrome 81, Firefox 119, Safari 16.4)
 - [ElementInternals.ariaLabel](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLabel) (Chrome 81, Firefox 119, Safari 16.4)
 - [ElementInternals.ariaLevel](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLevel) (Chrome 81, Firefox 119, Safari 16.4)
@@ -492,12 +487,12 @@ _This document is automatically generated weekly._
 ### MathMLElement
 
 - [MathMLElement](https://developer.mozilla.org/docs/Web/API/MathMLElement) (Chrome 109, Firefox 71, Safari 13.1)
-- MathMLElement.autofocus (Chrome 109, Firefox 110, Safari 15.4)
-- MathMLElement.blur (Chrome 109, Firefox 71, Safari 13.1)
-- MathMLElement.dataset (Chrome 109, Firefox 71, Safari 13.1)
-- MathMLElement.focus (Chrome 109, Firefox 71, Safari 13.1)
+- [MathMLElement.autofocus](https://developer.mozilla.org/docs/Web/API/MathMLElement/autofocus) (Chrome 109, Firefox 110, Safari 15.4)
+- [MathMLElement.blur](https://developer.mozilla.org/docs/Web/API/MathMLElement/blur) (Chrome 109, Firefox 71, Safari 13.1)
+- [MathMLElement.dataset](https://developer.mozilla.org/docs/Web/API/MathMLElement/dataset) (Chrome 109, Firefox 71, Safari 13.1)
+- [MathMLElement.focus](https://developer.mozilla.org/docs/Web/API/MathMLElement/focus) (Chrome 109, Firefox 71, Safari 13.1)
 - [MathMLElement.style](https://developer.mozilla.org/docs/Web/API/MathMLElement/style) (Chrome 109, Firefox 71, Safari 13.1)
-- MathMLElement.tabIndex (Chrome 109, Firefox 71, Safari 13.1)
+- [MathMLElement.tabIndex](https://developer.mozilla.org/docs/Web/API/MathMLElement/tabIndex) (Chrome 109, Firefox 71, Safari 13.1)
 
 ### OffscreenCanvas
 
@@ -666,7 +661,7 @@ _This document is automatically generated weekly._
 ### RTCStatsReport
 
 - <code>trackIdentifier</code> in 'inbound-rtp' stats (Chrome 105, Firefox 111, Safari 16.4)
-- [<code>media-source</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#media_source) (Chrome 80, Firefox 113, Safari 14.1)
+- <code>media-source</code> stats (Chrome 80, Firefox 113, Safari 14.1)
 - <code>id</code> in 'media-source' stats (Chrome 80, Firefox 113, Safari 14.1)
 - <code>kind</code> in 'media-source' stats (Chrome 80, Firefox 113, Safari 14.1)
 - <code>timestamp</code> in 'media-source' stats (Chrome 80, Firefox 113, Safari 14.1)
@@ -928,7 +923,7 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
-- [<code>codec</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#codec) (Chrome 80, Firefox 98, Safari 13.1)
+- <code>codec</code> stats (Chrome 80, Firefox 98, Safari 13.1)
 - [<code>channels</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/channels) (Chrome 83, Firefox 98, Safari 14.1)
 - [<code>clockRate</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/clockRate) (Chrome 80, Firefox 98, Safari 13.1)
 - [<code>id</code> in 'codec' stats](https://developer.mozilla.org/docs/Web/API/RTCCodecStats/id) (Chrome 80, Firefox 98, Safari 13.1)
@@ -1244,7 +1239,7 @@ _This document is automatically generated weekly._
 - [<code>localId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/localId) (Chrome 80, Firefox 72, Safari 14.1)
 - [<code>timestamp</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 14.1)
 - [<code>type</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 14.1)
-- [<code>remote-outbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_outbound_rtp) (Chrome 91, Firefox 27, Safari 11)
+- <code>remote-outbound-rtp</code> stats (Chrome 91, Firefox 27, Safari 11)
 - [<code>kind</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/kind) (Chrome 91, Firefox 63, Safari 14)
 - [<code>ssrc</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/ssrc) (Chrome 91, Firefox 27, Safari 11)
 
@@ -1696,7 +1691,7 @@ _This document is automatically generated weekly._
 - [<code>id</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>timestamp</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>type</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/type) (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>data-channel</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#data_channel) (Chrome 80, Firefox 79, Safari 13.1)
+- <code>data-channel</code> stats (Chrome 80, Firefox 79, Safari 13.1)
 - [<code>bytesReceived</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/bytesReceived) (Chrome 80, Firefox 79, Safari 13.1)
 - [<code>bytesSent</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/bytesSent) (Chrome 80, Firefox 79, Safari 13.1)
 - [<code>id</code> in 'data-channel' stats](https://developer.mozilla.org/docs/Web/API/RTCDataChannelStats/id) (Chrome 80, Firefox 79, Safari 13.1)
@@ -1716,14 +1711,14 @@ _This document is automatically generated weekly._
 - [<code>ssrc</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
 - [<code>timestamp</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>type</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>local-candidate</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#local_candidate) (Chrome 80, Firefox 27, Safari 12.1)
+- <code>local-candidate</code> stats (Chrome 80, Firefox 27, Safari 12.1)
 - [<code>candidateType</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/candidateType) (Chrome 80, Firefox 27, Safari 12.1)
 - [<code>id</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>priority</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/priority) (Chrome 80, Firefox 72, Safari 12.1)
 - [<code>timestamp</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>transportId</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/transportId) (Chrome 80, Firefox 31, Safari 12.1)
 - [<code>type</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/type) (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>outbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#outbound_rtp) (Chrome 80, Firefox 27, Safari 11)
+- <code>outbound-rtp</code> stats (Chrome 80, Firefox 27, Safari 11)
 - [<code>bytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/bytesSent) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>id</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>kind</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
@@ -1731,14 +1726,14 @@ _This document is automatically generated weekly._
 - [<code>ssrc</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
 - [<code>timestamp</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>type</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/type) (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>remote-candidate</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_candidate) (Chrome 80, Firefox 27, Safari 12.1)
+- <code>remote-candidate</code> stats (Chrome 80, Firefox 27, Safari 12.1)
 - <code>candidateType</code> in 'remote-candidate' stats (Chrome 80, Firefox 27, Safari 12.1)
 - <code>id</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
 - <code>priority</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 12.1)
 - <code>timestamp</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
 - <code>transportId</code> in 'remote-candidate' stats (Chrome 80, Firefox 31, Safari 12.1)
 - <code>type</code> in 'remote-candidate' stats (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>remote-inbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#remote_inbound_rtp) (Chrome 80, Firefox 27, Safari 11)
+- <code>remote-inbound-rtp</code> stats (Chrome 80, Firefox 27, Safari 11)
 - [<code>kind</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
 - [<code>ssrc</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/ssrc) (Chrome 80, Firefox 27, Safari 11)
 
@@ -2078,7 +2073,7 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
-- [<code>inbound-rtp</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#inbound_rtp) (Chrome 79, Firefox 27, Safari 11)
+- <code>inbound-rtp</code> stats (Chrome 79, Firefox 27, Safari 11)
 
 ### ServiceWorkerContainer
 
@@ -2599,7 +2594,6 @@ _This document is automatically generated weekly._
 - [<code>facingMode</code> constraint](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/facingMode) (Chrome 59, Firefox 50, Safari 11)
 - [<code>frameRate</code> constraint](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/frameRate) (Chrome 59, Firefox 50, Safari 11)
 - [<code>height</code> constraint](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/height) (Chrome 59, Firefox 50, Safari 11)
-- [<code>latency</code> constraint](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/latency) (Chrome 59, Firefox 50, Safari 11)
 - [<code>width</code> constraint](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/width) (Chrome 59, Firefox 50, Safari 11)
 - [MediaStreamTrack.clone](https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/clone) (Chrome 35, Firefox 48, Safari 11)
 - [MediaStreamTrack.enabled](https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/enabled) (Chrome 26, Firefox 24, Safari 11)
@@ -2704,7 +2698,7 @@ _This document is automatically generated weekly._
 - [RTCStatsReport.has](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/has) (Chrome 58, Firefox 27, Safari 11)
 - [RTCStatsReport.keys](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/keys) (Chrome 58, Firefox 48, Safari 11)
 - [RTCStatsReport.size](https://developer.mozilla.org/docs/Web/API/RTCStatsReport/size) (Chrome 59, Firefox 48, Safari 11)
-- [<code>candidate-pair</code> stats](https://developer.mozilla.org/docs/Web/API/RTCStatsReport#canditate_pair) (Chrome 58, Firefox 29, Safari 11)
+- <code>candidate-pair</code> stats (Chrome 58, Firefox 29, Safari 11)
 - [<code>bytesReceived</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesReceived) (Chrome 58, Firefox 56, Safari 11)
 - [<code>bytesSent</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesSent) (Chrome 58, Firefox 56, Safari 11)
 - [<code>localCandidateId</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/localCandidateId) (Chrome 58, Firefox 29, Safari 11)
@@ -2882,6 +2876,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1815
+Total Web APIs tracked: 1812
 
-Last updated: 2025-04-20
+Last updated: 2025-04-27
