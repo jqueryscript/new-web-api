@@ -17,23 +17,31 @@ _This document is automatically generated weekly._
 
 - [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
 
+### CredentialsContainer
+
+- [<code>largeBlob</code> extension](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions#largeblob) (Chrome 113, Firefox 139, Safari 17)
+
 ### CSPViolationReportBody
 
 - [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 130, Safari 18.4)
 
 ### ElementInternals
 
-- ElementInternals.ariaActiveDescendantElement (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaControlsElements (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaDescribedByElements (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaDetailsElements (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaErrorMessageElements (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaFlowToElements (Chrome 135, Firefox 136, Safari 16.4)
-- ElementInternals.ariaLabelledByElements (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaActiveDescendantElement](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaActiveDescendantElement) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaControlsElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaControlsElements) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaDescribedByElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaDescribedByElements) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaDetailsElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaDetailsElements) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaErrorMessageElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaErrorMessageElements) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaFlowToElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaFlowToElements) (Chrome 135, Firefox 136, Safari 16.4)
+- [ElementInternals.ariaLabelledByElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLabelledByElements) (Chrome 135, Firefox 136, Safari 16.4)
 
 ### FragmentDirective
 
 - [FragmentDirective](https://developer.mozilla.org/docs/Web/API/FragmentDirective) (Chrome 81, Firefox 131, Safari 18.4)
+
+### HTMLDialogElement
+
+- [HTMLDialogElement.requestClose](https://developer.mozilla.org/docs/Web/API/HTMLDialogElement/requestClose) (Chrome 134, Firefox 139, Safari 18.4)
 
 ### ImageCapture
 
@@ -2876,6 +2884,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1812
+Total Web APIs tracked: 1814
 
-Last updated: 2025-05-04
+Last updated: 2025-05-11
