@@ -777,6 +777,14 @@ _This document is automatically generated weekly._
 - [FetchEvent.preloadResponse](https://developer.mozilla.org/docs/Web/API/FetchEvent/preloadResponse) (Chrome 59, Firefox 99, Safari 15.4)
 - [FetchEvent.resultingClientId](https://developer.mozilla.org/docs/Web/API/FetchEvent/resultingClientId) (Chrome 72, Firefox 65, Safari 16)
 
+### FontFace
+
+- Available in workers (Chrome 69, Firefox 105, Safari 15)
+
+### FontFaceSet
+
+- Available in workers (Chrome 69, Firefox 105, Safari 15)
+
 ### HTMLDialogElement
 
 - [HTMLDialogElement](https://developer.mozilla.org/docs/Web/API/HTMLDialogElement) (Chrome 37, Firefox 98, Safari 15.4)
@@ -2884,6 +2892,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1814
+Total Web APIs tracked: 1816
 
-Last updated: 2025-05-11
+Last updated: 2025-05-18
