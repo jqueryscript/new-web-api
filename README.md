@@ -1239,7 +1239,6 @@ _This document is automatically generated weekly._
 ### PerformancePaintTiming
 
 - [PerformancePaintTiming](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming) (Chrome 60, Firefox 84, Safari 14.1)
-- [<code>first-contentful-paint</code> named entry](https://developer.mozilla.org/docs/Glossary/First_contentful_paint) (Chrome 60, Firefox 84, Safari 14.1)
 
 ### RTCRtpSender
 
@@ -2892,6 +2891,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1816
+Total Web APIs tracked: 1815
 
-Last updated: 2025-05-18
+Last updated: 2025-05-25
