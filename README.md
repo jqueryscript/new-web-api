@@ -17,6 +17,24 @@ _This document is automatically generated weekly._
 
 - [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
 
+### CookieChangeEvent
+
+- [CookieChangeEvent](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent) (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieChangeEvent.changed](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/changed) (Chrome 87, Firefox 140, Safari 18.4)
+- [<code>CookieChangeEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/CookieChangeEvent) (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieChangeEvent.deleted](https://developer.mozilla.org/docs/Web/API/CookieChangeEvent/deleted) (Chrome 87, Firefox 140, Safari 18.4)
+
+### CookieStore
+
+- [CookieStore](https://developer.mozilla.org/docs/Web/API/CookieStore) (Chrome 87, Firefox 140, Safari 18.4)
+- [<code>change</code> event](https://developer.mozilla.org/docs/Web/API/CookieStore/change_event) (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieStore.delete](https://developer.mozilla.org/docs/Web/API/CookieStore/delete) (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieStore.get](https://developer.mozilla.org/docs/Web/API/CookieStore/get) (Chrome 87, Firefox 140, Safari 18.4)
+- <code>name</code> in return value (Chrome 87, Firefox 140, Safari 18.4)
+- <code>value</code> in return value (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieStore.getAll](https://developer.mozilla.org/docs/Web/API/CookieStore/getAll) (Chrome 87, Firefox 140, Safari 18.4)
+- [CookieStore.set](https://developer.mozilla.org/docs/Web/API/CookieStore/set) (Chrome 87, Firefox 140, Safari 18.4)
+
 ### CredentialsContainer
 
 - [<code>largeBlob</code> extension](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions#largeblob) (Chrome 113, Firefox 139, Safari 17)
@@ -35,9 +53,48 @@ _This document is automatically generated weekly._
 - [ElementInternals.ariaFlowToElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaFlowToElements) (Chrome 135, Firefox 136, Safari 16.4)
 - [ElementInternals.ariaLabelledByElements](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLabelledByElements) (Chrome 135, Firefox 136, Safari 16.4)
 
+### ExtendableCookieChangeEvent
+
+- [ExtendableCookieChangeEvent](https://developer.mozilla.org/docs/Web/API/ExtendableCookieChangeEvent) (Chrome 87, Firefox 140, Safari 18.4)
+- [ExtendableCookieChangeEvent.changed](https://developer.mozilla.org/docs/Web/API/ExtendableCookieChangeEvent/changed) (Chrome 87, Firefox 140, Safari 18.4)
+- [ExtendableCookieChangeEvent.deleted](https://developer.mozilla.org/docs/Web/API/ExtendableCookieChangeEvent/deleted) (Chrome 87, Firefox 140, Safari 18.4)
+- [<code>ExtendableCookieChangeEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/ExtendableCookieChangeEvent/ExtendableCookieChangeEvent) (Chrome 87, Firefox 140, Safari 18.4)
+
 ### FragmentDirective
 
 - [FragmentDirective](https://developer.mozilla.org/docs/Web/API/FragmentDirective) (Chrome 81, Firefox 131, Safari 18.4)
+
+### Highlight
+
+- [Highlight](https://developer.mozilla.org/docs/Web/API/Highlight) (Chrome 105, Firefox 140, Safari 17.2)
+- [Symbol.iterator] (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.add](https://developer.mozilla.org/docs/Web/API/Highlight/add) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.clear](https://developer.mozilla.org/docs/Web/API/Highlight/clear) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.delete](https://developer.mozilla.org/docs/Web/API/Highlight/delete) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.entries](https://developer.mozilla.org/docs/Web/API/Highlight/entries) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.forEach](https://developer.mozilla.org/docs/Web/API/Highlight/forEach) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.has](https://developer.mozilla.org/docs/Web/API/Highlight/has) (Chrome 105, Firefox 140, Safari 17.2)
+- [<code>Highlight()</code> constructor](https://developer.mozilla.org/docs/Web/API/Highlight/Highlight) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.keys](https://developer.mozilla.org/docs/Web/API/Highlight/keys) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.priority](https://developer.mozilla.org/docs/Web/API/Highlight/priority) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.size](https://developer.mozilla.org/docs/Web/API/Highlight/size) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.type](https://developer.mozilla.org/docs/Web/API/Highlight/type) (Chrome 105, Firefox 140, Safari 17.2)
+- [Highlight.values](https://developer.mozilla.org/docs/Web/API/Highlight/values) (Chrome 105, Firefox 140, Safari 17.2)
+
+### HighlightRegistry
+
+- [HighlightRegistry](https://developer.mozilla.org/docs/Web/API/HighlightRegistry) (Chrome 105, Firefox 140, Safari 17.2)
+- [Symbol.iterator] (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.clear](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/clear) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.delete](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/delete) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.entries](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/entries) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.forEach](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/forEach) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.get](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/get) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.has](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/has) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.keys](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/keys) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.set](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/set) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.size](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/size) (Chrome 105, Firefox 140, Safari 17.2)
+- [HighlightRegistry.values](https://developer.mozilla.org/docs/Web/API/HighlightRegistry/values) (Chrome 105, Firefox 140, Safari 17.2)
 
 ### HTMLDialogElement
 
@@ -69,6 +126,13 @@ _This document is automatically generated weekly._
 
 - [PushMessageData.bytes](https://developer.mozilla.org/docs/Web/API/PushMessageData/bytes) (Chrome 132, Firefox 128, Safari 18)
 
+### PushSubscriptionChangeEvent
+
+- PushSubscriptionChangeEvent (Chrome 138, Firefox 137, Safari 16)
+- PushSubscriptionChangeEvent.newSubscription (Chrome 138, Firefox 137, Safari 16)
+- PushSubscriptionChangeEvent.oldSubscription (Chrome 138, Firefox 137, Safari 16)
+- <code>PushSubscriptionChangeEvent()</code> constructor (Chrome 138, Firefox 137, Safari 16.1)
+
 ### RTCCertificate
 
 - [RTCCertificate.getFingerprints](https://developer.mozilla.org/docs/Web/API/RTCCertificate/getFingerprints) (Chrome 61, Firefox 138, Safari 12.1)
@@ -80,6 +144,11 @@ _This document is automatically generated weekly._
 ### RTCStatsReport
 
 - [<code>mid</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/mid) (Chrome 105, Firefox 135, Safari 17)
+
+### ServiceWorkerGlobalScope
+
+- [ServiceWorkerGlobalScope.cookieStore](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/cookieStore) (Chrome 87, Firefox 140, Safari 18.4)
+- [<code>pushsubscriptionchange</code> event](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/pushsubscriptionchange_event) (Chrome 138, Firefox 44, Safari 16)
 
 ## 2024
 
@@ -2891,6 +2960,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1815
+Total Web APIs tracked: 1863
 
-Last updated: 2025-05-25
+Last updated: 2025-06-01
