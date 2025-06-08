@@ -290,6 +290,10 @@ _This document is automatically generated weekly._
 - [RTCRtpReceiver.getParameters](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters) (Chrome 59, Firefox 128, Safari 11)
 - [<code>codecs</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters#codecs) (Chrome 69, Firefox 128, Safari 11)
 
+### RTCRtpScriptTransform
+
+- [RTCRtpScriptTransform](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransform) (Chrome 129, Firefox 117, Safari 15.4)
+
 ### RTCRtpTransceiver
 
 - [<code>setCodecPreferences()</code>](https://developer.mozilla.org/docs/Web/API/RTCRtpTransceiver/setCodecPreferences) (Chrome 76, Firefox 128, Safari 13.1)
@@ -2960,6 +2964,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1863
+Total Web APIs tracked: 1864
 
-Last updated: 2025-06-01
+Last updated: 2025-06-08
