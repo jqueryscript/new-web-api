@@ -150,11 +150,64 @@ _This document is automatically generated weekly._
 - [ServiceWorkerGlobalScope.cookieStore](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/cookieStore) (Chrome 87, Firefox 140, Safari 18.4)
 - [<code>pushsubscriptionchange</code> event](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/pushsubscriptionchange_event) (Chrome 138, Firefox 44, Safari 16)
 
+### ShadowRoot
+
+- Can be set with a <code>TrustedHTML</code> instance (Chrome 83, Firefox 135, Safari 26)
+
+### trustedTypes
+
+- [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 135, Safari 26)
+
 ## 2024
 
 ### AbortSignal
 
 - [<code>any()</code> static method](https://developer.mozilla.org/docs/Web/API/AbortSignal/any_static) (Chrome 116, Firefox 124, Safari 17.4)
+
+### AudioData
+
+- [AudioData](https://developer.mozilla.org/docs/Web/API/AudioData) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.allocationSize](https://developer.mozilla.org/docs/Web/API/AudioData/allocationSize) (Chrome 94, Firefox 130, Safari 26)
+- [<code>AudioData()</code> constructor](https://developer.mozilla.org/docs/Web/API/AudioData/AudioData) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.clone](https://developer.mozilla.org/docs/Web/API/AudioData/clone) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.close](https://developer.mozilla.org/docs/Web/API/AudioData/close) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.copyTo](https://developer.mozilla.org/docs/Web/API/AudioData/copyTo) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.duration](https://developer.mozilla.org/docs/Web/API/AudioData/duration) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.format](https://developer.mozilla.org/docs/Web/API/AudioData/format) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.numberOfChannels](https://developer.mozilla.org/docs/Web/API/AudioData/numberOfChannels) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.numberOfFrames](https://developer.mozilla.org/docs/Web/API/AudioData/numberOfFrames) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.sampleRate](https://developer.mozilla.org/docs/Web/API/AudioData/sampleRate) (Chrome 94, Firefox 130, Safari 26)
+- [AudioData.timestamp](https://developer.mozilla.org/docs/Web/API/AudioData/timestamp) (Chrome 94, Firefox 130, Safari 26)
+
+### AudioDecoder
+
+- [AudioDecoder](https://developer.mozilla.org/docs/Web/API/AudioDecoder) (Chrome 94, Firefox 130, Safari 26)
+- [<code>AudioDecoder()</code> constructor](https://developer.mozilla.org/docs/Web/API/AudioDecoder/AudioDecoder) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.close](https://developer.mozilla.org/docs/Web/API/AudioDecoder/close) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.configure](https://developer.mozilla.org/docs/Web/API/AudioDecoder/configure) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.decode](https://developer.mozilla.org/docs/Web/API/AudioDecoder/decode) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.decodeQueueSize](https://developer.mozilla.org/docs/Web/API/AudioDecoder/decodeQueueSize) (Chrome 94, Firefox 130, Safari 26)
+- [<code>dequeue</code> event](https://developer.mozilla.org/docs/Web/API/AudioDecoder/dequeue_event) (Chrome 106, Firefox 130, Safari 26)
+- [AudioDecoder.flush](https://developer.mozilla.org/docs/Web/API/AudioDecoder/flush) (Chrome 94, Firefox 130, Safari 26)
+- [<code>isConfigSupported()</code> static method](https://developer.mozilla.org/docs/Web/API/AudioDecoder/isConfigSupported_static) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.reset](https://developer.mozilla.org/docs/Web/API/AudioDecoder/reset) (Chrome 94, Firefox 130, Safari 26)
+- [AudioDecoder.state](https://developer.mozilla.org/docs/Web/API/AudioDecoder/state) (Chrome 94, Firefox 130, Safari 26)
+
+### AudioEncoder
+
+- [AudioEncoder](https://developer.mozilla.org/docs/Web/API/AudioEncoder) (Chrome 94, Firefox 130, Safari 26)
+- [<code>AudioEncoder()</code> constructor](https://developer.mozilla.org/docs/Web/API/AudioEncoder/AudioEncoder) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.close](https://developer.mozilla.org/docs/Web/API/AudioEncoder/close) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.configure](https://developer.mozilla.org/docs/Web/API/AudioEncoder/configure) (Chrome 94, Firefox 130, Safari 26)
+- AudioEncoder.configure.bitrateMode (Chrome 119, Firefox 130, Safari 26)
+- AudioEncoder.configure.opus (Chrome 110, Firefox 130, Safari 26)
+- [<code>dequeue</code> event](https://developer.mozilla.org/docs/Web/API/AudioEncoder/dequeue_event) (Chrome 106, Firefox 130, Safari 26)
+- [AudioEncoder.encode](https://developer.mozilla.org/docs/Web/API/AudioEncoder/encode) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.encodeQueueSize](https://developer.mozilla.org/docs/Web/API/AudioEncoder/encodeQueueSize) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.flush](https://developer.mozilla.org/docs/Web/API/AudioEncoder/flush) (Chrome 94, Firefox 130, Safari 26)
+- [<code>isConfigSupported()</code> static method](https://developer.mozilla.org/docs/Web/API/AudioEncoder/isConfigSupported_static) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.reset](https://developer.mozilla.org/docs/Web/API/AudioEncoder/reset) (Chrome 94, Firefox 130, Safari 26)
+- [AudioEncoder.state](https://developer.mozilla.org/docs/Web/API/AudioEncoder/state) (Chrome 94, Firefox 130, Safari 26)
 
 ### Clipboard
 
@@ -181,6 +234,84 @@ _This document is automatically generated weekly._
 
 - [CSSNestedDeclarations](https://developer.mozilla.org/docs/Web/API/CSSNestedDeclarations) (Chrome 130, Firefox 132, Safari 18.2)
 - [CSSNestedDeclarations.style](https://developer.mozilla.org/docs/Web/API/CSSNestedDeclarations/style) (Chrome 130, Firefox 132, Safari 18.2)
+
+### CSSPositionTryDescriptors
+
+- [CSSPositionTryDescriptors](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.align-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.alignSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.blockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.insetInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.justify-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.justifySelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.margin-top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginBottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginLeft](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginRight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.marginTop](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.max-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.max-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.max-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.max-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.maxBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.maxHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.maxInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.maxWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.min-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.min-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.min-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.min-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.minBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.minHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.minInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.minWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.place-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.placeSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.position-anchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.positionAnchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryDescriptors.width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
+
+### CSSPositionTryRule
+
+- [CSSPositionTryRule](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 131, Safari 26)
+- [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 131, Safari 26)
 
 ### CSSPropertyRule
 
@@ -223,6 +354,16 @@ _This document is automatically generated weekly._
 - [ElementInternals.ariaBrailleLabel](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaBrailleLabel) (Chrome 107, Firefox 125, Safari 18)
 - [ElementInternals.ariaBrailleRoleDescription](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaBrailleRoleDescription) (Chrome 107, Firefox 125, Safari 18)
 - [ElementInternals.states](https://developer.mozilla.org/docs/Web/API/ElementInternals/states) (Chrome 90, Firefox 126, Safari 17.4)
+
+### EncodedAudioChunk
+
+- [EncodedAudioChunk](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk) (Chrome 94, Firefox 130, Safari 26)
+- [EncodedAudioChunk.byteLength](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/byteLength) (Chrome 94, Firefox 130, Safari 26)
+- [EncodedAudioChunk.copyTo](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/copyTo) (Chrome 94, Firefox 130, Safari 26)
+- [EncodedAudioChunk.duration](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/duration) (Chrome 94, Firefox 130, Safari 26)
+- [<code>EncodedAudioChunk()</code> constructor](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/EncodedAudioChunk) (Chrome 94, Firefox 130, Safari 26)
+- [EncodedAudioChunk.timestamp](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/timestamp) (Chrome 94, Firefox 130, Safari 26)
+- [EncodedAudioChunk.type](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/type) (Chrome 94, Firefox 130, Safari 26)
 
 ### EncodedVideoChunk
 
@@ -310,6 +451,12 @@ _This document is automatically generated weekly._
 - [TextEvent](https://developer.mozilla.org/docs/Web/API/TextEvent) (Chrome 1, Firefox 129, Safari 3)
 - [TextEvent.data](https://developer.mozilla.org/docs/Web/API/TextEvent/data) (Chrome 1, Firefox 129, Safari 3)
 - [TextEvent.initTextEvent](https://developer.mozilla.org/docs/Web/API/TextEvent/initTextEvent) (Chrome 1, Firefox 129, Safari 3)
+
+### TrustedTypePolicyFactory
+
+- [TrustedTypePolicyFactory](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory) (Chrome 83, Firefox 133, Safari 26)
+- [TrustedTypePolicyFactory.getAttributeType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getAttributeType) (Chrome 83, Firefox 133, Safari 26)
+- [TrustedTypePolicyFactory.getPropertyType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getPropertyType) (Chrome 83, Firefox 133, Safari 26)
 
 ### VideoColorSpace
 
@@ -525,6 +672,7 @@ _This document is automatically generated weekly._
 
 - [FileSystemFileHandle](https://developer.mozilla.org/docs/Web/API/FileSystemFileHandle) (Chrome 86, Firefox 111, Safari 15.2)
 - [FileSystemFileHandle.createSyncAccessHandle](https://developer.mozilla.org/docs/Web/API/FileSystemFileHandle/createSyncAccessHandle) (Chrome 102, Firefox 111, Safari 15.2)
+- [FileSystemFileHandle.createWritable](https://developer.mozilla.org/docs/Web/API/FileSystemFileHandle/createWritable) (Chrome 86, Firefox 111, Safari 26)
 - [FileSystemFileHandle.getFile](https://developer.mozilla.org/docs/Web/API/FileSystemFileHandle/getFile) (Chrome 86, Firefox 111, Safari 15.2)
 
 ### FileSystemHandle
@@ -547,6 +695,13 @@ _This document is automatically generated weekly._
 - [FileSystemSyncAccessHandle.truncate](https://developer.mozilla.org/docs/Web/API/FileSystemSyncAccessHandle/truncate) (Chrome 102, Firefox 111, Safari 15.2)
 - Synchronous implementation of the <code>truncate()</code> method (Chrome 108, Firefox 111, Safari 16.4)
 - [FileSystemSyncAccessHandle.write](https://developer.mozilla.org/docs/Web/API/FileSystemSyncAccessHandle/write) (Chrome 102, Firefox 111, Safari 15.2)
+
+### FileSystemWritableFileStream
+
+- [FileSystemWritableFileStream](https://developer.mozilla.org/docs/Web/API/FileSystemWritableFileStream) (Chrome 86, Firefox 111, Safari 26)
+- [FileSystemWritableFileStream.seek](https://developer.mozilla.org/docs/Web/API/FileSystemWritableFileStream/seek) (Chrome 86, Firefox 111, Safari 26)
+- [FileSystemWritableFileStream.truncate](https://developer.mozilla.org/docs/Web/API/FileSystemWritableFileStream/truncate) (Chrome 86, Firefox 111, Safari 26)
+- [FileSystemWritableFileStream.write](https://developer.mozilla.org/docs/Web/API/FileSystemWritableFileStream/write) (Chrome 86, Firefox 111, Safari 26)
 
 ### GamepadHapticActuator
 
@@ -583,6 +738,7 @@ _This document is automatically generated weekly._
 - <code>bitmaprenderer</code> context (Chrome 76, Firefox 105, Safari 16.4)
 - <code>webgl</code> context (Chrome 69, Firefox 105, Safari 17)
 - <code>webgl2</code> context (Chrome 69, Firefox 105, Safari 17)
+- <code>webgpu</code> context (Chrome 113, Firefox 105, Safari 26)
 - [OffscreenCanvas.height](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/height) (Chrome 69, Firefox 105, Safari 16.4)
 - [<code>OffscreenCanvas()</code> constructor](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/OffscreenCanvas) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvas.transferToImageBitmap](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/transferToImageBitmap) (Chrome 69, Firefox 105, Safari 16.4)
@@ -2964,6 +3120,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1864
+Total Web APIs tracked: 1990
 
-Last updated: 2025-06-15
+Last updated: 2025-06-22
