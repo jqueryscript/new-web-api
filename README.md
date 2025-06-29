@@ -64,6 +64,191 @@ _This document is automatically generated weekly._
 
 - [FragmentDirective](https://developer.mozilla.org/docs/Web/API/FragmentDirective) (Chrome 81, Firefox 131, Safari 18.4)
 
+### GPU
+
+- [GPU](https://developer.mozilla.org/docs/Web/API/GPU) (Chrome 113, Firefox 141, Safari 26)
+- [GPU.getPreferredCanvasFormat](https://developer.mozilla.org/docs/Web/API/GPU/getPreferredCanvasFormat) (Chrome 113, Firefox 141, Safari 26)
+- [GPU.requestAdapter](https://developer.mozilla.org/docs/Web/API/GPU/requestAdapter) (Chrome 113, Firefox 141, Safari 26)
+- [GPU.wgslLanguageFeatures](https://developer.mozilla.org/docs/Web/API/GPU/wgslLanguageFeatures) (Chrome 115, Firefox 141, Safari 26)
+
+### GPUAdapterInfo
+
+- [GPUAdapterInfo](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapterInfo.architecture](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/architecture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapterInfo.description](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/description) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapterInfo.device](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/device) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapterInfo.vendor](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/vendor) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUBindGroup
+
+- [GPUBindGroup](https://developer.mozilla.org/docs/Web/API/GPUBindGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBindGroup.label](https://developer.mozilla.org/docs/Web/API/GPUBindGroup/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUBindGroupLayout
+
+- [GPUBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPUBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBindGroupLayout.label](https://developer.mozilla.org/docs/Web/API/GPUBindGroupLayout/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUCanvasContext
+
+- [GPUCanvasContext](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCanvasContext.canvas](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext/canvas) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCanvasContext.configure](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext/configure) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCanvasContext.getConfiguration](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext/getConfiguration) (Chrome 131, Firefox 141, Safari 26)
+- [GPUCanvasContext.getCurrentTexture](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext/getCurrentTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCanvasContext.unconfigure](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext/unconfigure) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUCommandBuffer
+
+- [GPUCommandBuffer](https://developer.mozilla.org/docs/Web/API/GPUCommandBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandBuffer.label](https://developer.mozilla.org/docs/Web/API/GPUCommandBuffer/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUCompilationInfo
+
+- [GPUCompilationInfo](https://developer.mozilla.org/docs/Web/API/GPUCompilationInfo) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationInfo.messages](https://developer.mozilla.org/docs/Web/API/GPUCompilationInfo/messages) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUCompilationMessage
+
+- [GPUCompilationMessage](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.length](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/length) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.lineNum](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/lineNum) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.linePos](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/linePos) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.message](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/message) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.offset](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/offset) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCompilationMessage.type](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/type) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUComputePipeline
+
+- [GPUComputePipeline](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePipeline.getBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline/getBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePipeline.label](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUDeviceLostInfo
+
+- [GPUDeviceLostInfo](https://developer.mozilla.org/docs/Web/API/GPUDeviceLostInfo) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDeviceLostInfo.message](https://developer.mozilla.org/docs/Web/API/GPUDeviceLostInfo/message) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDeviceLostInfo.reason](https://developer.mozilla.org/docs/Web/API/GPUDeviceLostInfo/reason) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUExternalTexture
+
+- [GPUExternalTexture](https://developer.mozilla.org/docs/Web/API/GPUExternalTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUExternalTexture.label](https://developer.mozilla.org/docs/Web/API/GPUExternalTexture/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUInternalError
+
+- [GPUInternalError](https://developer.mozilla.org/docs/Web/API/GPUInternalError) (Chrome 113, Firefox 141, Safari 26)
+- [<code>GPUInternalError()</code> constructor](https://developer.mozilla.org/docs/Web/API/GPUInternalError/GPUInternalError) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUOutOfMemoryError
+
+- [GPUOutOfMemoryError](https://developer.mozilla.org/docs/Web/API/GPUOutOfMemoryError) (Chrome 113, Firefox 141, Safari 26)
+- [<code>GPUOutOfMemoryError()</code> constructor](https://developer.mozilla.org/docs/Web/API/GPUOutOfMemoryError/GPUOutOfMemoryError) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUPipelineError
+
+- [GPUPipelineError](https://developer.mozilla.org/docs/Web/API/GPUPipelineError) (Chrome 113, Firefox 141, Safari 26)
+- [<code>GPUPipelineError()</code> constructor](https://developer.mozilla.org/docs/Web/API/GPUPipelineError/GPUPipelineError) (Chrome 113, Firefox 141, Safari 26)
+- <code>message</code> parameter is optional (Chrome 113, Firefox 141, Safari 26)
+- [GPUPipelineError.reason](https://developer.mozilla.org/docs/Web/API/GPUPipelineError/reason) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUPipelineLayout
+
+- [GPUPipelineLayout](https://developer.mozilla.org/docs/Web/API/GPUPipelineLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPUPipelineLayout.label](https://developer.mozilla.org/docs/Web/API/GPUPipelineLayout/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUQuerySet
+
+- [GPUQuerySet](https://developer.mozilla.org/docs/Web/API/GPUQuerySet) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQuerySet.count](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/count) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQuerySet.destroy](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/destroy) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQuerySet.label](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQuerySet.type](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/type) (Chrome 113, Firefox 141, Safari 26)
+
+### GPURenderBundle
+
+- [GPURenderBundle](https://developer.mozilla.org/docs/Web/API/GPURenderBundle) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundle.label](https://developer.mozilla.org/docs/Web/API/GPURenderBundle/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPURenderPipeline
+
+- [GPURenderPipeline](https://developer.mozilla.org/docs/Web/API/GPURenderPipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPipeline.getBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPURenderPipeline/getBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPipeline.label](https://developer.mozilla.org/docs/Web/API/GPURenderPipeline/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUSampler
+
+- [GPUSampler](https://developer.mozilla.org/docs/Web/API/GPUSampler) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSampler.label](https://developer.mozilla.org/docs/Web/API/GPUSampler/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUShaderModule
+
+- [GPUShaderModule](https://developer.mozilla.org/docs/Web/API/GPUShaderModule) (Chrome 113, Firefox 141, Safari 26)
+- [GPUShaderModule.getCompilationInfo](https://developer.mozilla.org/docs/Web/API/GPUShaderModule/getCompilationInfo) (Chrome 113, Firefox 141, Safari 26)
+- [GPUShaderModule.label](https://developer.mozilla.org/docs/Web/API/GPUShaderModule/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUSupportedFeatures
+
+- [GPUSupportedFeatures](https://developer.mozilla.org/docs/Web/API/GPUSupportedFeatures) (Chrome 113, Firefox 141, Safari 26)
+- [Symbol.iterator] (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.entries (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.forEach (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.has (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.keys (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.size (Chrome 113, Firefox 141, Safari 26)
+- GPUSupportedFeatures.values (Chrome 113, Firefox 141, Safari 26)
+
+### GPUSupportedLimits
+
+- [GPUSupportedLimits](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxBindGroups](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxBindGroupsPlusVertexBuffers](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 120, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxBindingsPerBindGroup](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxBufferSize](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxColorAttachmentBytesPerSample](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxColorAttachments](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeInvocationsPerWorkgroup](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeWorkgroupSizeX](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeWorkgroupSizeY](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeWorkgroupSizeZ](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeWorkgroupsPerDimension](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxComputeWorkgroupStorageSize](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxDynamicStorageBuffersPerPipelineLayout](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxDynamicUniformBuffersPerPipelineLayout](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxInterStageShaderVariables](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxSampledTexturesPerShaderStage](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxSamplersPerShaderStage](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxStorageBufferBindingSize](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxStorageBuffersPerShaderStage](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxStorageTexturesPerShaderStage](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxTextureArrayLayers](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxTextureDimension1D](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxTextureDimension2D](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxTextureDimension3D](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxUniformBufferBindingSize](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxUniformBuffersPerShaderStage](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxVertexAttributes](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxVertexBufferArrayStride](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.maxVertexBuffers](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.minStorageBufferOffsetAlignment](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+- [GPUSupportedLimits.minUniformBufferOffsetAlignment](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUTextureView
+
+- [GPUTextureView](https://developer.mozilla.org/docs/Web/API/GPUTextureView) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTextureView.label](https://developer.mozilla.org/docs/Web/API/GPUTextureView/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUUncapturedErrorEvent
+
+- [GPUUncapturedErrorEvent](https://developer.mozilla.org/docs/Web/API/GPUUncapturedErrorEvent) (Chrome 113, Firefox 141, Safari 26)
+- [GPUUncapturedErrorEvent.error](https://developer.mozilla.org/docs/Web/API/GPUUncapturedErrorEvent/error) (Chrome 113, Firefox 141, Safari 26)
+- [<code>GPUUncapturedErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/GPUUncapturedErrorEvent/GPUUncapturedErrorEvent) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUValidationError
+
+- [GPUValidationError](https://developer.mozilla.org/docs/Web/API/GPUValidationError) (Chrome 113, Firefox 141, Safari 26)
+- [<code>GPUValidationError()</code> constructor](https://developer.mozilla.org/docs/Web/API/GPUValidationError/GPUValidationError) (Chrome 113, Firefox 141, Safari 26)
+
 ### Highlight
 
 - [Highlight](https://developer.mozilla.org/docs/Web/API/Highlight) (Chrome 105, Firefox 140, Safari 17.2)
@@ -105,6 +290,10 @@ _This document is automatically generated weekly._
 - [ImageCapture](https://developer.mozilla.org/docs/Web/API/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
 - [<code>ImageCapture()</code> constructor](https://developer.mozilla.org/docs/Web/API/ImageCapture/ImageCapture) (Chrome 59, Firefox 35, Safari 18.4)
 - [ImageCapture.track](https://developer.mozilla.org/docs/Web/API/ImageCapture/track) (Chrome 59, Firefox 35, Safari 18.4)
+
+### IntersectionObserver
+
+- IntersectionObserver.scrollMargin (Chrome 120, Firefox 141, Safari 26)
 
 ### OffscreenCanvasRenderingContext2D
 
@@ -157,6 +346,17 @@ _This document is automatically generated weekly._
 ### trustedTypes
 
 - [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 135, Safari 26)
+
+### WGSLLanguageFeatures
+
+- [WGSLLanguageFeatures](https://developer.mozilla.org/docs/Web/API/WGSLLanguageFeatures) (Chrome 115, Firefox 141, Safari 26)
+- [Symbol.iterator] (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.entries (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.forEach (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.has (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.keys (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.size (Chrome 115, Firefox 141, Safari 26)
+- WGSLLanguageFeatures.values (Chrome 115, Firefox 141, Safari 26)
 
 ## 2024
 
@@ -3120,6 +3320,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 1990
+Total Web APIs tracked: 2109
 
-Last updated: 2025-06-22
+Last updated: 2025-06-29
