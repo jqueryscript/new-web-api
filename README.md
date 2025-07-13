@@ -293,7 +293,7 @@ _This document is automatically generated weekly._
 
 ### IntersectionObserver
 
-- IntersectionObserver.scrollMargin (Chrome 120, Firefox 141, Safari 26)
+- [IntersectionObserver.scrollMargin](https://developer.mozilla.org/docs/Web/API/IntersectionObserver/scrollMargin) (Chrome 120, Firefox 141, Safari 26)
 
 ### OffscreenCanvasRenderingContext2D
 
@@ -341,11 +341,50 @@ _This document is automatically generated weekly._
 
 ### ShadowRoot
 
-- Can be set with a <code>TrustedHTML</code> instance (Chrome 83, Firefox 135, Safari 26)
+- Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 135, Safari 26)
+- Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 124, Firefox 135, Safari 26)
 
 ### trustedTypes
 
 - [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 135, Safari 26)
+
+### WebTransport
+
+- [WebTransport](https://developer.mozilla.org/docs/Web/API/WebTransport) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.close](https://developer.mozilla.org/docs/Web/API/WebTransport/close) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.closed](https://developer.mozilla.org/docs/Web/API/WebTransport/closed) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.createBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createBidirectionalStream) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.createUnidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createUnidirectionalStream) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 18.4)
+- [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 18.4)
+- <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 18.4)
+
+### WebTransportBidirectionalStream
+
+- [WebTransportBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportBidirectionalStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/readable) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportBidirectionalStream.writable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/writable) (Chrome 97, Firefox 114, Safari 18.4)
+
+### WebTransportDatagramDuplexStream
+
+- [WebTransportDatagramDuplexStream](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.incomingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingHighWaterMark) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.incomingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingMaxAge) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.maxDatagramSize](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/maxDatagramSize) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.outgoingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingHighWaterMark) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.outgoingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingMaxAge) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/readable) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportDatagramDuplexStream.writable](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/writable) (Chrome 97, Firefox 114, Safari 18.4)
+
+### WebTransportError
+
+- [WebTransportError](https://developer.mozilla.org/docs/Web/API/WebTransportError) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportError.source](https://developer.mozilla.org/docs/Web/API/WebTransportError/source) (Chrome 97, Firefox 114, Safari 18.4)
+- [WebTransportError.streamErrorCode](https://developer.mozilla.org/docs/Web/API/WebTransportError/streamErrorCode) (Chrome 97, Firefox 114, Safari 18.4)
+- [<code>WebTransportError()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransportError/WebTransportError) (Chrome 97, Firefox 114, Safari 18.4)
 
 ### WGSLLanguageFeatures
 
@@ -2164,6 +2203,7 @@ _This document is automatically generated weekly._
 - [<code>type</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - <code>outbound-rtp</code> stats (Chrome 80, Firefox 27, Safari 11)
 - [<code>bytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/bytesSent) (Chrome 80, Firefox 72, Safari 13.1)
+- [<code>framesEncoded</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/framesEncoded) (Chrome 80, Firefox 55, Safari 11)
 - [<code>id</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>kind</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/kind) (Chrome 80, Firefox 63, Safari 14)
 - [<code>packetsSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/packetsSent) (Chrome 80, Firefox 27, Safari 13.1)
@@ -2518,6 +2558,7 @@ _This document is automatically generated weekly._
 ### RTCStatsReport
 
 - <code>inbound-rtp</code> stats (Chrome 79, Firefox 27, Safari 11)
+- [<code>framesDecoded</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/framesDecoded) (Chrome 79, Firefox 56, Safari 11)
 
 ### ServiceWorkerContainer
 
@@ -3320,6 +3361,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2109
+Total Web APIs tracked: 2138
 
-Last updated: 2025-07-06
+Last updated: 2025-07-13
