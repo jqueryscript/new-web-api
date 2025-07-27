@@ -71,6 +71,15 @@ _This document is automatically generated weekly._
 - [GPU.requestAdapter](https://developer.mozilla.org/docs/Web/API/GPU/requestAdapter) (Chrome 113, Firefox 141, Safari 26)
 - [GPU.wgslLanguageFeatures](https://developer.mozilla.org/docs/Web/API/GPU/wgslLanguageFeatures) (Chrome 115, Firefox 141, Safari 26)
 
+### GPUAdapter
+
+- [GPUAdapter](https://developer.mozilla.org/docs/Web/API/GPUAdapter) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapter.features](https://developer.mozilla.org/docs/Web/API/GPUAdapter/features) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapter.info](https://developer.mozilla.org/docs/Web/API/GPUAdapter/info) (Chrome 127, Firefox 141, Safari 26)
+- [GPUAdapter.isFallbackAdapter](https://developer.mozilla.org/docs/Web/API/GPUAdapter/isFallbackAdapter) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapter.limits](https://developer.mozilla.org/docs/Web/API/GPUAdapter/limits) (Chrome 113, Firefox 141, Safari 26)
+- [GPUAdapter.requestDevice](https://developer.mozilla.org/docs/Web/API/GPUAdapter/requestDevice) (Chrome 113, Firefox 141, Safari 26)
+
 ### GPUAdapterInfo
 
 - [GPUAdapterInfo](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo) (Chrome 113, Firefox 141, Safari 26)
@@ -89,6 +98,18 @@ _This document is automatically generated weekly._
 - [GPUBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPUBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
 - [GPUBindGroupLayout.label](https://developer.mozilla.org/docs/Web/API/GPUBindGroupLayout/label) (Chrome 113, Firefox 141, Safari 26)
 
+### GPUBuffer
+
+- [GPUBuffer](https://developer.mozilla.org/docs/Web/API/GPUBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.destroy](https://developer.mozilla.org/docs/Web/API/GPUBuffer/destroy) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.getMappedRange](https://developer.mozilla.org/docs/Web/API/GPUBuffer/getMappedRange) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.label](https://developer.mozilla.org/docs/Web/API/GPUBuffer/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.mapAsync](https://developer.mozilla.org/docs/Web/API/GPUBuffer/mapAsync) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.mapState](https://developer.mozilla.org/docs/Web/API/GPUBuffer/mapState) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.size](https://developer.mozilla.org/docs/Web/API/GPUBuffer/size) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.unmap](https://developer.mozilla.org/docs/Web/API/GPUBuffer/unmap) (Chrome 113, Firefox 141, Safari 26)
+- [GPUBuffer.usage](https://developer.mozilla.org/docs/Web/API/GPUBuffer/usage) (Chrome 113, Firefox 141, Safari 26)
+
 ### GPUCanvasContext
 
 - [GPUCanvasContext](https://developer.mozilla.org/docs/Web/API/GPUCanvasContext) (Chrome 113, Firefox 141, Safari 26)
@@ -102,6 +123,23 @@ _This document is automatically generated weekly._
 
 - [GPUCommandBuffer](https://developer.mozilla.org/docs/Web/API/GPUCommandBuffer) (Chrome 113, Firefox 141, Safari 26)
 - [GPUCommandBuffer.label](https://developer.mozilla.org/docs/Web/API/GPUCommandBuffer/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUCommandEncoder
+
+- [GPUCommandEncoder](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.beginComputePass](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/beginComputePass) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.beginRenderPass](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/beginRenderPass) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.clearBuffer](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/clearBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.copyBufferToBuffer](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/copyBufferToBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.copyBufferToTexture](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/copyBufferToTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.copyTextureToBuffer](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/copyTextureToBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.copyTextureToTexture](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/copyTextureToTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.finish](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/finish) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.insertDebugMarker](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/insertDebugMarker) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.label](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.popDebugGroup](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/popDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.pushDebugGroup](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/pushDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUCommandEncoder.resolveQuerySet](https://developer.mozilla.org/docs/Web/API/GPUCommandEncoder/resolveQuerySet) (Chrome 113, Firefox 141, Safari 26)
 
 ### GPUCompilationInfo
 
@@ -118,11 +156,51 @@ _This document is automatically generated weekly._
 - [GPUCompilationMessage.offset](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/offset) (Chrome 113, Firefox 141, Safari 26)
 - [GPUCompilationMessage.type](https://developer.mozilla.org/docs/Web/API/GPUCompilationMessage/type) (Chrome 113, Firefox 141, Safari 26)
 
+### GPUComputePassEncoder
+
+- [GPUComputePassEncoder](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.dispatchWorkgroups](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/dispatchWorkgroups) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.dispatchWorkgroupsIndirect](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/dispatchWorkgroupsIndirect) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.end](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/end) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.insertDebugMarker](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/insertDebugMarker) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.label](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.popDebugGroup](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/popDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.pushDebugGroup](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/pushDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.setBindGroup](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/setBindGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUComputePassEncoder.setPipeline](https://developer.mozilla.org/docs/Web/API/GPUComputePassEncoder/setPipeline) (Chrome 113, Firefox 141, Safari 26)
+
 ### GPUComputePipeline
 
 - [GPUComputePipeline](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline) (Chrome 113, Firefox 141, Safari 26)
 - [GPUComputePipeline.getBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline/getBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
 - [GPUComputePipeline.label](https://developer.mozilla.org/docs/Web/API/GPUComputePipeline/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPUDevice
+
+- [GPUDevice](https://developer.mozilla.org/docs/Web/API/GPUDevice) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createBindGroup](https://developer.mozilla.org/docs/Web/API/GPUDevice/createBindGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createBindGroupLayout](https://developer.mozilla.org/docs/Web/API/GPUDevice/createBindGroupLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createBuffer](https://developer.mozilla.org/docs/Web/API/GPUDevice/createBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createCommandEncoder](https://developer.mozilla.org/docs/Web/API/GPUDevice/createCommandEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createComputePipeline](https://developer.mozilla.org/docs/Web/API/GPUDevice/createComputePipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createComputePipelineAsync](https://developer.mozilla.org/docs/Web/API/GPUDevice/createComputePipelineAsync) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createPipelineLayout](https://developer.mozilla.org/docs/Web/API/GPUDevice/createPipelineLayout) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createQuerySet](https://developer.mozilla.org/docs/Web/API/GPUDevice/createQuerySet) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createRenderBundleEncoder](https://developer.mozilla.org/docs/Web/API/GPUDevice/createRenderBundleEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createRenderPipeline](https://developer.mozilla.org/docs/Web/API/GPUDevice/createRenderPipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createRenderPipelineAsync](https://developer.mozilla.org/docs/Web/API/GPUDevice/createRenderPipelineAsync) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createSampler](https://developer.mozilla.org/docs/Web/API/GPUDevice/createSampler) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createShaderModule](https://developer.mozilla.org/docs/Web/API/GPUDevice/createShaderModule) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.createTexture](https://developer.mozilla.org/docs/Web/API/GPUDevice/createTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.destroy](https://developer.mozilla.org/docs/Web/API/GPUDevice/destroy) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.features](https://developer.mozilla.org/docs/Web/API/GPUDevice/features) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.importExternalTexture](https://developer.mozilla.org/docs/Web/API/GPUDevice/importExternalTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.label](https://developer.mozilla.org/docs/Web/API/GPUDevice/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.limits](https://developer.mozilla.org/docs/Web/API/GPUDevice/limits) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.lost](https://developer.mozilla.org/docs/Web/API/GPUDevice/lost) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.popErrorScope](https://developer.mozilla.org/docs/Web/API/GPUDevice/popErrorScope) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.pushErrorScope](https://developer.mozilla.org/docs/Web/API/GPUDevice/pushErrorScope) (Chrome 113, Firefox 141, Safari 26)
+- [GPUDevice.queue](https://developer.mozilla.org/docs/Web/API/GPUDevice/queue) (Chrome 113, Firefox 141, Safari 26)
 
 ### GPUDeviceLostInfo
 
@@ -165,10 +243,60 @@ _This document is automatically generated weekly._
 - [GPUQuerySet.label](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/label) (Chrome 113, Firefox 141, Safari 26)
 - [GPUQuerySet.type](https://developer.mozilla.org/docs/Web/API/GPUQuerySet/type) (Chrome 113, Firefox 141, Safari 26)
 
+### GPUQueue
+
+- [GPUQueue](https://developer.mozilla.org/docs/Web/API/GPUQueue) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQueue.copyExternalImageToTexture](https://developer.mozilla.org/docs/Web/API/GPUQueue/copyExternalImageToTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQueue.label](https://developer.mozilla.org/docs/Web/API/GPUQueue/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQueue.submit](https://developer.mozilla.org/docs/Web/API/GPUQueue/submit) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQueue.writeBuffer](https://developer.mozilla.org/docs/Web/API/GPUQueue/writeBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPUQueue.writeTexture](https://developer.mozilla.org/docs/Web/API/GPUQueue/writeTexture) (Chrome 113, Firefox 141, Safari 26)
+
 ### GPURenderBundle
 
 - [GPURenderBundle](https://developer.mozilla.org/docs/Web/API/GPURenderBundle) (Chrome 113, Firefox 141, Safari 26)
 - [GPURenderBundle.label](https://developer.mozilla.org/docs/Web/API/GPURenderBundle/label) (Chrome 113, Firefox 141, Safari 26)
+
+### GPURenderBundleEncoder
+
+- [GPURenderBundleEncoder](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.draw](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/draw) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.drawIndexed](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/drawIndexed) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.drawIndexedIndirect](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/drawIndexedIndirect) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.drawIndirect](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/drawIndirect) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.finish](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/finish) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.insertDebugMarker](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/insertDebugMarker) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.label](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.popDebugGroup](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/popDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.pushDebugGroup](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/pushDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.setBindGroup](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/setBindGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.setIndexBuffer](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/setIndexBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.setPipeline](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/setPipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderBundleEncoder.setVertexBuffer](https://developer.mozilla.org/docs/Web/API/GPURenderBundleEncoder/setVertexBuffer) (Chrome 113, Firefox 141, Safari 26)
+
+### GPURenderPassEncoder
+
+- [GPURenderPassEncoder](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.beginOcclusionQuery](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/beginOcclusionQuery) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.draw](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/draw) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.drawIndexed](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/drawIndexed) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.drawIndexedIndirect](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/drawIndexedIndirect) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.drawIndirect](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/drawIndirect) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.end](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/end) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.endOcclusionQuery](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/endOcclusionQuery) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.executeBundles](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/executeBundles) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.insertDebugMarker](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/insertDebugMarker) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.label](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.popDebugGroup](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/popDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.pushDebugGroup](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/pushDebugGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setBindGroup](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setBindGroup) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setBlendConstant](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setBlendConstant) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setIndexBuffer](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setIndexBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setPipeline](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setPipeline) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setScissorRect](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setScissorRect) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setStencilReference](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setStencilReference) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setVertexBuffer](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setVertexBuffer) (Chrome 113, Firefox 141, Safari 26)
+- [GPURenderPassEncoder.setViewport](https://developer.mozilla.org/docs/Web/API/GPURenderPassEncoder/setViewport) (Chrome 113, Firefox 141, Safari 26)
 
 ### GPURenderPipeline
 
@@ -233,6 +361,21 @@ _This document is automatically generated weekly._
 - [GPUSupportedLimits.minStorageBufferOffsetAlignment](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
 - [GPUSupportedLimits.minUniformBufferOffsetAlignment](https://developer.mozilla.org/docs/Web/API/GPUSupportedLimits#instance_properties) (Chrome 113, Firefox 141, Safari 26)
 
+### GPUTexture
+
+- [GPUTexture](https://developer.mozilla.org/docs/Web/API/GPUTexture) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.createView](https://developer.mozilla.org/docs/Web/API/GPUTexture/createView) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.depthOrArrayLayers](https://developer.mozilla.org/docs/Web/API/GPUTexture/depthOrArrayLayers) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.destroy](https://developer.mozilla.org/docs/Web/API/GPUTexture/destroy) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.dimension](https://developer.mozilla.org/docs/Web/API/GPUTexture/dimension) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.format](https://developer.mozilla.org/docs/Web/API/GPUTexture/format) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.height](https://developer.mozilla.org/docs/Web/API/GPUTexture/height) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.label](https://developer.mozilla.org/docs/Web/API/GPUTexture/label) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.mipLevelCount](https://developer.mozilla.org/docs/Web/API/GPUTexture/mipLevelCount) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.sampleCount](https://developer.mozilla.org/docs/Web/API/GPUTexture/sampleCount) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.usage](https://developer.mozilla.org/docs/Web/API/GPUTexture/usage) (Chrome 113, Firefox 141, Safari 26)
+- [GPUTexture.width](https://developer.mozilla.org/docs/Web/API/GPUTexture/width) (Chrome 113, Firefox 141, Safari 26)
+
 ### GPUTextureView
 
 - [GPUTextureView](https://developer.mozilla.org/docs/Web/API/GPUTextureView) (Chrome 113, Firefox 141, Safari 26)
@@ -295,6 +438,10 @@ _This document is automatically generated weekly._
 
 - [IntersectionObserver.scrollMargin](https://developer.mozilla.org/docs/Web/API/IntersectionObserver/scrollMargin) (Chrome 120, Firefox 141, Safari 26)
 
+### OffscreenCanvas
+
+- <code>webgpu</code> context (Chrome 113, Firefox 141, Safari 26)
+
 ### OffscreenCanvasRenderingContext2D
 
 - [OffscreenCanvasRenderingContext2D.letterSpacing](https://developer.mozilla.org/docs/Web/API/CanvasRenderingContext2D/letterSpacing) (Chrome 99, Firefox 115, Safari 18.4)
@@ -332,6 +479,7 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
+- [<code>responsesReceived</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/responsesReceived) (Chrome 58, Firefox 142, Safari 11)
 - [<code>mid</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/mid) (Chrome 105, Firefox 135, Safari 17)
 
 ### ServiceWorkerGlobalScope
@@ -347,6 +495,23 @@ _This document is automatically generated weekly._
 ### trustedTypes
 
 - [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 135, Safari 26)
+
+### URLPattern
+
+- [URLPattern](https://developer.mozilla.org/docs/Web/API/URLPattern) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.exec](https://developer.mozilla.org/docs/Web/API/URLPattern/exec) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.hash](https://developer.mozilla.org/docs/Web/API/URLPattern/hash) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.hasRegExpGroups](https://developer.mozilla.org/docs/Web/API/URLPattern/hasRegExpGroups) (Chrome 122, Firefox 142, Safari 26)
+- [URLPattern.hostname](https://developer.mozilla.org/docs/Web/API/URLPattern/hostname) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.password](https://developer.mozilla.org/docs/Web/API/URLPattern/password) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.pathname](https://developer.mozilla.org/docs/Web/API/URLPattern/pathname) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.port](https://developer.mozilla.org/docs/Web/API/URLPattern/port) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.protocol](https://developer.mozilla.org/docs/Web/API/URLPattern/protocol) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.search](https://developer.mozilla.org/docs/Web/API/URLPattern/search) (Chrome 95, Firefox 142, Safari 26)
+- [URLPattern.test](https://developer.mozilla.org/docs/Web/API/URLPattern/test) (Chrome 95, Firefox 142, Safari 26)
+- [<code>URLPattern()</code> constructor](https://developer.mozilla.org/docs/Web/API/URLPattern/URLPattern) (Chrome 95, Firefox 142, Safari 26)
+- <code>ignoreCase</code> option (Chrome 107, Firefox 142, Safari 26)
+- [URLPattern.username](https://developer.mozilla.org/docs/Web/API/URLPattern/username) (Chrome 95, Firefox 142, Safari 26)
 
 ### WebTransport
 
@@ -977,7 +1142,6 @@ _This document is automatically generated weekly._
 - <code>bitmaprenderer</code> context (Chrome 76, Firefox 105, Safari 16.4)
 - <code>webgl</code> context (Chrome 69, Firefox 105, Safari 17)
 - <code>webgl2</code> context (Chrome 69, Firefox 105, Safari 17)
-- <code>webgpu</code> context (Chrome 113, Firefox 105, Safari 26)
 - [OffscreenCanvas.height](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/height) (Chrome 69, Firefox 105, Safari 16.4)
 - [<code>OffscreenCanvas()</code> constructor](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/OffscreenCanvas) (Chrome 69, Firefox 105, Safari 16.4)
 - [OffscreenCanvas.transferToImageBitmap](https://developer.mozilla.org/docs/Web/API/OffscreenCanvas/transferToImageBitmap) (Chrome 69, Firefox 105, Safari 16.4)
@@ -3361,6 +3525,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2138
+Total Web APIs tracked: 2269
 
-Last updated: 2025-07-20
+Last updated: 2025-07-27
