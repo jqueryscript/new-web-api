@@ -9,9 +9,9 @@ _This document is automatically generated weekly._
 ### CaretPosition
 
 - [CaretPosition](https://developer.mozilla.org/docs/Web/API/CaretPosition) (Chrome 128, Firefox 20, Safari 18.4)
-- CaretPosition.getClientRect (Chrome 128, Firefox 23, Safari 18.4)
-- CaretPosition.offset (Chrome 128, Firefox 20, Safari 18.4)
-- CaretPosition.offsetNode (Chrome 128, Firefox 20, Safari 18.4)
+- [CaretPosition.getClientRect](https://developer.mozilla.org/docs/Web/API/CaretPosition/getClientRect) (Chrome 128, Firefox 23, Safari 18.4)
+- [CaretPosition.offset](https://developer.mozilla.org/docs/Web/API/CaretPosition/offset) (Chrome 128, Firefox 20, Safari 18.4)
+- [CaretPosition.offsetNode](https://developer.mozilla.org/docs/Web/API/CaretPosition/offsetNode) (Chrome 128, Firefox 20, Safari 18.4)
 
 ### ClipboardItem
 
@@ -490,7 +490,6 @@ _This document is automatically generated weekly._
 ### ShadowRoot
 
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 135, Safari 26)
-- Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 124, Firefox 135, Safari 26)
 
 ### trustedTypes
 
@@ -848,7 +847,6 @@ _This document is automatically generated weekly._
 - [ShadowRoot.clonable](https://developer.mozilla.org/docs/Web/API/ShadowRoot/clonable) (Chrome 124, Firefox 123, Safari 17.4)
 - [ShadowRoot.getHTML](https://developer.mozilla.org/docs/Web/API/ShadowRoot/getHTML) (Chrome 125, Firefox 128, Safari 18)
 - [ShadowRoot.serializable](https://developer.mozilla.org/docs/Web/API/ShadowRoot/serializable) (Chrome 125, Firefox 128, Safari 18)
-- [ShadowRoot.setHTMLUnsafe](https://developer.mozilla.org/docs/Web/API/ShadowRoot/setHTMLUnsafe) (Chrome 124, Firefox 123, Safari 17.4)
 
 ### TextEvent
 
@@ -3525,6 +3523,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2269
+Total Web APIs tracked: 2267
 
-Last updated: 2025-07-27
+Last updated: 2025-08-03
