@@ -3525,4 +3525,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2267
 
-Last updated: 2025-08-03
+Last updated: 2025-08-10
