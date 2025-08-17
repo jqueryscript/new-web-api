@@ -3192,10 +3192,6 @@ _This document is automatically generated weekly._
 - [HTMLTimeElement](https://developer.mozilla.org/docs/Web/API/HTMLTimeElement) (Chrome 62, Firefox 22, Safari 10)
 - [HTMLTimeElement.dateTime](https://developer.mozilla.org/docs/Web/API/HTMLTimeElement/dateTime) (Chrome 62, Firefox 22, Safari 10)
 
-### InputDeviceInfo
-
-- [InputDeviceInfo](https://developer.mozilla.org/docs/Web/API/InputDeviceInfo) (Chrome 47, Firefox 39, Safari 11)
-
 ### InputEvent
 
 - [InputEvent](https://developer.mozilla.org/docs/Web/API/InputEvent) (Chrome 60, Firefox 31, Safari 10.1)
@@ -3523,6 +3519,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2267
+Total Web APIs tracked: 2266
 
-Last updated: 2025-08-10
+Last updated: 2025-08-17
