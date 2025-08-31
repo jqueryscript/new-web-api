@@ -1114,10 +1114,6 @@ _This document is automatically generated weekly._
 
 - [Headers.getSetCookie](https://developer.mozilla.org/docs/Web/API/Headers/getSetCookie) (Chrome 113, Firefox 112, Safari 17)
 
-### HTMLSlotElement
-
-- [HTMLSlotElement.assign](https://developer.mozilla.org/docs/Web/API/HTMLSlotElement/assign) (Chrome 86, Firefox 92, Safari 16.4)
-
 ### InputEvent
 
 - [InputEvent.isComposing](https://developer.mozilla.org/docs/Web/API/InputEvent/isComposing) (Chrome 60, Firefox 31, Safari 16.4)
@@ -3519,6 +3515,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2266
+Total Web APIs tracked: 2265
 
-Last updated: 2025-08-24
+Last updated: 2025-08-31
