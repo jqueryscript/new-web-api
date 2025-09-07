@@ -320,6 +320,8 @@ _This document is automatically generated weekly._
 - [GPUSupportedFeatures](https://developer.mozilla.org/docs/Web/API/GPUSupportedFeatures) (Chrome 113, Firefox 141, Safari 26)
 - [Symbol.iterator] (Chrome 113, Firefox 141, Safari 26)
 - GPUSupportedFeatures.entries (Chrome 113, Firefox 141, Safari 26)
+- <code>texture-compression-astc-sliced-3d</code> feature (Chrome 139, Firefox 141, Safari 26)
+- <code>texture-compression-bc-sliced-3d</code> feature (Chrome 139, Firefox 141, Safari 26)
 - GPUSupportedFeatures.forEach (Chrome 113, Firefox 141, Safari 26)
 - GPUSupportedFeatures.has (Chrome 113, Firefox 141, Safari 26)
 - GPUSupportedFeatures.keys (Chrome 113, Firefox 141, Safari 26)
@@ -473,14 +475,37 @@ _This document is automatically generated weekly._
 
 - [RTCCertificate.getFingerprints](https://developer.mozilla.org/docs/Web/API/RTCCertificate/getFingerprints) (Chrome 61, Firefox 138, Safari 12.1)
 
+### RTCRtpReceiver
+
+- [RTCRtpReceiver.transform](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/transform) (Chrome 141, Firefox 117, Safari 15.4)
+
+### RTCRtpScriptTransform
+
+- [RTCRtpScriptTransform](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransform) (Chrome 141, Firefox 117, Safari 15.4)
+- [<code>RTCRtpScriptTransform()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransform/RTCRtpScriptTransform) (Chrome 141, Firefox 117, Safari 15.4)
+
+### RTCRtpScriptTransformer
+
+- [RTCRtpScriptTransformer](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransformer) (Chrome 141, Firefox 117, Safari 15.4)
+- [RTCRtpScriptTransformer.options](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransformer/options) (Chrome 141, Firefox 117, Safari 15.4)
+- [RTCRtpScriptTransformer.readable](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransformer/readable) (Chrome 141, Firefox 117, Safari 15.4)
+- [RTCRtpScriptTransformer.sendKeyFrameRequest](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransformer/sendKeyFrameRequest) (Chrome 141, Firefox 117, Safari 15.4)
+- [RTCRtpScriptTransformer.writable](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransformer/writable) (Chrome 141, Firefox 117, Safari 15.4)
+
 ### RTCRtpSender
 
 - [<code>degradationPreference</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/getParameters#degradationpreference) (Chrome 83, Firefox 138, Safari 12.1)
+- [RTCRtpSender.transform](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/transform) (Chrome 141, Firefox 117, Safari 15.4)
 
 ### RTCStatsReport
 
 - [<code>responsesReceived</code> in 'candidate-pair' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/responsesReceived) (Chrome 58, Firefox 142, Safari 11)
 - [<code>mid</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/mid) (Chrome 105, Firefox 135, Safari 17)
+
+### RTCTransformEvent
+
+- [RTCTransformEvent](https://developer.mozilla.org/docs/Web/API/RTCTransformEvent) (Chrome 141, Firefox 117, Safari 15.4)
+- [RTCTransformEvent.transformer](https://developer.mozilla.org/docs/Web/API/RTCTransformEvent/transformer) (Chrome 141, Firefox 117, Safari 15.4)
 
 ### ServiceWorkerGlobalScope
 
@@ -833,10 +858,6 @@ _This document is automatically generated weekly._
 
 - [RTCRtpReceiver.getParameters](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters) (Chrome 59, Firefox 128, Safari 11)
 - [<code>codecs</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters#codecs) (Chrome 69, Firefox 128, Safari 11)
-
-### RTCRtpScriptTransform
-
-- [RTCRtpScriptTransform](https://developer.mozilla.org/docs/Web/API/RTCRtpScriptTransform) (Chrome 129, Firefox 117, Safari 15.4)
 
 ### RTCRtpTransceiver
 
@@ -3515,6 +3536,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2265
+Total Web APIs tracked: 2277
 
-Last updated: 2025-08-31
+Last updated: 2025-09-07
