@@ -671,6 +671,7 @@ _This document is automatically generated weekly._
 ### ShadowRoot
 
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 135, Safari 26)
+- Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 114, Firefox 140, Safari 26)
 
 ### TrustedTypePolicyFactory
 
@@ -1909,6 +1910,7 @@ _This document is automatically generated weekly._
 ### PerformancePaintTiming
 
 - [PerformancePaintTiming](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming) (Chrome 60, Firefox 84, Safari 14.1)
+- [<code>first-contentful-paint</code> named entry](https://developer.mozilla.org/docs/Glossary/First_contentful_paint) (Chrome 60, Firefox 84, Safari 14.1)
 - PerformancePaintTiming.toJSON (Chrome 60, Firefox 84, Safari 14.1)
 
 ### RTCRtpSender
@@ -3560,6 +3562,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2289
+Total Web APIs tracked: 2291
 
-Last updated: 2025-09-28
+Last updated: 2025-10-05
