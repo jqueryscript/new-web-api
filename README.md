@@ -587,6 +587,10 @@ _This document is automatically generated weekly._
 
 - [IntersectionObserver.scrollMargin](https://developer.mozilla.org/docs/Web/API/IntersectionObserver/scrollMargin) (Chrome 120, Firefox 141, Safari 26)
 
+### MediaDevices
+
+- [<code>groupId</code> property in returned object](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/groupId) (Chrome 53, Firefox 70, Safari 18.6)
+
 ### OffscreenCanvas
 
 - <code>webgpu</code> context (Chrome 113, Firefox 141, Safari 26)
@@ -626,6 +630,14 @@ _This document is automatically generated weekly._
 
 - [<code>closing</code> event](https://developer.mozilla.org/docs/Web/API/RTCDataChannel/closing_event) (Chrome 81, Firefox 144, Safari 15.4)
 - [RTCDataChannel.transferable](https://developer.mozilla.org/docs/Web/API/Web_Workers_API/Transferable_objects) (Chrome 130, Firefox 144, Safari 15)
+
+### RTCEncodedAudioFrame
+
+- <code>RTCEncodedAudioFrame()</code> constructor (Chrome 127, Firefox 145, Safari 26)
+
+### RTCEncodedVideoFrame
+
+- <code>RTCEncodedVideoFrame()</code> constructor (Chrome 127, Firefox 145, Safari 26)
 
 ### RTCRtpReceiver
 
@@ -2327,6 +2339,10 @@ _This document is automatically generated weekly._
 - [KeyframeEffect.setKeyframes](https://developer.mozilla.org/docs/Web/API/KeyframeEffect/setKeyframes) (Chrome 84, Firefox 63, Safari 13.1)
 - [KeyframeEffect.target](https://developer.mozilla.org/docs/Web/API/KeyframeEffect/target) (Chrome 75, Firefox 63, Safari 13.1)
 
+### MediaDevices
+
+- [<code>echoCancellation</code> property in returned object](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/echoCancellation) (Chrome 53, Firefox 46, Safari 13.1)
+
 ### MediaMetadata
 
 - [MediaMetadata](https://developer.mozilla.org/docs/Web/API/MediaMetadata) (Chrome 57, Firefox 82, Safari 14)
@@ -3562,6 +3578,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2291
+Total Web APIs tracked: 2295
 
-Last updated: 2025-10-12
+Last updated: 2025-10-19
