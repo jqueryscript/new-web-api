@@ -88,84 +88,6 @@ _This document is automatically generated weekly._
 
 - [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 130, Safari 18.4)
 
-### CSSPositionTryDescriptors
-
-- [CSSPositionTryDescriptors](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.align-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.alignSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.blockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.inset-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.insetInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.justify-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.justifySelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.margin-top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginBottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginLeft](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginRight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.marginTop](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.max-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.max-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.max-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.max-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.maxBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.maxHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.maxInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.maxWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.min-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.min-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.min-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.min-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.minBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.minHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.minInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.minWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.place-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.placeSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.position-anchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.positionAnchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryDescriptors.width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 131, Safari 26)
-
-### CSSPositionTryRule
-
-- [CSSPositionTryRule](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 131, Safari 26)
-- [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 131, Safari 26)
-
 ### ElementInternals
 
 - [ElementInternals.ariaActiveDescendantElement](https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaActiveDescendantElement) (Chrome 135, Firefox 136, Safari 16.4)
@@ -230,7 +152,7 @@ _This document is automatically generated weekly._
 - [GPUAdapterInfo.architecture](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/architecture) (Chrome 113, Firefox 141, Safari 26)
 - [GPUAdapterInfo.description](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/description) (Chrome 113, Firefox 141, Safari 26)
 - [GPUAdapterInfo.device](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/device) (Chrome 113, Firefox 141, Safari 26)
-- GPUAdapterInfo.isFallbackAdapter (Chrome 136, Firefox 141, Safari 26)
+- [GPUAdapterInfo.isFallbackAdapter](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/isFallbackAdapter) (Chrome 136, Firefox 141, Safari 26)
 - [GPUAdapterInfo.vendor](https://developer.mozilla.org/docs/Web/API/GPUAdapterInfo/vendor) (Chrome 113, Firefox 141, Safari 26)
 
 ### GPUBindGroup
@@ -633,11 +555,11 @@ _This document is automatically generated weekly._
 
 ### RTCEncodedAudioFrame
 
-- <code>RTCEncodedAudioFrame()</code> constructor (Chrome 127, Firefox 145, Safari 26)
+- [<code>RTCEncodedAudioFrame()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCEncodedAudioFrame/RTCEncodedAudioFrame) (Chrome 127, Firefox 145, Safari 26)
 
 ### RTCEncodedVideoFrame
 
-- <code>RTCEncodedVideoFrame()</code> constructor (Chrome 127, Firefox 145, Safari 26)
+- [<code>RTCEncodedVideoFrame()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCEncodedVideoFrame/RTCEncodedVideoFrame) (Chrome 127, Firefox 145, Safari 26)
 
 ### RTCRtpReceiver
 
@@ -3578,6 +3500,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2295
+Total Web APIs tracked: 2223
 
-Last updated: 2025-10-19
+Last updated: 2025-10-26
