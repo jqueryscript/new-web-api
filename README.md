@@ -555,11 +555,39 @@ _This document is automatically generated weekly._
 
 ### RTCEncodedAudioFrame
 
+- <code>contributingSources</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>payloadType</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>rtpTimestamp</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>sequenceNumber</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>synchronizationSource</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
 - [<code>RTCEncodedAudioFrame()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCEncodedAudioFrame/RTCEncodedAudioFrame) (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.contributingSources</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.payloadType</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.rtpTimestamp</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.sequenceNumber</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.synchronizationSource</code> parameter (Chrome 127, Firefox 145, Safari 26)
 
 ### RTCEncodedVideoFrame
 
+- <code>contributingSources</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>dependencies</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>frameId</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>height</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>payloadType</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>spatialIndex</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>synchronizationSource</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>temporalIndex</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
+- <code>width</code> property in returned object (Chrome 127, Firefox 145, Safari 26)
 - [<code>RTCEncodedVideoFrame()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCEncodedVideoFrame/RTCEncodedVideoFrame) (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.contributingSources</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.dependencies</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.frameId</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.height</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.payloadType</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.spatialIndex</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.synchronizationSource</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.temporalIndex</code> parameter (Chrome 127, Firefox 145, Safari 26)
+- <code>options.metadata.width</code> parameter (Chrome 127, Firefox 145, Safari 26)
 
 ### RTCRtpReceiver
 
@@ -593,10 +621,6 @@ _This document is automatically generated weekly._
 - [RTCTransformEvent](https://developer.mozilla.org/docs/Web/API/RTCTransformEvent) (Chrome 141, Firefox 117, Safari 15.4)
 - [RTCTransformEvent.transformer](https://developer.mozilla.org/docs/Web/API/RTCTransformEvent/transformer) (Chrome 141, Firefox 117, Safari 15.4)
 
-### ServiceWorkerContainer
-
-- <code>scriptURL</code> parameter requires <code>TrustedScriptURL</code> instance when trusted types are enforced (Chrome 140, Firefox 136, Safari 26)
-
 ### ServiceWorkerGlobalScope
 
 - [ServiceWorkerGlobalScope.cookieStore](https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/cookieStore) (Chrome 87, Firefox 140, Safari 18.4)
@@ -604,18 +628,7 @@ _This document is automatically generated weekly._
 
 ### ShadowRoot
 
-- Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 135, Safari 26)
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 114, Firefox 140, Safari 26)
-
-### TrustedTypePolicyFactory
-
-- [TrustedTypePolicyFactory](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory) (Chrome 83, Firefox 133, Safari 26)
-- [TrustedTypePolicyFactory.getAttributeType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getAttributeType) (Chrome 83, Firefox 133, Safari 26)
-- [TrustedTypePolicyFactory.getPropertyType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getPropertyType) (Chrome 83, Firefox 133, Safari 26)
-
-### trustedTypes
-
-- [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 135, Safari 26)
 
 ### URLPattern
 
@@ -2444,9 +2457,9 @@ _This document is automatically generated weekly._
 
 ### DOMMatrixReadOnly
 
-- <code>fromFloat32Array()</code> static method (Chrome 61, Firefox 69, Safari 11)
-- <code>fromFloat64Array()</code> static method (Chrome 61, Firefox 69, Safari 11)
-- <code>fromMatrix()</code> static method (Chrome 61, Firefox 69, Safari 11)
+- [<code>fromFloat32Array()</code> static method](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/fromFloat32Array_static) (Chrome 61, Firefox 69, Safari 11)
+- [<code>fromFloat64Array()</code> static method](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/fromFloat64Array_static) (Chrome 61, Firefox 69, Safari 11)
+- [<code>fromMatrix()</code> static method](https://developer.mozilla.org/docs/Web/API/DOMMatrixReadOnly/fromMatrix_static) (Chrome 61, Firefox 69, Safari 11)
 - Available in workers (Chrome 61, Firefox 69, Safari 11)
 
 ### DOMPoint
@@ -2460,8 +2473,8 @@ _This document is automatically generated weekly._
 
 ### DOMQuad
 
-- <code>fromQuad()</code> static method (Chrome 61, Firefox 69, Safari 11)
-- <code>fromRect()</code> static method (Chrome 61, Firefox 69, Safari 11)
+- [<code>fromQuad()</code> static method](https://developer.mozilla.org/docs/Web/API/DOMQuad/fromQuad_static) (Chrome 61, Firefox 69, Safari 11)
+- [<code>fromRect()</code> static method](https://developer.mozilla.org/docs/Web/API/DOMQuad/fromRect_static) (Chrome 61, Firefox 69, Safari 11)
 - Available in workers (Chrome 61, Firefox 69, Safari 11)
 
 ### HTMLDataListElement
@@ -3500,6 +3513,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2223
+Total Web APIs tracked: 2245
 
-Last updated: 2025-10-26
+Last updated: 2025-11-02
