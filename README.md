@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2025
 
+### Animation
+
+- [Animation.overallProgress](https://developer.mozilla.org/docs/Web/API/Animation/overallProgress) (Chrome 133, Firefox 142, Safari 26.2)
+
 ### AudioData
 
 - [AudioData](https://developer.mozilla.org/docs/Web/API/AudioData) (Chrome 94, Firefox 130, Safari 26)
@@ -61,6 +65,13 @@ _This document is automatically generated weekly._
 ### ClipboardItem
 
 - [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
+
+### CommandEvent
+
+- [CommandEvent](https://developer.mozilla.org/docs/Web/API/CommandEvent) (Chrome 135, Firefox 144, Safari 26.2)
+- [CommandEvent.command](https://developer.mozilla.org/docs/Web/API/CommandEvent/command) (Chrome 135, Firefox 144, Safari 26.2)
+- [<code>CommandEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/CommandEvent/CommandEvent) (Chrome 135, Firefox 144, Safari 26.2)
+- [CommandEvent.source](https://developer.mozilla.org/docs/Web/API/CommandEvent/source) (Chrome 135, Firefox 144, Safari 26.2)
 
 ### CookieChangeEvent
 
@@ -3513,6 +3524,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2245
+Total Web APIs tracked: 2250
 
-Last updated: 2025-11-23
+Last updated: 2025-11-30
