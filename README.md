@@ -55,6 +55,13 @@ _This document is automatically generated weekly._
 - [AudioEncoder.reset](https://developer.mozilla.org/docs/Web/API/AudioEncoder/reset) (Chrome 94, Firefox 130, Safari 26)
 - [AudioEncoder.state](https://developer.mozilla.org/docs/Web/API/AudioEncoder/state) (Chrome 94, Firefox 130, Safari 26)
 
+### CaretPosition
+
+- [CaretPosition](https://developer.mozilla.org/docs/Web/API/CaretPosition) (Chrome 128, Firefox 20, Safari 26.2)
+- [CaretPosition.getClientRect](https://developer.mozilla.org/docs/Web/API/CaretPosition/getClientRect) (Chrome 128, Firefox 23, Safari 26.2)
+- [CaretPosition.offset](https://developer.mozilla.org/docs/Web/API/CaretPosition/offset) (Chrome 128, Firefox 20, Safari 26.2)
+- [CaretPosition.offsetNode](https://developer.mozilla.org/docs/Web/API/CaretPosition/offsetNode) (Chrome 128, Firefox 20, Safari 26.2)
+
 ### ClipboardItem
 
 - [<code>supports()</code> static method](https://developer.mozilla.org/docs/Web/API/ClipboardItem/supports_static) (Chrome 121, Firefox 127, Safari 18.4)
@@ -117,6 +124,18 @@ _This document is automatically generated weekly._
 - [<code>EncodedAudioChunk()</code> constructor](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/EncodedAudioChunk) (Chrome 94, Firefox 130, Safari 26)
 - [EncodedAudioChunk.timestamp](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/timestamp) (Chrome 94, Firefox 130, Safari 26)
 - [EncodedAudioChunk.type](https://developer.mozilla.org/docs/Web/API/EncodedAudioChunk/type) (Chrome 94, Firefox 130, Safari 26)
+
+### EventCounts
+
+- [EventCounts](https://developer.mozilla.org/docs/Web/API/EventCounts) (Chrome 85, Firefox 89, Safari 26.2)
+- [Symbol.iterator] (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.entries (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.forEach (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.get (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.has (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.keys (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.size (Chrome 85, Firefox 89, Safari 26.2)
+- EventCounts.values (Chrome 85, Firefox 89, Safari 26.2)
 
 ### ExtendableCookieChangeEvent
 
@@ -519,6 +538,20 @@ _This document is automatically generated weekly._
 
 - [IntersectionObserver.scrollMargin](https://developer.mozilla.org/docs/Web/API/IntersectionObserver/scrollMargin) (Chrome 120, Firefox 141, Safari 26)
 
+### LargestContentfulPaint
+
+- [LargestContentfulPaint](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint) (Chrome 77, Firefox 122, Safari 26.2)
+- [LargestContentfulPaint.element](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/element) (Chrome 77, Firefox 122, Safari 26.2)
+- [LargestContentfulPaint.id](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/id) (Chrome 77, Firefox 122, Safari 26.2)
+- [LargestContentfulPaint.loadTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/loadTime) (Chrome 77, Firefox 122, Safari 26.2)
+- LargestContentfulPaint.paintTime (Chrome 134, Firefox 140, Safari 26.2)
+- LargestContentfulPaint.presentationTime (Chrome 134, Firefox 140, Safari 26.2)
+- [LargestContentfulPaint.renderTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/renderTime) (Chrome 77, Firefox 122, Safari 26.2)
+- [Cross-origin](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/renderTime#cross-origin_image_render_time) (Chrome 133, Firefox 141, Safari 26.2)
+- [LargestContentfulPaint.size](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/size) (Chrome 77, Firefox 122, Safari 26.2)
+- [LargestContentfulPaint.toJSON](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/toJSON) (Chrome 77, Firefox 122, Safari 26.2)
+- [LargestContentfulPaint.url](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/url) (Chrome 77, Firefox 122, Safari 26.2)
+
 ### MediaDevices
 
 - [<code>groupId</code> property in returned object](https://developer.mozilla.org/docs/Web/API/MediaTrackConstraints/groupId) (Chrome 53, Firefox 70, Safari 18.6)
@@ -534,7 +567,17 @@ _This document is automatically generated weekly._
 
 ### PerformanceEventTiming
 
+- [PerformanceEventTiming](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming) (Chrome 76, Firefox 89, Safari 26.2)
+- [PerformanceEventTiming.cancelable](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/cancelable) (Chrome 76, Firefox 89, Safari 26.2)
 - [PerformanceEventTiming.interactionId](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/interactionId) (Chrome 96, Firefox 144, Safari 26.2)
+- [PerformanceEventTiming.processingEnd](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/processingEnd) (Chrome 76, Firefox 89, Safari 26.2)
+- [PerformanceEventTiming.processingStart](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/processingStart) (Chrome 76, Firefox 89, Safari 26.2)
+- [PerformanceEventTiming.target](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/target) (Chrome 85, Firefox 89, Safari 26.2)
+- [PerformanceEventTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/toJSON) (Chrome 76, Firefox 89, Safari 26.2)
+
+### Permissions
+
+- <code>storage-access</code> permission (Chrome 119, Firefox 117, Safari 26.2)
 
 ### PublicKeyCredential
 
@@ -724,13 +767,6 @@ _This document is automatically generated weekly._
 
 - [<code>any()</code> static method](https://developer.mozilla.org/docs/Web/API/AbortSignal/any_static) (Chrome 116, Firefox 124, Safari 17.4)
 
-### CaretPosition
-
-- [CaretPosition](https://developer.mozilla.org/docs/Web/API/CaretPosition) (Chrome 128, Firefox 20, Safari 26.2)
-- [CaretPosition.getClientRect](https://developer.mozilla.org/docs/Web/API/CaretPosition/getClientRect) (Chrome 128, Firefox 23, Safari 26.2)
-- [CaretPosition.offset](https://developer.mozilla.org/docs/Web/API/CaretPosition/offset) (Chrome 128, Firefox 20, Safari 26.2)
-- [CaretPosition.offsetNode](https://developer.mozilla.org/docs/Web/API/CaretPosition/offsetNode) (Chrome 128, Firefox 20, Safari 26.2)
-
 ### Clipboard
 
 - [Clipboard.read](https://developer.mozilla.org/docs/Web/API/Clipboard/read) (Chrome 76, Firefox 127, Safari 13.1)
@@ -811,17 +847,6 @@ _This document is automatically generated weekly._
 ### HTMLDetailsElement
 
 - [HTMLDetailsElement.name](https://developer.mozilla.org/docs/Web/API/HTMLDetailsElement/name) (Chrome 120, Firefox 130, Safari 17.2)
-
-### LargestContentfulPaint
-
-- [LargestContentfulPaint](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.element](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/element) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.id](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/id) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.loadTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/loadTime) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.renderTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/renderTime) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.size](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/size) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.toJSON](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/toJSON) (Chrome 77, Firefox 122, Safari 26.2)
-- [LargestContentfulPaint.url](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/url) (Chrome 77, Firefox 122, Safari 26.2)
 
 ### MediaSession
 
@@ -1242,7 +1267,6 @@ _This document is automatically generated weekly._
 
 - <code>notifications</code> permission (Chrome 43, Firefox 46, Safari 16.4)
 - <code>push</code> permission (Chrome 43, Firefox 46, Safari 17)
-- <code>storage-access</code> permission (Chrome 119, Firefox 117, Safari 26.2)
 
 ### PermissionStatus
 
@@ -1783,18 +1807,6 @@ _This document is automatically generated weekly._
 - [CSSConditionRule](https://developer.mozilla.org/docs/Web/API/CSSConditionRule) (Chrome 56, Firefox 20, Safari 14.1)
 - [CSSConditionRule.conditionText](https://developer.mozilla.org/docs/Web/API/CSSConditionRule/conditionText) (Chrome 56, Firefox 20, Safari 14.1)
 
-### EventCounts
-
-- [EventCounts](https://developer.mozilla.org/docs/Web/API/EventCounts) (Chrome 85, Firefox 89, Safari 26.2)
-- [Symbol.iterator] (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.entries (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.forEach (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.get (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.has (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.keys (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.size (Chrome 85, Firefox 89, Safari 26.2)
-- EventCounts.values (Chrome 85, Firefox 89, Safari 26.2)
-
 ### EXT_color_buffer_float
 
 - [EXT_color_buffer_float](https://developer.mozilla.org/docs/Web/API/EXT_color_buffer_float) (Chrome 56, Firefox 51, Safari 15)
@@ -1873,15 +1885,6 @@ _This document is automatically generated weekly._
 ### OES_fbo_render_mipmap
 
 - [OES_fbo_render_mipmap](https://developer.mozilla.org/docs/Web/API/OES_fbo_render_mipmap) (Chrome 80, Firefox 71, Safari 14.1)
-
-### PerformanceEventTiming
-
-- [PerformanceEventTiming](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming) (Chrome 76, Firefox 89, Safari 26.2)
-- [PerformanceEventTiming.cancelable](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/cancelable) (Chrome 76, Firefox 89, Safari 26.2)
-- [PerformanceEventTiming.processingEnd](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/processingEnd) (Chrome 76, Firefox 89, Safari 26.2)
-- [PerformanceEventTiming.processingStart](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/processingStart) (Chrome 76, Firefox 89, Safari 26.2)
-- [PerformanceEventTiming.target](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/target) (Chrome 85, Firefox 89, Safari 26.2)
-- [PerformanceEventTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/toJSON) (Chrome 76, Firefox 89, Safari 26.2)
 
 ### PerformanceNavigationTiming
 
@@ -3561,6 +3564,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2275
+Total Web APIs tracked: 2278
 
-Last updated: 2025-12-14
+Last updated: 2025-12-21
