@@ -4,6 +4,180 @@ A comprehensive list of new Web APIs by year of general availability across majo
 
 _This document is automatically generated weekly._
 
+## 2026
+
+### CSSPositionTryDescriptors
+
+- [CSSPositionTryDescriptors](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.align-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.alignSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.blockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.inset-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.insetInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.justify-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.justifySelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-block](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-block-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-block-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-bottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline-end](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-inline-start](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-left](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.margin-top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginBlock](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginBlockEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginBlockStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginBottom](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginInline](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginInlineEnd](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginInlineStart](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginLeft](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginRight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.marginTop](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.max-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.max-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.max-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.max-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.maxBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.maxHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.maxInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.maxWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.min-block-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.min-height](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.min-inline-size](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.min-width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.minBlockSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.minHeight](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.minInlineSize](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.minWidth](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.place-self](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.placeSelf](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.position-anchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.positionAnchor](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.right](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.top](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryDescriptors.width](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors#instance_properties) (Chrome 125, Firefox 147, Safari 26)
+
+### CSSPositionTryRule
+
+- [CSSPositionTryRule](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 147, Safari 26)
+- [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 147, Safari 26)
+
+### NavigateEvent
+
+- [NavigateEvent](https://developer.mozilla.org/docs/Web/API/NavigateEvent) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.destination](https://developer.mozilla.org/docs/Web/API/NavigateEvent/destination) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.downloadRequest](https://developer.mozilla.org/docs/Web/API/NavigateEvent/downloadRequest) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.formData](https://developer.mozilla.org/docs/Web/API/NavigateEvent/formData) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.hashChange](https://developer.mozilla.org/docs/Web/API/NavigateEvent/hashChange) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.hasUAVisualTransition](https://developer.mozilla.org/docs/Web/API/NavigateEvent/hasUAVisualTransition) (Chrome 118, Firefox 147, Safari 26.2)
+- [NavigateEvent.info](https://developer.mozilla.org/docs/Web/API/NavigateEvent/info) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>NavigateEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/NavigateEvent/NavigateEvent) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.navigationType](https://developer.mozilla.org/docs/Web/API/NavigateEvent/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.signal](https://developer.mozilla.org/docs/Web/API/NavigateEvent/signal) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigateEvent.sourceElement](https://developer.mozilla.org/docs/Web/API/NavigateEvent/sourceElement) (Chrome 135, Firefox 147, Safari 26.2)
+- [NavigateEvent.userInitiated](https://developer.mozilla.org/docs/Web/API/NavigateEvent/userInitiated) (Chrome 102, Firefox 147, Safari 26.2)
+
+### Navigation
+
+- [Navigation](https://developer.mozilla.org/docs/Web/API/Navigation) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.activation](https://developer.mozilla.org/docs/Web/API/Navigation/activation) (Chrome 123, Firefox 147, Safari 26.2)
+- [Navigation.back](https://developer.mozilla.org/docs/Web/API/Navigation/back) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.canGoBack](https://developer.mozilla.org/docs/Web/API/Navigation/canGoBack) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.canGoForward](https://developer.mozilla.org/docs/Web/API/Navigation/canGoForward) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.currentEntry](https://developer.mozilla.org/docs/Web/API/Navigation/currentEntry) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.entries](https://developer.mozilla.org/docs/Web/API/Navigation/entries) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.forward](https://developer.mozilla.org/docs/Web/API/Navigation/forward) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.navigate](https://developer.mozilla.org/docs/Web/API/Navigation/navigate) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.reload](https://developer.mozilla.org/docs/Web/API/Navigation/reload) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.transition](https://developer.mozilla.org/docs/Web/API/Navigation/transition) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.traverseTo](https://developer.mozilla.org/docs/Web/API/Navigation/traverseTo) (Chrome 102, Firefox 147, Safari 26.2)
+- [Navigation.updateCurrentEntry](https://developer.mozilla.org/docs/Web/API/Navigation/updateCurrentEntry) (Chrome 102, Firefox 147, Safari 26.2)
+
+### NavigationActivation
+
+- [NavigationActivation](https://developer.mozilla.org/docs/Web/API/NavigationActivation) (Chrome 123, Firefox 147, Safari 26.2)
+- [NavigationActivation.entry](https://developer.mozilla.org/docs/Web/API/NavigationActivation/entry) (Chrome 123, Firefox 147, Safari 26.2)
+- [NavigationActivation.from](https://developer.mozilla.org/docs/Web/API/NavigationActivation/from) (Chrome 123, Firefox 147, Safari 26.2)
+- [NavigationActivation.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationActivation/navigationType) (Chrome 123, Firefox 147, Safari 26.2)
+
+### NavigationCurrentEntryChangeEvent
+
+- [NavigationCurrentEntryChangeEvent](https://developer.mozilla.org/docs/Web/API/NavigationCurrentEntryChangeEvent) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationCurrentEntryChangeEvent.from](https://developer.mozilla.org/docs/Web/API/NavigationCurrentEntryChangeEvent/from) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>NavigationCurrentEntryChangeEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/NavigationCurrentEntryChangeEvent/NavigationCurrentEntryChangeEvent) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationCurrentEntryChangeEvent.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationCurrentEntryChangeEvent/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
+
+### NavigationDestination
+
+- [NavigationDestination](https://developer.mozilla.org/docs/Web/API/NavigationDestination) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.getState](https://developer.mozilla.org/docs/Web/API/NavigationDestination/getState) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.id](https://developer.mozilla.org/docs/Web/API/NavigationDestination/id) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.index](https://developer.mozilla.org/docs/Web/API/NavigationDestination/index) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.key](https://developer.mozilla.org/docs/Web/API/NavigationDestination/key) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.sameDocument](https://developer.mozilla.org/docs/Web/API/NavigationDestination/sameDocument) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationDestination.url](https://developer.mozilla.org/docs/Web/API/NavigationDestination/url) (Chrome 102, Firefox 147, Safari 26.2)
+
+### NavigationHistoryEntry
+
+- [NavigationHistoryEntry](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.getState](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/getState) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.id](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/id) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.index](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/index) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.key](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/key) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.sameDocument](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/sameDocument) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationHistoryEntry.url](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/url) (Chrome 102, Firefox 147, Safari 26.2)
+
+### NavigationTransition
+
+- [NavigationTransition](https://developer.mozilla.org/docs/Web/API/NavigationTransition) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationTransition.finished](https://developer.mozilla.org/docs/Web/API/NavigationTransition/finished) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationTransition.from](https://developer.mozilla.org/docs/Web/API/NavigationTransition/from) (Chrome 102, Firefox 147, Safari 26.2)
+- [NavigationTransition.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationTransition/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
+
+### ServiceWorker
+
+- Support for ECMAScript modules (Chrome 91, Firefox 147, Safari 15)
+
+### ViewTransition
+
+- [ViewTransition.types](https://developer.mozilla.org/docs/Web/API/ViewTransition/types) (Chrome 125, Firefox 147, Safari 18.2)
+
+### ViewTransitionTypeSet
+
+- [ViewTransitionTypeSet](https://developer.mozilla.org/docs/Web/API/ViewTransitionTypeSet) (Chrome 125, Firefox 147, Safari 18.2)
+- [Symbol.iterator] (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.add (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.clear (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.delete (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.entries (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.forEach (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.has (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.keys (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.size (Chrome 125, Firefox 147, Safari 18.2)
+- ViewTransitionTypeSet.values (Chrome 125, Firefox 147, Safari 18.2)
+
 ## 2025
 
 ### Animation
@@ -3564,6 +3738,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2278
+Total Web APIs tracked: 2414
 
-Last updated: 2025-12-28
+Last updated: 2026-01-04
