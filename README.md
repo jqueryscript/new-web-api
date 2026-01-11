@@ -753,6 +753,10 @@ _This document is automatically generated weekly._
 
 - <code>storage-access</code> permission (Chrome 119, Firefox 117, Safari 26.2)
 
+### PointerEvent
+
+- Fractional coordinates for <code>mouse</code>. (Chrome 64, Firefox 135, Safari 26.2)
+
 ### PublicKeyCredential
 
 - [<code>getClientCapabilities()</code> static method](https://developer.mozilla.org/docs/Web/API/PublicKeyCredential/getClientCapabilities_static) (Chrome 133, Firefox 135, Safari 17.4)
@@ -2083,7 +2087,7 @@ _This document is automatically generated weekly._
 
 - [PerformancePaintTiming](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming) (Chrome 60, Firefox 84, Safari 14.1)
 - [<code>first-contentful-paint</code> named entry](https://developer.mozilla.org/docs/Glossary/First_contentful_paint) (Chrome 60, Firefox 84, Safari 14.1)
-- PerformancePaintTiming.toJSON (Chrome 60, Firefox 84, Safari 14.1)
+- [PerformancePaintTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming/toJSON) (Chrome 60, Firefox 84, Safari 14.1)
 
 ### RTCRtpSender
 
@@ -3738,6 +3742,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2414
+Total Web APIs tracked: 2415
 
-Last updated: 2026-01-04
+Last updated: 2026-01-11
