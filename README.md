@@ -84,6 +84,11 @@ _This document is automatically generated weekly._
 - [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 147, Safari 26)
 - [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 147, Safari 26)
 
+### LargestContentfulPaint
+
+- LargestContentfulPaint.paintTime (Chrome 145, Firefox 140, Safari 26.2)
+- LargestContentfulPaint.presentationTime (Chrome 145, Firefox 140, Safari 26.2)
+
 ### NavigateEvent
 
 - [NavigateEvent](https://developer.mozilla.org/docs/Web/API/NavigateEvent) (Chrome 102, Firefox 147, Safari 26.2)
@@ -107,9 +112,13 @@ _This document is automatically generated weekly._
 - [Navigation.canGoBack](https://developer.mozilla.org/docs/Web/API/Navigation/canGoBack) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.canGoForward](https://developer.mozilla.org/docs/Web/API/Navigation/canGoForward) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.currentEntry](https://developer.mozilla.org/docs/Web/API/Navigation/currentEntry) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>currententrychange</code> event](https://developer.mozilla.org/docs/Web/API/Navigation/currententrychange_event) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.entries](https://developer.mozilla.org/docs/Web/API/Navigation/entries) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.forward](https://developer.mozilla.org/docs/Web/API/Navigation/forward) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.navigate](https://developer.mozilla.org/docs/Web/API/Navigation/navigate) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>navigate</code> event](https://developer.mozilla.org/docs/Web/API/Navigation/navigate_event) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>navigateerror</code> event](https://developer.mozilla.org/docs/Web/API/Navigation/navigateerror_event) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>navigatesuccess</code> event](https://developer.mozilla.org/docs/Web/API/Navigation/navigatesuccess_event) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.reload](https://developer.mozilla.org/docs/Web/API/Navigation/reload) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.transition](https://developer.mozilla.org/docs/Web/API/Navigation/transition) (Chrome 102, Firefox 147, Safari 26.2)
 - [Navigation.traverseTo](https://developer.mozilla.org/docs/Web/API/Navigation/traverseTo) (Chrome 102, Firefox 147, Safari 26.2)
@@ -142,6 +151,7 @@ _This document is automatically generated weekly._
 ### NavigationHistoryEntry
 
 - [NavigationHistoryEntry](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry) (Chrome 102, Firefox 147, Safari 26.2)
+- [<code>dispose</code> event](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/dispose_event) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationHistoryEntry.getState](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/getState) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationHistoryEntry.id](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/id) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationHistoryEntry.index](https://developer.mozilla.org/docs/Web/API/NavigationHistoryEntry/index) (Chrome 102, Firefox 147, Safari 26.2)
@@ -159,6 +169,49 @@ _This document is automatically generated weekly._
 ### ServiceWorker
 
 - Support for ECMAScript modules (Chrome 91, Firefox 147, Safari 15)
+
+### TrustedHTML
+
+- [TrustedHTML](https://developer.mozilla.org/docs/Web/API/TrustedHTML) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedHTML.toJSON](https://developer.mozilla.org/docs/Web/API/TrustedHTML/toJSON) (Chrome 90, Firefox 148, Safari 26)
+- [TrustedHTML.toString](https://developer.mozilla.org/docs/Web/API/TrustedHTML/toString) (Chrome 83, Firefox 148, Safari 26)
+
+### TrustedScript
+
+- [TrustedScript](https://developer.mozilla.org/docs/Web/API/TrustedScript) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedScript.toJSON](https://developer.mozilla.org/docs/Web/API/TrustedScript/toJSON) (Chrome 90, Firefox 148, Safari 26)
+- [TrustedScript.toString](https://developer.mozilla.org/docs/Web/API/TrustedScript/toString) (Chrome 83, Firefox 148, Safari 26)
+
+### TrustedScriptURL
+
+- [TrustedScriptURL](https://developer.mozilla.org/docs/Web/API/TrustedScriptURL) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedScriptURL.toJSON](https://developer.mozilla.org/docs/Web/API/TrustedScriptURL/toJSON) (Chrome 90, Firefox 148, Safari 26)
+- [TrustedScriptURL.toString](https://developer.mozilla.org/docs/Web/API/TrustedScriptURL/toString) (Chrome 83, Firefox 148, Safari 26)
+
+### TrustedTypePolicy
+
+- [TrustedTypePolicy](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicy) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicy.createHTML](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicy/createHTML) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicy.createScript](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicy/createScript) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicy.createScriptURL](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicy/createScriptURL) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicy.name](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicy/name) (Chrome 83, Firefox 148, Safari 26)
+
+### TrustedTypePolicyFactory
+
+- [TrustedTypePolicyFactory](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.createPolicy](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/createPolicy) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.defaultPolicy](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/defaultPolicy) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.emptyHTML](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/emptyHTML) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.emptyScript](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/emptyScript) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.getAttributeType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getAttributeType) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.getPropertyType](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/getPropertyType) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.isHTML](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/isHTML) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.isScript](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/isScript) (Chrome 83, Firefox 148, Safari 26)
+- [TrustedTypePolicyFactory.isScriptURL](https://developer.mozilla.org/docs/Web/API/TrustedTypePolicyFactory/isScriptURL) (Chrome 83, Firefox 148, Safari 26)
+
+### trustedTypes
+
+- [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 148, Safari 26)
 
 ### ViewTransition
 
@@ -718,8 +771,6 @@ _This document is automatically generated weekly._
 - [LargestContentfulPaint.element](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/element) (Chrome 77, Firefox 122, Safari 26.2)
 - [LargestContentfulPaint.id](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/id) (Chrome 77, Firefox 122, Safari 26.2)
 - [LargestContentfulPaint.loadTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/loadTime) (Chrome 77, Firefox 122, Safari 26.2)
-- LargestContentfulPaint.paintTime (Chrome 134, Firefox 140, Safari 26.2)
-- LargestContentfulPaint.presentationTime (Chrome 134, Firefox 140, Safari 26.2)
 - [LargestContentfulPaint.renderTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/renderTime) (Chrome 77, Firefox 122, Safari 26.2)
 - [Cross-origin](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/renderTime#cross-origin_image_render_time) (Chrome 133, Firefox 141, Safari 26.2)
 - [LargestContentfulPaint.size](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/size) (Chrome 77, Firefox 122, Safari 26.2)
@@ -1774,7 +1825,7 @@ _This document is automatically generated weekly._
 
 - [RTCDtlsTransport](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport) (Chrome 72, Firefox 82, Safari 15.4)
 - [RTCDtlsTransport.state](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport/state) (Chrome 72, Firefox 82, Safari 15.4)
-- <code>statechange</code> event (Chrome 72, Firefox 82, Safari 15.4)
+- [<code>statechange</code> event](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport/statechange_event) (Chrome 72, Firefox 82, Safari 15.4)
 
 ### RTCRtpReceiver
 
@@ -3742,6 +3793,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2415
+Total Web APIs tracked: 2445
 
-Last updated: 2026-01-11
+Last updated: 2026-01-18
