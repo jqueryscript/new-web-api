@@ -170,6 +170,10 @@ _This document is automatically generated weekly._
 
 - Support for ECMAScript modules (Chrome 91, Firefox 147, Safari 15)
 
+### ShadowRoot
+
+- [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 149, Safari 26)
+
 ### TrustedHTML
 
 - [TrustedHTML](https://developer.mozilla.org/docs/Web/API/TrustedHTML) (Chrome 83, Firefox 148, Safari 26)
@@ -914,7 +918,8 @@ _This document is automatically generated weekly._
 
 ### ShadowRoot
 
-- Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 114, Firefox 140, Safari 26)
+- Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
+- Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
 
 ### URLPattern
 
@@ -3693,7 +3698,6 @@ _This document is automatically generated weekly._
 
 - [FontFace](https://developer.mozilla.org/docs/Web/API/FontFace) (Chrome 35, Firefox 41, Safari 10)
 - [FontFace.family](https://developer.mozilla.org/docs/Web/API/FontFace/family) (Chrome 35, Firefox 41, Safari 10)
-- [FontFace.featureSettings](https://developer.mozilla.org/docs/Web/API/FontFace/featureSettings) (Chrome 35, Firefox 41, Safari 10)
 - [<code>FontFace()</code> constructor](https://developer.mozilla.org/docs/Web/API/FontFace/FontFace) (Chrome 35, Firefox 41, Safari 10)
 - [FontFace.load](https://developer.mozilla.org/docs/Web/API/FontFace/load) (Chrome 35, Firefox 41, Safari 10)
 - [FontFace.loaded](https://developer.mozilla.org/docs/Web/API/FontFace/loaded) (Chrome 37, Firefox 41, Safari 10)
@@ -3793,6 +3797,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2445
+Total Web APIs tracked: 2446
 
-Last updated: 2026-01-18
+Last updated: 2026-01-25
