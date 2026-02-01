@@ -3012,11 +3012,11 @@ _This document is automatically generated weekly._
 ### StaticRange
 
 - [StaticRange](https://developer.mozilla.org/docs/Web/API/StaticRange) (Chrome 60, Firefox 69, Safari 10.1)
-- [StaticRange.collapsed](https://developer.mozilla.org/docs/Web/API/StaticRange/collapsed) (Chrome 60, Firefox 69, Safari 10.1)
-- [StaticRange.endContainer](https://developer.mozilla.org/docs/Web/API/StaticRange/endContainer) (Chrome 60, Firefox 69, Safari 10.1)
-- [StaticRange.endOffset](https://developer.mozilla.org/docs/Web/API/StaticRange/endOffset) (Chrome 60, Firefox 69, Safari 10.1)
-- [StaticRange.startContainer](https://developer.mozilla.org/docs/Web/API/StaticRange/startContainer) (Chrome 60, Firefox 69, Safari 10.1)
-- [StaticRange.startOffset](https://developer.mozilla.org/docs/Web/API/StaticRange/startOffset) (Chrome 60, Firefox 69, Safari 10.1)
+- [StaticRange.collapsed](https://developer.mozilla.org/docs/Web/API/AbstractRange/collapsed) (Chrome 60, Firefox 69, Safari 10.1)
+- [StaticRange.endContainer](https://developer.mozilla.org/docs/Web/API/AbstractRange/endContainer) (Chrome 60, Firefox 69, Safari 10.1)
+- [StaticRange.endOffset](https://developer.mozilla.org/docs/Web/API/AbstractRange/endOffset) (Chrome 60, Firefox 69, Safari 10.1)
+- [StaticRange.startContainer](https://developer.mozilla.org/docs/Web/API/AbstractRange/startContainer) (Chrome 60, Firefox 69, Safari 10.1)
+- [StaticRange.startOffset](https://developer.mozilla.org/docs/Web/API/AbstractRange/startOffset) (Chrome 60, Firefox 69, Safari 10.1)
 
 ## 2018
 
@@ -3799,4 +3799,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2446
 
-Last updated: 2026-01-25
+Last updated: 2026-02-01
