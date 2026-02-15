@@ -3173,10 +3173,6 @@ _This document is automatically generated weekly._
 
 - [ImageBitmapRenderingContext](https://developer.mozilla.org/docs/Web/API/ImageBitmapRenderingContext) (Chrome 66, Firefox 46, Safari 11.1)
 
-### InstallEvent
-
-- [InstallEvent](https://developer.mozilla.org/docs/Web/API/InstallEvent) (Chrome 40, Firefox 44, Safari 11.1)
-
 ### isSecureContext
 
 - [isSecureContext](https://developer.mozilla.org/docs/Web/API/Window/isSecureContext) (Chrome 47, Firefox 49, Safari 11.1)
@@ -3797,6 +3793,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2446
+Total Web APIs tracked: 2445
 
-Last updated: 2026-02-08
+Last updated: 2026-02-15
