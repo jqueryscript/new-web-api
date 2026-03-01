@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2026
 
+### createImageBitmap
+
+- <code>options.resizeQuality</code> parameter (Chrome 54, Firefox 149, Safari 15)
+
 ### CSSPositionTryDescriptors
 
 - [CSSPositionTryDescriptors](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors) (Chrome 125, Firefox 147, Safari 26)
@@ -166,12 +170,21 @@ _This document is automatically generated weekly._
 - [NavigationTransition.from](https://developer.mozilla.org/docs/Web/API/NavigationTransition/from) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationTransition.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationTransition/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
 
+### ReportingObserver
+
+- [ReportingObserver](https://developer.mozilla.org/docs/Web/API/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
+- [ReportingObserver.disconnect](https://developer.mozilla.org/docs/Web/API/ReportingObserver/disconnect) (Chrome 69, Firefox 149, Safari 16.4)
+- [ReportingObserver.observe](https://developer.mozilla.org/docs/Web/API/ReportingObserver/observe) (Chrome 69, Firefox 149, Safari 16.4)
+- [<code>ReportingObserver()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReportingObserver/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
+- [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 149, Safari 16.4)
+
 ### ServiceWorker
 
 - Support for ECMAScript modules (Chrome 91, Firefox 147, Safari 15)
 
 ### ShadowRoot
 
+- Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
 - [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 149, Safari 26)
 
 ### TrustedHTML
@@ -1497,14 +1510,6 @@ _This document is automatically generated weekly._
 - [ReportBody](https://developer.mozilla.org/docs/Web/API/ReportBody) (Chrome 69, Firefox 65, Safari 16.4)
 - [ReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/ReportBody/toJSON) (Chrome 69, Firefox 77, Safari 16.4)
 
-### ReportingObserver
-
-- [ReportingObserver](https://developer.mozilla.org/docs/Web/API/ReportingObserver) (Chrome 69, Firefox 65, Safari 16.4)
-- [ReportingObserver.disconnect](https://developer.mozilla.org/docs/Web/API/ReportingObserver/disconnect) (Chrome 69, Firefox 65, Safari 16.4)
-- [ReportingObserver.observe](https://developer.mozilla.org/docs/Web/API/ReportingObserver/observe) (Chrome 69, Firefox 65, Safari 16.4)
-- [<code>ReportingObserver()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReportingObserver/ReportingObserver) (Chrome 69, Firefox 65, Safari 16.4)
-- [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 65, Safari 16.4)
-
 ### RTCEncodedAudioFrame
 
 - [RTCEncodedAudioFrame](https://developer.mozilla.org/docs/Web/API/RTCEncodedAudioFrame) (Chrome 86, Firefox 117, Safari 15.4)
@@ -1527,6 +1532,7 @@ _This document is automatically generated weekly._
 ### RTCRtpSender
 
 - [<code>getCapabilities()</code> static method](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/getCapabilities_static) (Chrome 69, Firefox 113, Safari 12.1)
+- [<code>transactionId</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/getParameters#transactionid) (Chrome 69, Firefox 110, Safari 12.1)
 - [RTCRtpSender.setStreams](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/setStreams) (Chrome 76, Firefox 113, Safari 14.1)
 
 ### RTCSctpTransport
@@ -3825,6 +3831,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2462
+Total Web APIs tracked: 2465
 
-Last updated: 2026-02-22
+Last updated: 2026-03-01
