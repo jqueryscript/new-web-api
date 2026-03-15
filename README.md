@@ -10,6 +10,22 @@ _This document is automatically generated weekly._
 
 - <code>options.resizeQuality</code> parameter (Chrome 54, Firefox 149, Safari 15)
 
+### CSPViolationReportBody
+
+- [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.blockedURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/blockedURL) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.columnNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/columnNumber) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.disposition](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/disposition) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.documentURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/documentURL) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.effectiveDirective](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/effectiveDirective) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.lineNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/lineNumber) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.originalPolicy](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/originalPolicy) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.referrer](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/referrer) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.sample](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/sample) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.sourceFile](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/sourceFile) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.statusCode](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/statusCode) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/toJSON) (Chrome 80, Firefox 149, Safari 18.4)
+
 ### CSSPositionTryDescriptors
 
 - [CSSPositionTryDescriptors](https://developer.mozilla.org/docs/Web/API/CSSPositionTryDescriptors) (Chrome 125, Firefox 147, Safari 26)
@@ -170,12 +186,28 @@ _This document is automatically generated weekly._
 - [NavigationTransition.from](https://developer.mozilla.org/docs/Web/API/NavigationTransition/from) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationTransition.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationTransition/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
 
+### Report
+
+- [Report](https://developer.mozilla.org/docs/Web/API/Report) (Chrome 69, Firefox 149, Safari 16.4)
+- [Report.body](https://developer.mozilla.org/docs/Web/API/Report/body) (Chrome 69, Firefox 149, Safari 16.4)
+- Report.toJSON (Chrome 69, Firefox 149, Safari 16.4)
+- [Report.type](https://developer.mozilla.org/docs/Web/API/Report/type) (Chrome 69, Firefox 149, Safari 16.4)
+- [Report.url](https://developer.mozilla.org/docs/Web/API/Report/url) (Chrome 69, Firefox 149, Safari 16.4)
+
+### ReportBody
+
+- [ReportBody](https://developer.mozilla.org/docs/Web/API/ReportBody) (Chrome 69, Firefox 149, Safari 16.4)
+- [ReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/ReportBody/toJSON) (Chrome 69, Firefox 149, Safari 16.4)
+
 ### ReportingObserver
 
 - [ReportingObserver](https://developer.mozilla.org/docs/Web/API/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
 - [ReportingObserver.disconnect](https://developer.mozilla.org/docs/Web/API/ReportingObserver/disconnect) (Chrome 69, Firefox 149, Safari 16.4)
 - [ReportingObserver.observe](https://developer.mozilla.org/docs/Web/API/ReportingObserver/observe) (Chrome 69, Firefox 149, Safari 16.4)
 - [<code>ReportingObserver()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReportingObserver/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
+- <code>options</code> parameter (Chrome 69, Firefox 149, Safari 16.4)
+- <code>types_property</code> property (Chrome 69, Firefox 149, Safari 16.4)
+- [<code>csp-violation</code> report](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 149, Safari 18.4)
 - [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 149, Safari 16.4)
 
 ### ServiceWorker
@@ -338,10 +370,6 @@ _This document is automatically generated weekly._
 ### CredentialsContainer
 
 - [<code>largeBlob</code> extension](https://developer.mozilla.org/docs/Web/API/Web_Authentication_API/WebAuthn_extensions#largeblob) (Chrome 113, Firefox 139, Safari 17)
-
-### CSPViolationReportBody
-
-- [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 130, Safari 18.4)
 
 ### CSSScopeRule
 
@@ -1496,19 +1524,6 @@ _This document is automatically generated weekly._
 ### ReadableStreamDefaultReader
 
 - <code>releaseLock()</code> rejects pending read requests (Chrome 105, Firefox 102, Safari 17)
-
-### Report
-
-- [Report](https://developer.mozilla.org/docs/Web/API/Report) (Chrome 69, Firefox 65, Safari 16.4)
-- [Report.body](https://developer.mozilla.org/docs/Web/API/Report/body) (Chrome 69, Firefox 65, Safari 16.4)
-- Report.toJSON (Chrome 69, Firefox 77, Safari 16.4)
-- [Report.type](https://developer.mozilla.org/docs/Web/API/Report/type) (Chrome 69, Firefox 65, Safari 16.4)
-- [Report.url](https://developer.mozilla.org/docs/Web/API/Report/url) (Chrome 69, Firefox 65, Safari 16.4)
-
-### ReportBody
-
-- [ReportBody](https://developer.mozilla.org/docs/Web/API/ReportBody) (Chrome 69, Firefox 65, Safari 16.4)
-- [ReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/ReportBody/toJSON) (Chrome 69, Firefox 77, Safari 16.4)
 
 ### RTCEncodedAudioFrame
 
@@ -3831,6 +3846,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2465
+Total Web APIs tracked: 2480
 
-Last updated: 2026-03-08
+Last updated: 2026-03-15
