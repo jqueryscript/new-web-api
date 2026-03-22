@@ -3769,7 +3769,6 @@ _This document is automatically generated weekly._
 - [FontFaceSet.has](https://developer.mozilla.org/docs/Web/API/FontFaceSet/has) (Chrome 35, Firefox 41, Safari 10)
 - [FontFaceSet.keys](https://developer.mozilla.org/docs/Web/API/FontFaceSet/keys) (Chrome 48, Firefox 41, Safari 10)
 - [FontFaceSet.load](https://developer.mozilla.org/docs/Web/API/FontFaceSet/load) (Chrome 35, Firefox 41, Safari 10)
-- [<code>loading</code> event](https://developer.mozilla.org/docs/Web/API/FontFaceSet/loading_event) (Chrome 35, Firefox 41, Safari 10)
 - [<code>loadingdone</code> event](https://developer.mozilla.org/docs/Web/API/FontFaceSet/loadingdone_event) (Chrome 35, Firefox 41, Safari 10)
 - [<code>loadingerror</code> event](https://developer.mozilla.org/docs/Web/API/FontFaceSet/loadingerror_event) (Chrome 35, Firefox 41, Safari 10)
 - [FontFaceSet.ready](https://developer.mozilla.org/docs/Web/API/FontFaceSet/ready) (Chrome 35, Firefox 41, Safari 10)
@@ -3846,6 +3845,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2480
+Total Web APIs tracked: 2479
 
-Last updated: 2026-03-15
+Last updated: 2026-03-22
