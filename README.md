@@ -12,19 +12,19 @@ _This document is automatically generated weekly._
 
 ### CSPViolationReportBody
 
-- [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.blockedURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/blockedURL) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.columnNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/columnNumber) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.disposition](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/disposition) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.documentURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/documentURL) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.effectiveDirective](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/effectiveDirective) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.lineNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/lineNumber) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.originalPolicy](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/originalPolicy) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.referrer](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/referrer) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.sample](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/sample) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.sourceFile](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/sourceFile) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.statusCode](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/statusCode) (Chrome 74, Firefox 149, Safari 18.4)
-- [CSPViolationReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody/toJSON) (Chrome 80, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody](https://developer.mozilla.org/docs/Web/API/CSPViolationReport) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.blockedURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/blockedURL) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.columnNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/columnNumber) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.disposition](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/disposition) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.documentURL](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/documentURL) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.effectiveDirective](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/effectiveDirective) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.lineNumber](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/lineNumber) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.originalPolicy](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/originalPolicy) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.referrer](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/referrer) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.sample](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/sample) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.sourceFile](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/sourceFile) (Chrome 74, Firefox 149, Safari 18.4)
+- [CSPViolationReportBody.statusCode](https://developer.mozilla.org/docs/Web/API/CSPViolationReport/statusCode) (Chrome 74, Firefox 149, Safari 18.4)
+- CSPViolationReportBody.toJSON (Chrome 80, Firefox 149, Safari 18.4)
 
 ### CSSPositionTryDescriptors
 
@@ -186,18 +186,47 @@ _This document is automatically generated weekly._
 - [NavigationTransition.from](https://developer.mozilla.org/docs/Web/API/NavigationTransition/from) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationTransition.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationTransition/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
 
+### ReadableByteStreamController
+
+- [ReadableByteStreamController](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableByteStreamController.byobRequest](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/byobRequest) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableByteStreamController.close](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/close) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableByteStreamController.desiredSize](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/desiredSize) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableByteStreamController.enqueue](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/enqueue) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableByteStreamController.error](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/error) (Chrome 89, Firefox 102, Safari 26.4)
+
+### ReadableStream
+
+- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 26.4)
+
+### ReadableStreamBYOBReader
+
+- [ReadableStreamBYOBReader](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBReader.cancel](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/cancel) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBReader.closed](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/closed) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBReader.read](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/read) (Chrome 89, Firefox 102, Safari 26.4)
+- [<code>ReadableStreamBYOBReader()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBReader.releaseLock](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/releaseLock) (Chrome 89, Firefox 102, Safari 26.4)
+
+### ReadableStreamBYOBRequest
+
+- [ReadableStreamBYOBRequest](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBRequest.respond](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/respond) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBRequest.respondWithNewView](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/respondWithNewView) (Chrome 89, Firefox 102, Safari 26.4)
+- [ReadableStreamBYOBRequest.view](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/view) (Chrome 89, Firefox 102, Safari 26.4)
+
 ### Report
 
-- [Report](https://developer.mozilla.org/docs/Web/API/Report) (Chrome 69, Firefox 149, Safari 16.4)
-- [Report.body](https://developer.mozilla.org/docs/Web/API/Report/body) (Chrome 69, Firefox 149, Safari 16.4)
+- [Report](https://developer.mozilla.org/docs/Web/API/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
+- Report.body (Chrome 69, Firefox 149, Safari 16.4)
 - Report.toJSON (Chrome 69, Firefox 149, Safari 16.4)
-- [Report.type](https://developer.mozilla.org/docs/Web/API/Report/type) (Chrome 69, Firefox 149, Safari 16.4)
-- [Report.url](https://developer.mozilla.org/docs/Web/API/Report/url) (Chrome 69, Firefox 149, Safari 16.4)
+- Report.type (Chrome 69, Firefox 149, Safari 16.4)
+- Report.url (Chrome 69, Firefox 149, Safari 16.4)
 
 ### ReportBody
 
-- [ReportBody](https://developer.mozilla.org/docs/Web/API/ReportBody) (Chrome 69, Firefox 149, Safari 16.4)
-- [ReportBody.toJSON](https://developer.mozilla.org/docs/Web/API/ReportBody/toJSON) (Chrome 69, Firefox 149, Safari 16.4)
+- [ReportBody](https://developer.mozilla.org/docs/Web/API/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
+- ReportBody.toJSON (Chrome 69, Firefox 149, Safari 16.4)
 
 ### ReportingObserver
 
@@ -207,8 +236,34 @@ _This document is automatically generated weekly._
 - [<code>ReportingObserver()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReportingObserver/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
 - <code>options</code> parameter (Chrome 69, Firefox 149, Safari 16.4)
 - <code>types_property</code> property (Chrome 69, Firefox 149, Safari 16.4)
-- [<code>csp-violation</code> report](https://developer.mozilla.org/docs/Web/API/CSPViolationReportBody) (Chrome 74, Firefox 149, Safari 18.4)
+- [<code>csp-violation</code> report](https://developer.mozilla.org/docs/Web/API/CSPViolationReport) (Chrome 74, Firefox 149, Safari 18.4)
 - [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 149, Safari 16.4)
+
+### RTCError
+
+- [RTCError](https://developer.mozilla.org/docs/Web/API/RTCError) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.errorDetail](https://developer.mozilla.org/docs/Web/API/RTCError/errorDetail) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.receivedAlert](https://developer.mozilla.org/docs/Web/API/RTCError/receivedAlert) (Chrome 74, Firefox 150, Safari 15.4)
+- <code>RTCError()</code> constructor (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.sctpCauseCode](https://developer.mozilla.org/docs/Web/API/RTCError/sctpCauseCode) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.sdpLineNumber](https://developer.mozilla.org/docs/Web/API/RTCError/sdpLineNumber) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.sentAlert](https://developer.mozilla.org/docs/Web/API/RTCError/sentAlert) (Chrome 74, Firefox 150, Safari 15.4)
+
+### RTCErrorEvent
+
+- [RTCErrorEvent](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCErrorEvent.error](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent/error) (Chrome 74, Firefox 150, Safari 15.4)
+- <code>RTCErrorEvent()</code> constructor (Chrome 74, Firefox 150, Safari 15.4)
+
+### RTCPeerConnectionIceErrorEvent
+
+- [RTCPeerConnectionIceErrorEvent](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
+- [RTCPeerConnectionIceErrorEvent.address](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/address) (Chrome 81, Firefox 150, Safari 14.1)
+- RTCPeerConnectionIceErrorEvent.errorCode (Chrome 77, Firefox 150, Safari 14.1)
+- RTCPeerConnectionIceErrorEvent.errorText (Chrome 77, Firefox 150, Safari 14.1)
+- RTCPeerConnectionIceErrorEvent.port (Chrome 81, Firefox 150, Safari 14.1)
+- <code>RTCPeerConnectionIceErrorEvent()</code> constructor (Chrome 77, Firefox 150, Safari 14.1)
+- RTCPeerConnectionIceErrorEvent.url (Chrome 77, Firefox 150, Safari 14.1)
 
 ### ServiceWorker
 
@@ -279,6 +334,45 @@ _This document is automatically generated weekly._
 - ViewTransitionTypeSet.keys (Chrome 125, Firefox 147, Safari 18.2)
 - ViewTransitionTypeSet.size (Chrome 125, Firefox 147, Safari 18.2)
 - ViewTransitionTypeSet.values (Chrome 125, Firefox 147, Safari 18.2)
+
+### WebTransport
+
+- [WebTransport](https://developer.mozilla.org/docs/Web/API/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
+- BYOB reader support (Chrome 109, Firefox 114, Safari 26.4)
+- [WebTransport.close](https://developer.mozilla.org/docs/Web/API/WebTransport/close) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.closed](https://developer.mozilla.org/docs/Web/API/WebTransport/closed) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.createBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createBidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.createUnidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createUnidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
+- BYOB reader support (Chrome 109, Firefox 114, Safari 26.4)
+- [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 26.4)
+- [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
+- <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 26.4)
+
+### WebTransportBidirectionalStream
+
+- [WebTransportBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportBidirectionalStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/readable) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportBidirectionalStream.writable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/writable) (Chrome 97, Firefox 114, Safari 26.4)
+
+### WebTransportDatagramDuplexStream
+
+- [WebTransportDatagramDuplexStream](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.incomingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingHighWaterMark) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.incomingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingMaxAge) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.maxDatagramSize](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/maxDatagramSize) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.outgoingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingHighWaterMark) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.outgoingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingMaxAge) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportDatagramDuplexStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/readable) (Chrome 97, Firefox 114, Safari 26.4)
+
+### WebTransportError
+
+- [WebTransportError](https://developer.mozilla.org/docs/Web/API/WebTransportError) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportError.source](https://developer.mozilla.org/docs/Web/API/WebTransportError/source) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransportError.streamErrorCode](https://developer.mozilla.org/docs/Web/API/WebTransportError/streamErrorCode) (Chrome 97, Firefox 114, Safari 26.4)
+- [<code>WebTransportError()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransportError/WebTransportError) (Chrome 97, Firefox 114, Safari 26.4)
 
 ## 2025
 
@@ -1106,10 +1200,6 @@ _This document is automatically generated weekly._
 - <code>options.altitudeAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 - <code>options.azimuthAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 
-### ReadableStream
-
-- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 26.4)
-
 ### RTCDataChannel
 
 - <code>Blob</code> value (Chrome 129, Firefox 22, Safari 11)
@@ -1220,10 +1310,6 @@ _This document is automatically generated weekly._
 - [<code>release</code> event](https://developer.mozilla.org/docs/Web/API/WakeLockSentinel/release_event) (Chrome 84, Firefox 126, Safari 16.4)
 - [WakeLockSentinel.released](https://developer.mozilla.org/docs/Web/API/WakeLockSentinel/released) (Chrome 87, Firefox 126, Safari 16.4)
 - [WakeLockSentinel.type](https://developer.mozilla.org/docs/Web/API/WakeLockSentinel/type) (Chrome 84, Firefox 126, Safari 16.4)
-
-### WebTransport
-
-- <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 26.4)
 
 ## 2023
 
@@ -1610,44 +1696,6 @@ _This document is automatically generated weekly._
 - [UserActivation.hasBeenActive](https://developer.mozilla.org/docs/Web/API/UserActivation/hasBeenActive) (Chrome 72, Firefox 120, Safari 16.4)
 - [UserActivation.isActive](https://developer.mozilla.org/docs/Web/API/UserActivation/isActive) (Chrome 72, Firefox 120, Safari 16.4)
 
-### WebTransport
-
-- [WebTransport](https://developer.mozilla.org/docs/Web/API/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
-- BYOB reader support (Chrome 109, Firefox 114, Safari 26.4)
-- [WebTransport.close](https://developer.mozilla.org/docs/Web/API/WebTransport/close) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.closed](https://developer.mozilla.org/docs/Web/API/WebTransport/closed) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.createBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createBidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.createUnidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createUnidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
-- BYOB reader support (Chrome 109, Firefox 114, Safari 26.4)
-- [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 26.4)
-- [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
-
-### WebTransportBidirectionalStream
-
-- [WebTransportBidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportBidirectionalStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/readable) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportBidirectionalStream.writable](https://developer.mozilla.org/docs/Web/API/WebTransportBidirectionalStream/writable) (Chrome 97, Firefox 114, Safari 26.4)
-
-### WebTransportDatagramDuplexStream
-
-- [WebTransportDatagramDuplexStream](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.incomingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingHighWaterMark) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.incomingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/incomingMaxAge) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.maxDatagramSize](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/maxDatagramSize) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.outgoingHighWaterMark](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingHighWaterMark) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.outgoingMaxAge](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/outgoingMaxAge) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportDatagramDuplexStream.readable](https://developer.mozilla.org/docs/Web/API/WebTransportDatagramDuplexStream/readable) (Chrome 97, Firefox 114, Safari 26.4)
-
-### WebTransportError
-
-- [WebTransportError](https://developer.mozilla.org/docs/Web/API/WebTransportError) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportError.source](https://developer.mozilla.org/docs/Web/API/WebTransportError/source) (Chrome 97, Firefox 114, Safari 26.4)
-- [WebTransportError.streamErrorCode](https://developer.mozilla.org/docs/Web/API/WebTransportError/streamErrorCode) (Chrome 97, Firefox 114, Safari 26.4)
-- [<code>WebTransportError()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransportError/WebTransportError) (Chrome 97, Firefox 114, Safari 26.4)
-
 ### Worklet
 
 - Support for ECMAScript modules (Chrome 80, Firefox 114, Safari 15)
@@ -1831,35 +1879,10 @@ _This document is automatically generated weekly._
 - [PushSubscriptionOptions](https://developer.mozilla.org/docs/Web/API/PushSubscriptionOptions) (Chrome 54, Firefox 44, Safari 16)
 - [PushSubscriptionOptions.applicationServerKey](https://developer.mozilla.org/docs/Web/API/PushSubscriptionOptions/applicationServerKey) (Chrome 54, Firefox 44, Safari 16)
 
-### ReadableByteStreamController
-
-- [ReadableByteStreamController](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableByteStreamController.byobRequest](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/byobRequest) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableByteStreamController.close](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/close) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableByteStreamController.desiredSize](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/desiredSize) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableByteStreamController.enqueue](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/enqueue) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableByteStreamController.error](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/error) (Chrome 89, Firefox 102, Safari 26.4)
-
 ### ReadableStream
 
 - [ReadableStream.pipeThrough](https://developer.mozilla.org/docs/Web/API/ReadableStream/pipeThrough) (Chrome 59, Firefox 102, Safari 10.1)
 - [ReadableStream.pipeTo](https://developer.mozilla.org/docs/Web/API/ReadableStream/pipeTo) (Chrome 59, Firefox 100, Safari 10.1)
-
-### ReadableStreamBYOBReader
-
-- [ReadableStreamBYOBReader](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBReader.cancel](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/cancel) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBReader.closed](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/closed) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBReader.read](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/read) (Chrome 89, Firefox 102, Safari 26.4)
-- [<code>ReadableStreamBYOBReader()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBReader.releaseLock](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader/releaseLock) (Chrome 89, Firefox 102, Safari 26.4)
-
-### ReadableStreamBYOBRequest
-
-- [ReadableStreamBYOBRequest](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBRequest.respond](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/respond) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBRequest.respondWithNewView](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/respondWithNewView) (Chrome 89, Firefox 102, Safari 26.4)
-- [ReadableStreamBYOBRequest.view](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBRequest/view) (Chrome 89, Firefox 102, Safari 26.4)
 
 ### ReadableStreamDefaultReader
 
@@ -3845,6 +3868,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2479
+Total Web APIs tracked: 2496
 
-Last updated: 2026-03-22
+Last updated: 2026-03-29
