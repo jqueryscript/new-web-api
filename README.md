@@ -106,8 +106,8 @@ _This document is automatically generated weekly._
 
 ### LargestContentfulPaint
 
-- LargestContentfulPaint.paintTime (Chrome 145, Firefox 140, Safari 26.2)
-- LargestContentfulPaint.presentationTime (Chrome 145, Firefox 140, Safari 26.2)
+- [LargestContentfulPaint.paintTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/paintTime) (Chrome 145, Firefox 140, Safari 26.2)
+- [LargestContentfulPaint.presentationTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/presentationTime) (Chrome 145, Firefox 140, Safari 26.2)
 
 ### NavigateEvent
 
@@ -271,8 +271,8 @@ _This document is automatically generated weekly._
 
 ### ShadowRoot
 
+- [ShadowRoot.customElementRegistry](https://developer.mozilla.org/docs/Web/API/ShadowRoot/customElementRegistry) (Chrome 146, Firefox 150, Safari 26)
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
-- [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 149, Safari 26)
 
 ### TrustedHTML
 
@@ -1054,6 +1054,11 @@ _This document is automatically generated weekly._
 
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
+- [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 144, Safari 26)
+
+### ToggleEvent
+
+- [ToggleEvent.source](https://developer.mozilla.org/docs/Web/API/ToggleEvent/source) (Chrome 140, Firefox 145, Safari 26.5)
 
 ### URLPattern
 
@@ -3868,6 +3873,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2496
+Total Web APIs tracked: 2498
 
-Last updated: 2026-03-29
+Last updated: 2026-04-05
