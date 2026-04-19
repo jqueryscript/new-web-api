@@ -783,6 +783,7 @@ _This document is automatically generated weekly._
 - [GPUSupportedFeatures](https://developer.mozilla.org/docs/Web/API/GPUSupportedFeatures) (Chrome 113, Firefox 141, Safari 26)
 - [Symbol.iterator] (Chrome 113, Firefox 141, Safari 26)
 - GPUSupportedFeatures.entries (Chrome 113, Firefox 141, Safari 26)
+- <code>core-features-and-limits</code> feature (Chrome 139, Firefox 141, Safari 26)
 - <code>texture-compression-astc-sliced-3d</code> feature (Chrome 139, Firefox 141, Safari 26)
 - <code>texture-compression-bc-sliced-3d</code> feature (Chrome 139, Firefox 141, Safari 26)
 - GPUSupportedFeatures.forEach (Chrome 113, Firefox 141, Safari 26)
@@ -3873,6 +3874,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2498
+Total Web APIs tracked: 2499
 
-Last updated: 2026-04-12
+Last updated: 2026-04-19
