@@ -104,6 +104,14 @@ _This document is automatically generated weekly._
 - [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 147, Safari 26)
 - [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 147, Safari 26)
 
+### GPURenderBundleEncoder
+
+- Pass <code>null</code> to unset vertex buffer (Chrome 117, Firefox 151, Safari 26)
+
+### GPURenderPassEncoder
+
+- Pass <code>null</code> to unset vertex buffer (Chrome 117, Firefox 151, Safari 26)
+
 ### LargestContentfulPaint
 
 - [LargestContentfulPaint.paintTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/paintTime) (Chrome 145, Firefox 140, Safari 26.2)
@@ -1468,6 +1476,7 @@ _This document is automatically generated weekly._
 - [FileSystemHandle](https://developer.mozilla.org/docs/Web/API/FileSystemHandle) (Chrome 86, Firefox 111, Safari 15.2)
 - [FileSystemHandle.isSameEntry](https://developer.mozilla.org/docs/Web/API/FileSystemHandle/isSameEntry) (Chrome 86, Firefox 111, Safari 15.2)
 - [FileSystemHandle.kind](https://developer.mozilla.org/docs/Web/API/FileSystemHandle/kind) (Chrome 86, Firefox 111, Safari 15.2)
+- FileSystemHandle.move (Chrome 102, Firefox 111, Safari 15.2)
 - [FileSystemHandle.name](https://developer.mozilla.org/docs/Web/API/FileSystemHandle/name) (Chrome 86, Firefox 111, Safari 15.2)
 
 ### FileSystemSyncAccessHandle
@@ -3874,6 +3883,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2499
+Total Web APIs tracked: 2502
 
-Last updated: 2026-04-19
+Last updated: 2026-04-26
