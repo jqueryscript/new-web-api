@@ -243,8 +243,8 @@ _This document is automatically generated weekly._
 - [ReportingObserver.observe](https://developer.mozilla.org/docs/Web/API/ReportingObserver/observe) (Chrome 69, Firefox 149, Safari 16.4)
 - [<code>ReportingObserver()</code> constructor](https://developer.mozilla.org/docs/Web/API/ReportingObserver/ReportingObserver) (Chrome 69, Firefox 149, Safari 16.4)
 - <code>options</code> parameter (Chrome 69, Firefox 149, Safari 16.4)
-- <code>types_property</code> property (Chrome 69, Firefox 149, Safari 16.4)
-- [<code>csp-violation</code> report](https://developer.mozilla.org/docs/Web/API/CSPViolationReport) (Chrome 74, Firefox 149, Safari 18.4)
+- <code>types</code> property (Chrome 69, Firefox 149, Safari 16.4)
+- [<code>csp-violation</code> report type](https://developer.mozilla.org/docs/Web/API/CSPViolationReport) (Chrome 74, Firefox 149, Safari 18.4)
 - [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 149, Safari 16.4)
 
 ### RTCError
@@ -1185,8 +1185,8 @@ _This document is automatically generated weekly._
 
 ### fetch
 
-- <code>init.keepalive</code> parameter (Chrome 66, Firefox 133, Safari 13)
-- <code>init.priority</code> parameter (Chrome 101, Firefox 132, Safari 17.2)
+- <code>keepalive</code> property (Chrome 66, Firefox 133, Safari 13)
+- <code>priority</code> property (Chrome 101, Firefox 132, Safari 17.2)
 
 ### HTMLDetailsElement
 
@@ -3206,8 +3206,8 @@ _This document is automatically generated weekly._
 
 ### fetch
 
-- <code>init.referrerPolicy</code> parameter (Chrome 52, Firefox 52, Safari 11.1)
-- <code>init.signal</code> parameter (Chrome 66, Firefox 57, Safari 11.1)
+- <code>referrerPolicy</code> property (Chrome 52, Firefox 52, Safari 11.1)
+- <code>signal</code> property (Chrome 66, Firefox 57, Safari 11.1)
 
 ### FetchEvent
 
@@ -3507,6 +3507,8 @@ _This document is automatically generated weekly._
 
 - [fetch](https://developer.mozilla.org/docs/Web/API/Window/fetch) (Chrome 42, Firefox 39, Safari 10.1)
 - Support for blob: and data: (Chrome 48, Firefox 39, Safari 10.1)
+- <code>options</code> parameter (Chrome 42, Firefox 39, Safari 10.1)
+- <code>body</code> property (Chrome 42, Firefox 39, Safari 10.1)
 
 ### Gamepad
 
@@ -3883,6 +3885,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2502
+Total Web APIs tracked: 2504
 
-Last updated: 2026-04-26
+Last updated: 2026-05-03
