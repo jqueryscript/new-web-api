@@ -661,6 +661,7 @@ _This document is automatically generated weekly._
 - [GPUDevice.createSampler](https://developer.mozilla.org/docs/Web/API/GPUDevice/createSampler) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.createShaderModule](https://developer.mozilla.org/docs/Web/API/GPUDevice/createShaderModule) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.createTexture](https://developer.mozilla.org/docs/Web/API/GPUDevice/createTexture) (Chrome 113, Firefox 141, Safari 26)
+- <code>usage</code> descriptor (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.destroy](https://developer.mozilla.org/docs/Web/API/GPUDevice/destroy) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.features](https://developer.mozilla.org/docs/Web/API/GPUDevice/features) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.importExternalTexture](https://developer.mozilla.org/docs/Web/API/GPUDevice/importExternalTexture) (Chrome 113, Firefox 144, Safari 26)
@@ -3885,6 +3886,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2504
+Total Web APIs tracked: 2505
 
-Last updated: 2026-05-03
+Last updated: 2026-05-10
