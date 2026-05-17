@@ -252,7 +252,7 @@ _This document is automatically generated weekly._
 - [RTCError](https://developer.mozilla.org/docs/Web/API/RTCError) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.errorDetail](https://developer.mozilla.org/docs/Web/API/RTCError/errorDetail) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.receivedAlert](https://developer.mozilla.org/docs/Web/API/RTCError/receivedAlert) (Chrome 74, Firefox 150, Safari 15.4)
-- <code>RTCError()</code> constructor (Chrome 74, Firefox 150, Safari 15.4)
+- [<code>RTCError()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCError/RTCError) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.sctpCauseCode](https://developer.mozilla.org/docs/Web/API/RTCError/sctpCauseCode) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.sdpLineNumber](https://developer.mozilla.org/docs/Web/API/RTCError/sdpLineNumber) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.sentAlert](https://developer.mozilla.org/docs/Web/API/RTCError/sentAlert) (Chrome 74, Firefox 150, Safari 15.4)
@@ -261,17 +261,17 @@ _This document is automatically generated weekly._
 
 - [RTCErrorEvent](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCErrorEvent.error](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent/error) (Chrome 74, Firefox 150, Safari 15.4)
-- <code>RTCErrorEvent()</code> constructor (Chrome 74, Firefox 150, Safari 15.4)
+- [<code>RTCErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent/RTCErrorEvent) (Chrome 74, Firefox 150, Safari 15.4)
 
 ### RTCPeerConnectionIceErrorEvent
 
 - [RTCPeerConnectionIceErrorEvent](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
 - [RTCPeerConnectionIceErrorEvent.address](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/address) (Chrome 81, Firefox 150, Safari 14.1)
-- RTCPeerConnectionIceErrorEvent.errorCode (Chrome 77, Firefox 150, Safari 14.1)
-- RTCPeerConnectionIceErrorEvent.errorText (Chrome 77, Firefox 150, Safari 14.1)
-- RTCPeerConnectionIceErrorEvent.port (Chrome 81, Firefox 150, Safari 14.1)
-- <code>RTCPeerConnectionIceErrorEvent()</code> constructor (Chrome 77, Firefox 150, Safari 14.1)
-- RTCPeerConnectionIceErrorEvent.url (Chrome 77, Firefox 150, Safari 14.1)
+- [RTCPeerConnectionIceErrorEvent.errorCode](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/errorCode) (Chrome 77, Firefox 150, Safari 14.1)
+- [RTCPeerConnectionIceErrorEvent.errorText](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/errorText) (Chrome 77, Firefox 150, Safari 14.1)
+- [RTCPeerConnectionIceErrorEvent.port](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/port) (Chrome 81, Firefox 150, Safari 14.1)
+- [<code>RTCPeerConnectionIceErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
+- [RTCPeerConnectionIceErrorEvent.url](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/url) (Chrome 77, Firefox 150, Safari 14.1)
 
 ### ServiceWorker
 
@@ -281,6 +281,10 @@ _This document is automatically generated weekly._
 
 - [ShadowRoot.customElementRegistry](https://developer.mozilla.org/docs/Web/API/ShadowRoot/customElementRegistry) (Chrome 146, Firefox 150, Safari 26)
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
+
+### ToggleEvent
+
+- [ToggleEvent.source](https://developer.mozilla.org/docs/Web/API/ToggleEvent/source) (Chrome 140, Firefox 145, Safari 26.5)
 
 ### TrustedHTML
 
@@ -1066,10 +1070,6 @@ _This document is automatically generated weekly._
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
 - [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 144, Safari 26)
 
-### ToggleEvent
-
-- [ToggleEvent.source](https://developer.mozilla.org/docs/Web/API/ToggleEvent/source) (Chrome 140, Firefox 145, Safari 26.5)
-
 ### URLPattern
 
 - [URLPattern](https://developer.mozilla.org/docs/Web/API/URLPattern) (Chrome 95, Firefox 142, Safari 26)
@@ -1332,6 +1332,7 @@ _This document is automatically generated weekly._
 
 - [AuthenticatorAttestationResponse.getAuthenticatorData](https://developer.mozilla.org/docs/Web/API/AuthenticatorAttestationResponse/getAuthenticatorData) (Chrome 85, Firefox 119, Safari 16)
 - [AuthenticatorAttestationResponse.getPublicKey](https://developer.mozilla.org/docs/Web/API/AuthenticatorAttestationResponse/getPublicKey) (Chrome 85, Firefox 119, Safari 16)
+- <code>-7</code> (ECDSA w/ SHA-256) algorithm keys (Chrome 85, Firefox 119, Safari 16)
 - [AuthenticatorAttestationResponse.getPublicKeyAlgorithm](https://developer.mozilla.org/docs/Web/API/AuthenticatorAttestationResponse/getPublicKeyAlgorithm) (Chrome 85, Firefox 119, Safari 16)
 - [AuthenticatorAttestationResponse.getTransports](https://developer.mozilla.org/docs/Web/API/AuthenticatorAttestationResponse/getTransports) (Chrome 74, Firefox 119, Safari 16)
 
@@ -3886,6 +3887,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2505
+Total Web APIs tracked: 2506
 
-Last updated: 2026-05-10
+Last updated: 2026-05-17
