@@ -117,6 +117,10 @@ _This document is automatically generated weekly._
 - [LargestContentfulPaint.paintTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/paintTime) (Chrome 145, Firefox 140, Safari 26.2)
 - [LargestContentfulPaint.presentationTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/presentationTime) (Chrome 145, Firefox 140, Safari 26.2)
 
+### MathMLElement
+
+- MathMLElement.nonce (Chrome 109, Firefox 152, Safari 15.4)
+
 ### NavigateEvent
 
 - [NavigateEvent](https://developer.mozilla.org/docs/Web/API/NavigateEvent) (Chrome 102, Firefox 147, Safari 26.2)
@@ -193,6 +197,11 @@ _This document is automatically generated weekly._
 - [NavigationTransition.finished](https://developer.mozilla.org/docs/Web/API/NavigationTransition/finished) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationTransition.from](https://developer.mozilla.org/docs/Web/API/NavigationTransition/from) (Chrome 102, Firefox 147, Safari 26.2)
 - [NavigationTransition.navigationType](https://developer.mozilla.org/docs/Web/API/NavigationTransition/navigationType) (Chrome 102, Firefox 147, Safari 26.2)
+
+### PerformanceResourceTiming
+
+- [PerformanceResourceTiming.finalResponseHeadersStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/finalResponseHeadersStart) (Chrome 133, Firefox 152, Safari 26.4)
+- [PerformanceResourceTiming.firstInterimResponseStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/firstInterimResponseStart) (Chrome 115, Firefox 152, Safari 26.4)
 
 ### ReadableByteStreamController
 
@@ -3887,6 +3896,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2506
+Total Web APIs tracked: 2509
 
-Last updated: 2026-05-17
+Last updated: 2026-05-24
