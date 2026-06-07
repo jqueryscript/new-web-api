@@ -212,10 +212,6 @@ _This document is automatically generated weekly._
 - [ReadableByteStreamController.enqueue](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/enqueue) (Chrome 89, Firefox 102, Safari 26.4)
 - [ReadableByteStreamController.error](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/error) (Chrome 89, Firefox 102, Safari 26.4)
 
-### ReadableStream
-
-- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 26.4)
-
 ### ReadableStreamBYOBReader
 
 - [ReadableStreamBYOBReader](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
@@ -2776,6 +2772,14 @@ _This document is automatically generated weekly._
 
 - [WEBGL_color_buffer_float](https://developer.mozilla.org/docs/Web/API/WEBGL_color_buffer_float) (Chrome 63, Firefox 30, Safari 14)
 
+### WEBGL_compressed_texture_etc
+
+- [WEBGL_compressed_texture_etc](https://developer.mozilla.org/docs/Web/API/WEBGL_compressed_texture_etc) (Chrome 63, Firefox 55, Safari 13.1)
+
+### WEBGL_compressed_texture_etc1
+
+- [WEBGL_compressed_texture_etc1](https://developer.mozilla.org/docs/Web/API/WEBGL_compressed_texture_etc1) (Chrome 49, Firefox 55, Safari 13.1)
+
 ### WEBGL_debug_shaders
 
 - [WEBGL_debug_shaders](https://developer.mozilla.org/docs/Web/API/WEBGL_debug_shaders) (Chrome 47, Firefox 56, Safari 14)
@@ -3896,6 +3900,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2509
+Total Web APIs tracked: 2510
 
-Last updated: 2026-05-31
+Last updated: 2026-06-07
