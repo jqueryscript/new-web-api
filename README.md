@@ -119,7 +119,12 @@ _This document is automatically generated weekly._
 
 ### MathMLElement
 
-- MathMLElement.nonce (Chrome 109, Firefox 152, Safari 15.4)
+- [MathMLElement.nonce](https://developer.mozilla.org/docs/Web/API/MathMLElement/nonce) (Chrome 109, Firefox 152, Safari 15.4)
+
+### MediaCapabilities
+
+- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo#webrtc) (Chrome 66, Firefox 152, Safari 13)
+- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo#webrtc) (Chrome 101, Firefox 152, Safari 15.4)
 
 ### NavigateEvent
 
@@ -277,6 +282,22 @@ _This document is automatically generated weekly._
 - [RTCPeerConnectionIceErrorEvent.port](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/port) (Chrome 81, Firefox 150, Safari 14.1)
 - [<code>RTCPeerConnectionIceErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
 - [RTCPeerConnectionIceErrorEvent.url](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/url) (Chrome 77, Firefox 150, Safari 14.1)
+
+### RTCStatsReport
+
+- [<code>transportId</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
+- [<code>transportId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
+- [<code>transportId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
+- [<code>transportId</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/transportId) (Chrome 91, Firefox 153, Safari 11)
+- <code>transport</code> stats (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>dtlsCipher</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/dtlsCipher) (Chrome 80, Firefox 153, Safari 14.1)
+- [<code>dtlsState</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/dtlsState) (Chrome 80, Firefox 153, Safari 14.1)
+- [<code>id</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/id) (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>selectedCandidatePairId</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/selectedCandidatePairId) (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>srtpCipher</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/srtpCipher) (Chrome 80, Firefox 153, Safari 14.1)
+- [<code>timestamp</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/timestamp) (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>tlsVersion</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/tlsVersion) (Chrome 80, Firefox 153, Safari 14.1)
+- [<code>type</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/type) (Chrome 80, Firefox 153, Safari 13.1)
 
 ### ServiceWorker
 
@@ -1820,6 +1841,9 @@ _This document is automatically generated weekly._
 ### MediaCapabilities
 
 - [MediaCapabilities.encodingInfo](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo) (Chrome 101, Firefox 63, Safari 15.4)
+- <code>configuration</code> parameter (Chrome 101, Firefox 63, Safari 15.4)
+- [<code>type</code> property](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo#type) (Chrome 101, Firefox 63, Safari 15.4)
+- [<code>configuration.type.transmission</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo#transmission) (Chrome 101, Firefox 63, Safari 15.4)
 
 ### NavigationPreloadManager
 
@@ -2196,6 +2220,7 @@ _This document is automatically generated weekly._
 - [MediaSession.metadata](https://developer.mozilla.org/docs/Web/API/MediaSession/metadata) (Chrome 73, Firefox 82, Safari 15)
 - [MediaSession.playbackState](https://developer.mozilla.org/docs/Web/API/MediaSession/playbackState) (Chrome 73, Firefox 82, Safari 15)
 - [<code>setActionHandler()</code>](https://developer.mozilla.org/docs/Web/API/MediaSession/setActionHandler) (Chrome 73, Firefox 82, Safari 15)
+- Action handler callback (Chrome 73, Firefox 82, Safari 15)
 - <code>"nexttrack"</code> type (Chrome 73, Firefox 82, Safari 15)
 - <code>"pause"</code> type (Chrome 73, Firefox 82, Safari 15)
 - <code>"play"</code> type (Chrome 73, Firefox 82, Safari 15)
@@ -2738,7 +2763,6 @@ _This document is automatically generated weekly._
 - [<code>id</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/id) (Chrome 80, Firefox 72, Safari 13.1)
 - [<code>priority</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/priority) (Chrome 80, Firefox 72, Safari 12.1)
 - [<code>timestamp</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/timestamp) (Chrome 80, Firefox 72, Safari 13.1)
-- [<code>transportId</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/transportId) (Chrome 80, Firefox 31, Safari 12.1)
 - [<code>type</code> in 'local-candidate' stats](https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats/type) (Chrome 80, Firefox 72, Safari 13.1)
 - <code>outbound-rtp</code> stats (Chrome 80, Firefox 27, Safari 11)
 - [<code>bytesSent</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/bytesSent) (Chrome 80, Firefox 72, Safari 13.1)
@@ -2927,6 +2951,8 @@ _This document is automatically generated weekly._
 
 - [MediaCapabilities](https://developer.mozilla.org/docs/Web/API/MediaCapabilities) (Chrome 66, Firefox 63, Safari 13)
 - [MediaCapabilities.decodingInfo](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo) (Chrome 66, Firefox 63, Safari 13)
+- <code>configuration</code> parameter (Chrome 66, Firefox 63, Safari 13)
+- [<code>type</code> property](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo#type) (Chrome 66, Firefox 63, Safari 13)
 
 ### MediaDevices
 
@@ -3900,6 +3926,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2510
+Total Web APIs tracked: 2530
 
-Last updated: 2026-06-14
+Last updated: 2026-06-21
