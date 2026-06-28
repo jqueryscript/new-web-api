@@ -3928,4 +3928,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2530
 
-Last updated: 2026-06-21
+Last updated: 2026-06-28
