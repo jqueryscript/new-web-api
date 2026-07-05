@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2026
 
+### CookieStore
+
+- <code>maxAge</code> option (Chrome 145, Firefox 148, Safari 27)
+
 ### createImageBitmap
 
 - <code>options.resizeQuality</code> parameter (Chrome 54, Firefox 149, Safari 15)
@@ -112,6 +116,13 @@ _This document is automatically generated weekly._
 
 - Pass <code>null</code> to unset vertex buffer (Chrome 117, Firefox 151, Safari 26)
 
+### GPUSupportedLimits
+
+- GPUSupportedLimits.maxStorageBuffersInFragmentStage (Chrome 146, Firefox 151, Safari 27)
+- GPUSupportedLimits.maxStorageBuffersInVertexStage (Chrome 146, Firefox 151, Safari 27)
+- GPUSupportedLimits.maxStorageTexturesInFragmentStage (Chrome 146, Firefox 151, Safari 27)
+- GPUSupportedLimits.maxStorageTexturesInVertexStage (Chrome 146, Firefox 151, Safari 27)
+
 ### LargestContentfulPaint
 
 - [LargestContentfulPaint.paintTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/paintTime) (Chrome 145, Firefox 140, Safari 26.2)
@@ -123,8 +134,8 @@ _This document is automatically generated weekly._
 
 ### MediaCapabilities
 
-- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo#webrtc) (Chrome 66, Firefox 152, Safari 13)
-- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo#webrtc) (Chrome 101, Firefox 152, Safari 15.4)
+- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo#webrtc) (Chrome 66, Firefox 153, Safari 13)
+- [<code>configuration.type.webrtc</code> option](https://developer.mozilla.org/docs/Web/API/MediaCapabilities/encodingInfo#webrtc) (Chrome 101, Firefox 153, Safari 15.4)
 
 ### NavigateEvent
 
@@ -208,6 +219,13 @@ _This document is automatically generated weekly._
 - [PerformanceResourceTiming.finalResponseHeadersStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/finalResponseHeadersStart) (Chrome 133, Firefox 152, Safari 26.4)
 - [PerformanceResourceTiming.firstInterimResponseStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/firstInterimResponseStart) (Chrome 115, Firefox 152, Safari 26.4)
 
+### PictureInPictureWindow
+
+- [PictureInPictureWindow](https://developer.mozilla.org/docs/Web/API/PictureInPictureWindow) (Chrome 69, Firefox 153, Safari 13.1)
+- [PictureInPictureWindow.height](https://developer.mozilla.org/docs/Web/API/PictureInPictureWindow/height) (Chrome 69, Firefox 153, Safari 13.1)
+- [<code>resize</code> event](https://developer.mozilla.org/docs/Web/API/PictureInPictureWindow/resize_event) (Chrome 69, Firefox 153, Safari 13.1)
+- [PictureInPictureWindow.width](https://developer.mozilla.org/docs/Web/API/PictureInPictureWindow/width) (Chrome 69, Firefox 153, Safari 13.1)
+
 ### ReadableByteStreamController
 
 - [ReadableByteStreamController](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController) (Chrome 89, Firefox 102, Safari 26.4)
@@ -256,6 +274,10 @@ _This document is automatically generated weekly._
 - <code>types</code> property (Chrome 69, Firefox 149, Safari 16.4)
 - [<code>csp-violation</code> report type](https://developer.mozilla.org/docs/Web/API/CSPViolationReport) (Chrome 74, Firefox 149, Safari 18.4)
 - [ReportingObserver.takeRecords](https://developer.mozilla.org/docs/Web/API/ReportingObserver/takeRecords) (Chrome 69, Firefox 149, Safari 16.4)
+
+### RTCDtlsTransport
+
+- RTCDtlsTransport.getRemoteCertificates (Chrome 72, Firefox 153, Safari 15.4)
 
 ### RTCError
 
@@ -307,6 +329,7 @@ _This document is automatically generated weekly._
 
 - [ShadowRoot.customElementRegistry](https://developer.mozilla.org/docs/Web/API/ShadowRoot/customElementRegistry) (Chrome 146, Firefox 150, Safari 26)
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
+- [ShadowRoot.pictureInPictureElement](https://developer.mozilla.org/docs/Web/API/ShadowRoot/pictureInPictureElement) (Chrome 69, Firefox 153, Safari 13.1)
 
 ### ToggleEvent
 
@@ -702,6 +725,7 @@ _This document is automatically generated weekly._
 - [GPUDevice.popErrorScope](https://developer.mozilla.org/docs/Web/API/GPUDevice/popErrorScope) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.pushErrorScope](https://developer.mozilla.org/docs/Web/API/GPUDevice/pushErrorScope) (Chrome 113, Firefox 141, Safari 26)
 - [GPUDevice.queue](https://developer.mozilla.org/docs/Web/API/GPUDevice/queue) (Chrome 113, Firefox 141, Safari 26)
+- [<code>uncapturederror</code> event](https://developer.mozilla.org/docs/Web/API/GPUDevice/uncapturederror_event) (Chrome 113, Firefox 141, Safari 27)
 
 ### GPUDeviceLostInfo
 
@@ -1241,6 +1265,11 @@ _This document is automatically generated weekly._
 - <code>options.altitudeAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 - <code>options.azimuthAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 
+### ReadableStream
+
+- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 27)
+- ReadableStream.values (Chrome 124, Firefox 110, Safari 27)
+
 ### RTCDataChannel
 
 - <code>Blob</code> value (Chrome 129, Firefox 22, Safari 11)
@@ -1265,6 +1294,7 @@ _This document is automatically generated weekly._
 
 - [RTCRtpReceiver.getParameters](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters) (Chrome 59, Firefox 128, Safari 11)
 - [<code>codecs</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters#codecs) (Chrome 69, Firefox 128, Safari 11)
+- [RTCRtpReceiver.jitterBufferTarget](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/jitterBufferTarget) (Chrome 124, Firefox 115, Safari 27)
 
 ### RTCRtpTransceiver
 
@@ -3926,6 +3956,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2530
+Total Web APIs tracked: 2545
 
-Last updated: 2026-06-28
+Last updated: 2026-07-05
