@@ -262,7 +262,7 @@ _This document is automatically generated weekly._
 
 ### RTCDtlsTransport
 
-- RTCDtlsTransport.getRemoteCertificates (Chrome 72, Firefox 153, Safari 15.4)
+- [RTCDtlsTransport.getRemoteCertificates](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport/getRemoteCertificates) (Chrome 72, Firefox 153, Safari 15.4)
 
 ### RTCError
 
@@ -3593,4 +3593,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2297
 
-Last updated: 2026-07-12
+Last updated: 2026-07-19
