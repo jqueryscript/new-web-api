@@ -1933,10 +1933,6 @@ _This document is automatically generated weekly._
 - [<code>first-contentful-paint</code> named entry](https://developer.mozilla.org/docs/Glossary/First_contentful_paint) (Chrome 60, Firefox 84, Safari 14.1)
 - [PerformancePaintTiming.toJSON](https://developer.mozilla.org/docs/Web/API/PerformancePaintTiming/toJSON) (Chrome 60, Firefox 84, Safari 14.1)
 
-### RTCRtpSender
-
-- [<code>rtcp</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpSender/getParameters#rtcp) (Chrome 69, Firefox 46, Safari 15)
-
 ### RTCRtpTransceiver
 
 - [<code>stop()</code>](https://developer.mozilla.org/docs/Web/API/RTCRtpTransceiver/stop) (Chrome 88, Firefox 59, Safari 11)
@@ -3591,6 +3587,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2297
+Total Web APIs tracked: 2296
 
-Last updated: 2026-07-19
+Last updated: 2026-07-26
