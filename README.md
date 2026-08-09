@@ -262,6 +262,7 @@ _This document is automatically generated weekly._
 
 ### RTCDtlsTransport
 
+- [<code>error</code> event](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport/error_event) (Chrome 72, Firefox 154, Safari 15.4)
 - [RTCDtlsTransport.getRemoteCertificates](https://developer.mozilla.org/docs/Web/API/RTCDtlsTransport/getRemoteCertificates) (Chrome 72, Firefox 153, Safari 15.4)
 
 ### RTCError
@@ -280,6 +281,11 @@ _This document is automatically generated weekly._
 - [RTCErrorEvent.error](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent/error) (Chrome 74, Firefox 150, Safari 15.4)
 - [<code>RTCErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCErrorEvent/RTCErrorEvent) (Chrome 74, Firefox 150, Safari 15.4)
 
+### RTCIceTransport
+
+- [RTCIceTransport.getSelectedCandidatePair](https://developer.mozilla.org/docs/Web/API/RTCIceTransport/getSelectedCandidatePair) (Chrome 75, Firefox 154, Safari 16.4)
+- [<code>selectedcandidatepairchange</code> event](https://developer.mozilla.org/docs/Web/API/RTCIceTransport/selectedcandidatepairchange_event) (Chrome 75, Firefox 154, Safari 16.4)
+
 ### RTCPeerConnectionIceErrorEvent
 
 - [RTCPeerConnectionIceErrorEvent](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
@@ -292,14 +298,25 @@ _This document is automatically generated weekly._
 
 ### RTCStatsReport
 
+- <code>certificate</code> stats (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>base64Certificate</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/base64Certificate) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>fingerprint</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/fingerprint) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>fingerprintAlgorithm</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/fingerprintAlgorithm) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>id</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/id) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>timestamp</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/timestamp) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>type</code> in 'certificate' stats](https://developer.mozilla.org/docs/Web/API/RTCCertificateStats/type) (Chrome 80, Firefox 154, Safari 13.1)
 - [<code>transportId</code> in 'inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCInboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
 - [<code>transportId</code> in 'outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCOutboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
 - [<code>transportId</code> in 'remote-inbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteInboundRtpStreamStats/transportId) (Chrome 80, Firefox 153, Safari 11)
 - [<code>transportId</code> in 'remote-outbound-rtp' stats](https://developer.mozilla.org/docs/Web/API/RTCRemoteOutboundRtpStreamStats/transportId) (Chrome 91, Firefox 153, Safari 11)
 - <code>transport</code> stats (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>bytesReceived</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/bytesReceived) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>bytesSent</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/bytesSent) (Chrome 80, Firefox 154, Safari 13.1)
 - [<code>dtlsCipher</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/dtlsCipher) (Chrome 80, Firefox 153, Safari 14.1)
 - [<code>dtlsState</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/dtlsState) (Chrome 80, Firefox 153, Safari 14.1)
 - [<code>id</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/id) (Chrome 80, Firefox 153, Safari 13.1)
+- [<code>localCertificateId</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/localCertificateId) (Chrome 80, Firefox 154, Safari 13.1)
+- [<code>remoteCertificateId</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/remoteCertificateId) (Chrome 80, Firefox 154, Safari 13.1)
 - [<code>selectedCandidatePairId</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/selectedCandidatePairId) (Chrome 80, Firefox 153, Safari 13.1)
 - [<code>srtpCipher</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/srtpCipher) (Chrome 80, Firefox 153, Safari 14.1)
 - [<code>timestamp</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/timestamp) (Chrome 80, Firefox 153, Safari 13.1)
@@ -1194,10 +1211,6 @@ _This document is automatically generated weekly._
 ### Headers
 
 - [Headers.getSetCookie](https://developer.mozilla.org/docs/Web/API/Headers/getSetCookie) (Chrome 113, Firefox 112, Safari 17)
-
-### InputEvent
-
-- [InputEvent.isComposing](https://developer.mozilla.org/docs/Web/API/InputEvent/isComposing) (Chrome 60, Firefox 31, Safari 16.4)
 
 ### MathMLElement
 
@@ -3587,6 +3600,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2296
+Total Web APIs tracked: 2309
 
-Last updated: 2026-08-02
+Last updated: 2026-08-09
