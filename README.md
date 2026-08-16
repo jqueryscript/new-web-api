@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2026
 
+### Animation
+
+- <code>commitStyles()</code> automatically fills values (Chrome 144, Firefox 142, Safari 26.2)
+
 ### CookieStore
 
 - <code>maxAge</code> option (Chrome 145, Firefox 148, Safari 27)
@@ -3600,6 +3604,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2309
+Total Web APIs tracked: 2310
 
-Last updated: 2026-08-09
+Last updated: 2026-08-16
