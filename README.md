@@ -273,6 +273,7 @@ _This document is automatically generated weekly._
 
 - [RTCError](https://developer.mozilla.org/docs/Web/API/RTCError) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.errorDetail](https://developer.mozilla.org/docs/Web/API/RTCError/errorDetail) (Chrome 74, Firefox 150, Safari 15.4)
+- [RTCError.errorDetail.sctp-failure](https://developer.mozilla.org/docs/Web/API/RTCError/errorDetail#sctp-failure) (Chrome 74, Firefox 155, Safari 15.4)
 - [RTCError.receivedAlert](https://developer.mozilla.org/docs/Web/API/RTCError/receivedAlert) (Chrome 74, Firefox 150, Safari 15.4)
 - [<code>RTCError()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCError/RTCError) (Chrome 74, Firefox 150, Safari 15.4)
 - [RTCError.sctpCauseCode](https://developer.mozilla.org/docs/Web/API/RTCError/sctpCauseCode) (Chrome 74, Firefox 150, Safari 15.4)
@@ -3604,6 +3605,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2310
+Total Web APIs tracked: 2311
 
-Last updated: 2026-08-16
+Last updated: 2026-08-23
