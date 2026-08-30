@@ -334,9 +334,9 @@ _This document is automatically generated weekly._
 
 ### ShadowRoot
 
-- [ShadowRoot.customElementRegistry](https://developer.mozilla.org/docs/Web/API/ShadowRoot/customElementRegistry) (Chrome 146, Firefox 150, Safari 26)
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
 - [ShadowRoot.pictureInPictureElement](https://developer.mozilla.org/docs/Web/API/ShadowRoot/pictureInPictureElement) (Chrome 69, Firefox 153, Safari 13.1)
+- [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 152, Firefox 144, Safari 26)
 
 ### ToggleEvent
 
@@ -415,6 +415,7 @@ _This document is automatically generated weekly._
 - [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
+- WebTransport.protocol (Chrome 143, Firefox 155, Safari 26.4)
 - [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 26.4)
 - [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
 - <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 26.4)
@@ -786,7 +787,6 @@ _This document is automatically generated weekly._
 
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
 - Serializes <code>&lt;</code> and <code>&gt;</code> in attributes as <code>&amp;lt;</code> and <code>&amp;gt;</code> (see <a href="https://github.com/whatwg/html/issues/6235">this spec issue</a>) (Chrome 138, Firefox 140, Safari 26)
-- [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 133, Firefox 144, Safari 26)
 
 ### URLPattern
 
@@ -3607,4 +3607,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2311
 
-Last updated: 2026-08-23
+Last updated: 2026-08-30
