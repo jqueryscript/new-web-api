@@ -415,9 +415,10 @@ _This document is automatically generated weekly._
 - [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
-- WebTransport.protocol (Chrome 143, Firefox 155, Safari 26.4)
+- [WebTransport.protocol](https://developer.mozilla.org/docs/Web/API/WebTransport/protocol) (Chrome 143, Firefox 155, Safari 26.4)
 - [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 26.4)
 - [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
+- <code>options.protocols</code> parameter (Chrome 143, Firefox 155, Safari 26.4)
 - <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 26.4)
 
 ### WebTransportBidirectionalStream
@@ -3605,6 +3606,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2311
+Total Web APIs tracked: 2312
 
-Last updated: 2026-08-30
+Last updated: 2026-09-06
