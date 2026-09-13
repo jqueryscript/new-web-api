@@ -3480,6 +3480,14 @@ _This document is automatically generated weekly._
 
 ## 2016
 
+### CryptoKey
+
+- [CryptoKey](https://developer.mozilla.org/docs/Web/API/CryptoKey) (Chrome 37, Firefox 34, Safari 10)
+- [CryptoKey.algorithm](https://developer.mozilla.org/docs/Web/API/CryptoKey/algorithm) (Chrome 37, Firefox 34, Safari 10)
+- [CryptoKey.extractable](https://developer.mozilla.org/docs/Web/API/CryptoKey/extractable) (Chrome 37, Firefox 34, Safari 10)
+- [CryptoKey.type](https://developer.mozilla.org/docs/Web/API/CryptoKey/type) (Chrome 37, Firefox 34, Safari 10)
+- [CryptoKey.usages](https://developer.mozilla.org/docs/Web/API/CryptoKey/usages) (Chrome 37, Firefox 34, Safari 10)
+
 ### DataTransferItem
 
 - [DataTransferItem](https://developer.mozilla.org/docs/Web/API/DataTransferItem) (Chrome 11, Firefox 50, Safari 5.1)
@@ -3606,6 +3614,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2312
+Total Web APIs tracked: 2317
 
-Last updated: 2026-09-06
+Last updated: 2026-09-13
