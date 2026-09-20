@@ -224,6 +224,11 @@ _This document is automatically generated weekly._
 - [ReadableByteStreamController.enqueue](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/enqueue) (Chrome 89, Firefox 102, Safari 26.4)
 - [ReadableByteStreamController.error](https://developer.mozilla.org/docs/Web/API/ReadableByteStreamController/error) (Chrome 89, Firefox 102, Safari 26.4)
 
+### ReadableStream
+
+- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 27)
+- ReadableStream.values (Chrome 124, Firefox 110, Safari 27)
+
 ### ReadableStreamBYOBReader
 
 - [ReadableStreamBYOBReader](https://developer.mozilla.org/docs/Web/API/ReadableStreamBYOBReader) (Chrome 89, Firefox 102, Safari 26.4)
@@ -300,6 +305,10 @@ _This document is automatically generated weekly._
 - [RTCPeerConnectionIceErrorEvent.port](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/port) (Chrome 81, Firefox 150, Safari 14.1)
 - [<code>RTCPeerConnectionIceErrorEvent()</code> constructor](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/RTCPeerConnectionIceErrorEvent) (Chrome 77, Firefox 150, Safari 14.1)
 - [RTCPeerConnectionIceErrorEvent.url](https://developer.mozilla.org/docs/Web/API/RTCPeerConnectionIceErrorEvent/url) (Chrome 77, Firefox 150, Safari 14.1)
+
+### RTCRtpReceiver
+
+- [RTCRtpReceiver.jitterBufferTarget](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/jitterBufferTarget) (Chrome 124, Firefox 115, Safari 27)
 
 ### RTCStatsReport
 
@@ -923,11 +932,6 @@ _This document is automatically generated weekly._
 - <code>options.altitudeAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 - <code>options.azimuthAngle</code> parameter (Chrome 86, Firefox 131, Safari 18.2)
 
-### ReadableStream
-
-- [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 27)
-- ReadableStream.values (Chrome 124, Firefox 110, Safari 27)
-
 ### RTCDataChannel
 
 - <code>Blob</code> value (Chrome 129, Firefox 22, Safari 11)
@@ -952,7 +956,6 @@ _This document is automatically generated weekly._
 
 - [RTCRtpReceiver.getParameters](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters) (Chrome 59, Firefox 128, Safari 11)
 - [<code>codecs</code> property in returned object](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters#codecs) (Chrome 69, Firefox 128, Safari 11)
-- [RTCRtpReceiver.jitterBufferTarget](https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/jitterBufferTarget) (Chrome 124, Firefox 115, Safari 27)
 
 ### RTCRtpTransceiver
 
@@ -3616,4 +3619,4 @@ _This document is automatically generated weekly._
 
 Total Web APIs tracked: 2317
 
-Last updated: 2026-09-13
+Last updated: 2026-09-20
