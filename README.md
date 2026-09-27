@@ -227,6 +227,7 @@ _This document is automatically generated weekly._
 ### ReadableStream
 
 - [[Symbol.asyncIterator]](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/asyncIterator) (Chrome 124, Firefox 110, Safari 27)
+- [ReadableStream.transferable](https://developer.mozilla.org/docs/Web/API/Web_Workers_API/Transferable_objects) (Chrome 87, Firefox 103, Safari 27)
 - ReadableStream.values (Chrome 124, Firefox 110, Safari 27)
 
 ### ReadableStreamBYOBReader
@@ -3617,6 +3618,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2317
+Total Web APIs tracked: 2318
 
-Last updated: 2026-09-20
+Last updated: 2026-09-27
