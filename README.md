@@ -205,6 +205,7 @@ _This document is automatically generated weekly._
 
 ### PerformanceResourceTiming
 
+- [PerformanceResourceTiming.deliveryType](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/deliveryType) (Chrome 117, Firefox 158, Safari 26.4)
 - [PerformanceResourceTiming.finalResponseHeadersStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/finalResponseHeadersStart) (Chrome 133, Firefox 152, Safari 26.4)
 - [PerformanceResourceTiming.firstInterimResponseStart](https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/firstInterimResponseStart) (Chrome 115, Firefox 152, Safari 26.4)
 
@@ -1221,6 +1222,10 @@ _This document is automatically generated weekly._
 ### Headers
 
 - [Headers.getSetCookie](https://developer.mozilla.org/docs/Web/API/Headers/getSetCookie) (Chrome 113, Firefox 112, Safari 17)
+
+### InputEvent
+
+- [InputEvent.isComposing](https://developer.mozilla.org/docs/Web/API/InputEvent/isComposing) (Chrome 60, Firefox 31, Safari 16.4)
 
 ### MathMLElement
 
@@ -3618,6 +3623,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2318
+Total Web APIs tracked: 2320
 
-Last updated: 2026-10-04
+Last updated: 2026-10-11
