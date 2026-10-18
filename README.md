@@ -112,6 +112,11 @@ _This document is automatically generated weekly._
 - [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 147, Safari 26)
 - [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 147, Safari 26)
 
+### EXT_polygon_offset_clamp
+
+- EXT_polygon_offset_clamp (Chrome 122, Firefox 158, Safari 17.4)
+- EXT_polygon_offset_clamp.polygonOffsetClampEXT (Chrome 122, Firefox 158, Safari 17.4)
+
 ### LargestContentfulPaint
 
 - [LargestContentfulPaint.paintTime](https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint/paintTime) (Chrome 145, Firefox 140, Safari 26.2)
@@ -3623,6 +3628,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2320
+Total Web APIs tracked: 2322
 
-Last updated: 2026-10-11
+Last updated: 2026-10-18
