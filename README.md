@@ -10,6 +10,10 @@ _This document is automatically generated weekly._
 
 - <code>commitStyles()</code> automatically fills values (Chrome 144, Firefox 142, Safari 26.2)
 
+### AnimationTimeline
+
+- [AnimationTimeline.duration](https://developer.mozilla.org/docs/Web/API/AnimationTimeline/duration) (Chrome 115, Firefox 159, Safari 26)
+
 ### CookieStore
 
 - <code>maxAge</code> option (Chrome 145, Firefox 148, Safari 27)
@@ -112,10 +116,19 @@ _This document is automatically generated weekly._
 - [CSSPositionTryRule.name](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/name) (Chrome 125, Firefox 147, Safari 26)
 - [CSSPositionTryRule.style](https://developer.mozilla.org/docs/Web/API/CSSPositionTryRule/style) (Chrome 125, Firefox 147, Safari 26)
 
+### CustomElementRegistry
+
+- [<code>CustomElementRegistry()</code> constructor](https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/CustomElementRegistry) (Chrome 146, Firefox 159, Safari 26)
+- [CustomElementRegistry.initialize](https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/initialize) (Chrome 146, Firefox 159, Safari 26)
+
 ### EXT_polygon_offset_clamp
 
 - EXT_polygon_offset_clamp (Chrome 122, Firefox 158, Safari 17.4)
 - EXT_polygon_offset_clamp.polygonOffsetClampEXT (Chrome 122, Firefox 158, Safari 17.4)
+
+### EXT_texture_norm16
+
+- [EXT_texture_norm16](https://developer.mozilla.org/docs/Web/API/EXT_texture_norm16) (Chrome 87, Firefox 159, Safari 16)
 
 ### LargestContentfulPaint
 
@@ -344,12 +357,20 @@ _This document is automatically generated weekly._
 - [<code>tlsVersion</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/tlsVersion) (Chrome 80, Firefox 153, Safari 14.1)
 - [<code>type</code> in 'transport' stats](https://developer.mozilla.org/docs/Web/API/RTCTransportStats/type) (Chrome 80, Firefox 153, Safari 13.1)
 
+### ScrollTimeline
+
+- [ScrollTimeline](https://developer.mozilla.org/docs/Web/API/ScrollTimeline) (Chrome 115, Firefox 159, Safari 26)
+- [ScrollTimeline.axis](https://developer.mozilla.org/docs/Web/API/ScrollTimeline/axis) (Chrome 115, Firefox 159, Safari 26)
+- [<code>ScrollTimeline()</code> constructor](https://developer.mozilla.org/docs/Web/API/ScrollTimeline/ScrollTimeline) (Chrome 115, Firefox 159, Safari 26)
+- [ScrollTimeline.source](https://developer.mozilla.org/docs/Web/API/ScrollTimeline/source) (Chrome 115, Firefox 159, Safari 26)
+
 ### ServiceWorker
 
 - Support for ECMAScript modules (Chrome 91, Firefox 147, Safari 15)
 
 ### ShadowRoot
 
+- [ShadowRoot.customElementRegistry](https://developer.mozilla.org/docs/Web/API/ShadowRoot/customElementRegistry) (Chrome 146, Firefox 159, Safari 26)
 - Requires <code>TrustedHTML</code> instance when trusted types are enforced (Chrome 83, Firefox 148, Safari 26)
 - [ShadowRoot.pictureInPictureElement](https://developer.mozilla.org/docs/Web/API/ShadowRoot/pictureInPictureElement) (Chrome 69, Firefox 153, Safari 13.1)
 - [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 152, Firefox 144, Safari 26)
@@ -401,6 +422,14 @@ _This document is automatically generated weekly._
 
 - [trustedTypes](https://developer.mozilla.org/docs/Web/API/Window/trustedTypes) (Chrome 83, Firefox 148, Safari 26)
 
+### ViewTimeline
+
+- [ViewTimeline](https://developer.mozilla.org/docs/Web/API/ViewTimeline) (Chrome 115, Firefox 159, Safari 26)
+- [ViewTimeline.endOffset](https://developer.mozilla.org/docs/Web/API/ViewTimeline/endOffset) (Chrome 115, Firefox 159, Safari 26)
+- [ViewTimeline.startOffset](https://developer.mozilla.org/docs/Web/API/ViewTimeline/startOffset) (Chrome 115, Firefox 159, Safari 26)
+- [ViewTimeline.subject](https://developer.mozilla.org/docs/Web/API/ViewTimeline/subject) (Chrome 115, Firefox 159, Safari 26)
+- [<code>ViewTimeline()</code> constructor](https://developer.mozilla.org/docs/Web/API/ViewTimeline/ViewTimeline) (Chrome 115, Firefox 159, Safari 26)
+
 ### ViewTransition
 
 - [ViewTransition.types](https://developer.mozilla.org/docs/Web/API/ViewTransition/types) (Chrome 125, Firefox 147, Safari 18.2)
@@ -433,6 +462,8 @@ _This document is automatically generated weekly._
 - [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.protocol](https://developer.mozilla.org/docs/Web/API/WebTransport/protocol) (Chrome 143, Firefox 155, Safari 26.4)
 - [WebTransport.ready](https://developer.mozilla.org/docs/Web/API/WebTransport/ready) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.reliability](https://developer.mozilla.org/docs/Web/API/WebTransport/reliability) (Chrome 157, Firefox 114, Safari 26.4)
+- [<code>supportsReliableOnly</code> static property](https://developer.mozilla.org/docs/Web/API/WebTransport/supportsReliableOnly_static) (Chrome 157, Firefox 158, Safari 26.4)
 - [<code>WebTransport()</code> constructor](https://developer.mozilla.org/docs/Web/API/WebTransport/WebTransport) (Chrome 97, Firefox 114, Safari 26.4)
 - <code>options.protocols</code> parameter (Chrome 143, Firefox 155, Safari 26.4)
 - <code>options.serverCertificateHashes</code> parameter (Chrome 100, Firefox 125, Safari 26.4)
@@ -3628,6 +3659,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2322
+Total Web APIs tracked: 2338
 
-Last updated: 2026-10-18
+Last updated: 2026-10-25
