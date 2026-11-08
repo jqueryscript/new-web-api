@@ -121,10 +121,19 @@ _This document is automatically generated weekly._
 - [<code>CustomElementRegistry()</code> constructor](https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/CustomElementRegistry) (Chrome 146, Firefox 159, Safari 26)
 - [CustomElementRegistry.initialize](https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/initialize) (Chrome 146, Firefox 159, Safari 26)
 
+### EXT_clip_control
+
+- EXT_clip_control (Chrome 122, Firefox 159, Safari 17.4)
+- EXT_clip_control.clipControlEXT (Chrome 122, Firefox 159, Safari 17.4)
+
 ### EXT_polygon_offset_clamp
 
 - EXT_polygon_offset_clamp (Chrome 122, Firefox 158, Safari 17.4)
 - EXT_polygon_offset_clamp.polygonOffsetClampEXT (Chrome 122, Firefox 158, Safari 17.4)
+
+### EXT_texture_mirror_clamp_to_edge
+
+- EXT_texture_mirror_clamp_to_edge (Chrome 124, Firefox 160, Safari 18)
 
 ### EXT_texture_norm16
 
@@ -375,6 +384,25 @@ _This document is automatically generated weekly._
 - [ShadowRoot.pictureInPictureElement](https://developer.mozilla.org/docs/Web/API/ShadowRoot/pictureInPictureElement) (Chrome 69, Firefox 153, Safari 13.1)
 - [ShadowRoot.referenceTarget](https://developer.mozilla.org/docs/Web/API/ShadowRoot#shadowroot.referencetarget) (Chrome 152, Firefox 144, Safari 26)
 
+### SpeechRecognitionAlternative
+
+- [SpeechRecognitionAlternative](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionAlternative) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionAlternative.confidence](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionAlternative/confidence) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionAlternative.transcript](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionAlternative/transcript) (Chrome 33, Firefox 160, Safari 14.1)
+
+### SpeechRecognitionResult
+
+- [SpeechRecognitionResult](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResult) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionResult.isFinal](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResult/isFinal) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionResult.item](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResult/item) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionResult.length](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResult/length) (Chrome 33, Firefox 160, Safari 14.1)
+
+### SpeechRecognitionResultList
+
+- [SpeechRecognitionResultList](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResultList) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionResultList.item](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResultList/item) (Chrome 33, Firefox 160, Safari 14.1)
+- [SpeechRecognitionResultList.length](https://developer.mozilla.org/docs/Web/API/SpeechRecognitionResultList/length) (Chrome 33, Firefox 160, Safari 14.1)
+
 ### ToggleEvent
 
 - [ToggleEvent.source](https://developer.mozilla.org/docs/Web/API/ToggleEvent/source) (Chrome 140, Firefox 145, Safari 26.5)
@@ -458,6 +486,7 @@ _This document is automatically generated weekly._
 - [WebTransport.createUnidirectionalStream](https://developer.mozilla.org/docs/Web/API/WebTransport/createUnidirectionalStream) (Chrome 97, Firefox 114, Safari 26.4)
 - BYOB reader support (Chrome 109, Firefox 114, Safari 26.4)
 - [WebTransport.datagrams](https://developer.mozilla.org/docs/Web/API/WebTransport/datagrams) (Chrome 97, Firefox 114, Safari 26.4)
+- [WebTransport.draining](https://developer.mozilla.org/docs/Web/API/WebTransport/draining) (Chrome 158, Firefox 155, Safari 26.4)
 - [WebTransport.incomingBidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingBidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.incomingUnidirectionalStreams](https://developer.mozilla.org/docs/Web/API/WebTransport/incomingUnidirectionalStreams) (Chrome 97, Firefox 114, Safari 26.4)
 - [WebTransport.protocol](https://developer.mozilla.org/docs/Web/API/WebTransport/protocol) (Chrome 143, Firefox 155, Safari 26.4)
@@ -3659,6 +3688,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total Web APIs tracked: 2338
+Total Web APIs tracked: 2352
 
-Last updated: 2026-11-01
+Last updated: 2026-11-08
